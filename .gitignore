@@ -11,3 +11,6 @@ dist/
 
 data/jeux/pdf/
 data/jeux/images/
+
+# Dump CSV BGG (téléchargement manuel ponctuel, non versionné)
+data/source/

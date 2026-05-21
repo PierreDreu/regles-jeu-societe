@@ -19,7 +19,7 @@
     { "nom": "Les Loups-Garous de Thiercelieux", "noms": ["The Werewolves of Miller's Hollow", "Les Loups-Garous de Thiercelieux"], "axe": "ambiance-francophone" },
     { "nom": "Time's Up!", "noms": ["Time's Up!", "Time's Up! Family"], "axe": "ambiance-francophone" },
     { "nom": "Saboteur", "noms": ["Saboteur"], "axe": "ambiance" },
-    { "nom": "6 nimmt!", "noms": ["6 nimmt!"], "axe": "familial-incontournable" },
+    { "nom": "6 nimmt!", "noms": ["6 nimmt!", "Take 5"], "axe": "familial-incontournable" },
     { "nom": "Bohnanza", "noms": ["Bohnanza"], "axe": "ambiance" },
     { "nom": "Tokaido", "noms": ["Tokaido"], "axe": "familial-francophone" },
     { "nom": "Sherlock Holmes Détective Conseil", "noms": ["Sherlock Holmes Consulting Detective", "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases"], "axe": "enquete-francophone" },
@@ -78,6 +78,6 @@
     { "nom": "Akropolis", "noms": ["Akropolis"], "axe": "familial-francophone" },
     { "nom": "Innovation", "noms": ["Innovation"], "axe": "moyen-experts" },
     { "nom": "Yokohama", "noms": ["Yokohama"], "axe": "experts" },
-    { "nom": "Five Tribes", "noms": ["Five Tribes"], "axe": "experts-francophone" }
+    { "nom": "Five Tribes", "noms": ["Five Tribes", "Five Tribes: The Djinns of Naqala"], "axe": "experts-francophone" }
   ]
 }

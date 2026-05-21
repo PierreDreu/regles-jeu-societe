@@ -1,0 +1,698 @@
+{
+  "_description": "Incontournables francophones (seed manuel résolu via le CSV BGG)",
+  "jeux": [
+    {
+      "bggId": 9209,
+      "nom": "Ticket to Ride",
+      "anneeSortie": 2004,
+      "bggRank": 261,
+      "axes": [
+        "familial-incontournable"
+      ]
+    },
+    {
+      "bggId": 13,
+      "nom": "Catan",
+      "anneeSortie": 1995,
+      "bggRank": 616,
+      "axes": [
+        "familial-incontournable"
+      ]
+    },
+    {
+      "bggId": 822,
+      "nom": "Carcassonne",
+      "anneeSortie": 2000,
+      "bggRank": 238,
+      "axes": [
+        "familial-incontournable"
+      ]
+    },
+    {
+      "bggId": 68448,
+      "nom": "7 Wonders",
+      "anneeSortie": 2010,
+      "bggRank": 117,
+      "axes": [
+        "familial-incontournable"
+      ]
+    },
+    {
+      "bggId": 173346,
+      "nom": "7 Wonders Duel",
+      "anneeSortie": 2015,
+      "bggRank": 24,
+      "axes": [
+        "deux-joueurs"
+      ]
+    },
+    {
+      "bggId": 39856,
+      "nom": "Dixit",
+      "anneeSortie": 2008,
+      "bggRank": 425,
+      "axes": [
+        "familial-francophone"
+      ]
+    },
+    {
+      "bggId": 178900,
+      "nom": "Codenames",
+      "anneeSortie": 2015,
+      "bggRank": 162,
+      "axes": [
+        "ambiance"
+      ]
+    },
+    {
+      "bggId": 148228,
+      "nom": "Splendor",
+      "anneeSortie": 2014,
+      "bggRank": 243,
+      "axes": [
+        "familial-francophone"
+      ]
+    },
+    {
+      "bggId": 230802,
+      "nom": "Azul",
+      "anneeSortie": 2017,
+      "bggRank": 99,
+      "axes": [
+        "familial-incontournable"
+      ]
+    },
+    {
+      "bggId": 30549,
+      "nom": "Pandemic",
+      "anneeSortie": 2008,
+      "bggRank": 171,
+      "axes": [
+        "cooperatif-incontournable"
+      ]
+    },
+    {
+      "bggId": 161936,
+      "nom": "Pandemic Legacy: Season 1",
+      "anneeSortie": 2015,
+      "bggRank": 3,
+      "axes": [
+        "cooperatif-incontournable"
+      ]
+    },
+    {
+      "bggId": 205398,
+      "nom": "Citadels",
+      "anneeSortie": 2016,
+      "bggRank": 564,
+      "axes": [
+        "familial-francophone"
+      ]
+    },
+    {
+      "bggId": 147151,
+      "nom": "Concept",
+      "anneeSortie": 2013,
+      "bggRank": 1132,
+      "axes": [
+        "ambiance-francophone"
+      ]
+    },
+    {
+      "bggId": 181304,
+      "nom": "Mysterium",
+      "anneeSortie": 2015,
+      "bggRank": 447,
+      "axes": [
+        "cooperatif-francophone"
+      ]
+    },
+    {
+      "bggId": 25821,
+      "nom": "The Werewolves of Miller's Hollow",
+      "anneeSortie": 2001,
+      "bggRank": 1524,
+      "axes": [
+        "ambiance-francophone"
+      ]
+    },
+    {
+      "bggId": 1353,
+      "nom": "Time's Up!",
+      "anneeSortie": 1999,
+      "bggRank": 785,
+      "axes": [
+        "ambiance-francophone"
+      ]
+    },
+    {
+      "bggId": 9220,
+      "nom": "Saboteur",
+      "anneeSortie": 2004,
+      "bggRank": 1545,
+      "axes": [
+        "ambiance"
+      ]
+    },
+    {
+      "bggId": 432,
+      "nom": "Take 5",
+      "anneeSortie": 1994,
+      "bggRank": 676,
+      "axes": [
+        "familial-incontournable"
+      ]
+    },
+    {
+      "bggId": 11,
+      "nom": "Bohnanza",
+      "anneeSortie": 1997,
+      "bggRank": 546,
+      "axes": [
+        "ambiance"
+      ]
+    },
+    {
+      "bggId": 123540,
+      "nom": "Tokaido",
+      "anneeSortie": 2012,
+      "bggRank": 841,
+      "axes": [
+        "familial-francophone"
+      ]
+    },
+    {
+      "bggId": 2511,
+      "nom": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+      "anneeSortie": 1981,
+      "bggRank": 200,
+      "axes": [
+        "enquete-francophone"
+      ]
+    },
+    {
+      "bggId": 213460,
+      "nom": "Unlock!: Escape Adventures",
+      "anneeSortie": 2017,
+      "bggRank": 698,
+      "axes": [
+        "escape-francophone"
+      ]
+    },
+    {
+      "bggId": 203420,
+      "nom": "EXIT: The Game – The Abandoned Cabin",
+      "anneeSortie": 2016,
+      "bggRank": 412,
+      "axes": [
+        "escape"
+      ]
+    },
+    {
+      "bggId": 225694,
+      "nom": "Decrypto",
+      "anneeSortie": 2018,
+      "bggRank": 116,
+      "axes": [
+        "ambiance-francophone"
+      ]
+    },
+    {
+      "bggId": 254640,
+      "nom": "Just One",
+      "anneeSortie": 2018,
+      "bggRank": 157,
+      "axes": [
+        "ambiance-francophone"
+      ]
+    },
+    {
+      "bggId": 150145,
+      "nom": "Skull King",
+      "anneeSortie": 2013,
+      "bggRank": 294,
+      "axes": [
+        "ambiance"
+      ]
+    },
+    {
+      "bggId": 284083,
+      "nom": "The Crew: The Quest for Planet Nine",
+      "anneeSortie": 2019,
+      "bggRank": 93,
+      "axes": [
+        "cooperatif"
+      ]
+    },
+    {
+      "bggId": 624,
+      "nom": "Quoridor",
+      "anneeSortie": 1997,
+      "bggRank": 1682,
+      "axes": [
+        "deux-joueurs-francophone"
+      ]
+    },
+    {
+      "bggId": 526,
+      "nom": "Abalone",
+      "anneeSortie": 1987,
+      "bggRank": 2169,
+      "axes": [
+        "deux-joueurs-francophone"
+      ]
+    },
+    {
+      "bggId": 2655,
+      "nom": "Hive",
+      "anneeSortie": 2001,
+      "bggRank": 334,
+      "axes": [
+        "deux-joueurs"
+      ]
+    },
+    {
+      "bggId": 163412,
+      "nom": "Patchwork",
+      "anneeSortie": 2014,
+      "bggRank": 146,
+      "axes": [
+        "deux-joueurs"
+      ]
+    },
+    {
+      "bggId": 266192,
+      "nom": "Wingspan",
+      "anneeSortie": 2019,
+      "bggRank": 38,
+      "axes": [
+        "moyen-experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 167791,
+      "nom": "Terraforming Mars",
+      "anneeSortie": 2016,
+      "bggRank": 9,
+      "axes": [
+        "moyen-experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 342942,
+      "nom": "Ark Nova",
+      "anneeSortie": 2021,
+      "bggRank": 2,
+      "axes": [
+        "moyen-experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 169786,
+      "nom": "Scythe",
+      "anneeSortie": 2016,
+      "bggRank": 26,
+      "axes": [
+        "moyen-experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 162886,
+      "nom": "Spirit Island",
+      "anneeSortie": 2017,
+      "bggRank": 11,
+      "axes": [
+        "cooperatif-experts"
+      ]
+    },
+    {
+      "bggId": 174430,
+      "nom": "Gloomhaven",
+      "anneeSortie": 2017,
+      "bggRank": 4,
+      "axes": [
+        "experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 295770,
+      "nom": "Frosthaven",
+      "anneeSortie": 2022,
+      "bggRank": 21,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 224517,
+      "nom": "Brass: Birmingham",
+      "anneeSortie": 2018,
+      "bggRank": 1,
+      "axes": [
+        "experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 28720,
+      "nom": "Brass: Lancashire",
+      "anneeSortie": 2007,
+      "bggRank": 22,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 233078,
+      "nom": "Twilight Imperium: Fourth Edition",
+      "anneeSortie": 2017,
+      "bggRank": 7,
+      "axes": [
+        "experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 316554,
+      "nom": "Dune: Imperium",
+      "anneeSortie": 2020,
+      "bggRank": 6,
+      "axes": [
+        "moyen-experts"
+      ]
+    },
+    {
+      "bggId": 31260,
+      "nom": "Agricola",
+      "anneeSortie": 2007,
+      "bggRank": 64,
+      "axes": [
+        "experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 102794,
+      "nom": "Caverna: The Cave Farmers",
+      "anneeSortie": 2013,
+      "bggRank": 62,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 35677,
+      "nom": "Le Havre",
+      "anneeSortie": 2008,
+      "bggRank": 81,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 3076,
+      "nom": "Puerto Rico",
+      "anneeSortie": 2002,
+      "bggRank": 56,
+      "axes": [
+        "experts-incontournable"
+      ]
+    },
+    {
+      "bggId": 28143,
+      "nom": "Race for the Galaxy",
+      "anneeSortie": 2007,
+      "bggRank": 94,
+      "axes": [
+        "moyen-experts"
+      ]
+    },
+    {
+      "bggId": 96848,
+      "nom": "Mage Knight Board Game",
+      "anneeSortie": 2011,
+      "bggRank": 39,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 18602,
+      "nom": "Caylus",
+      "anneeSortie": 2005,
+      "bggRank": 139,
+      "axes": [
+        "experts-francophone"
+      ]
+    },
+    {
+      "bggId": 182028,
+      "nom": "Through the Ages: A New Story of Civilization",
+      "anneeSortie": 2015,
+      "bggRank": 18,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 2651,
+      "nom": "Power Grid",
+      "anneeSortie": 2004,
+      "bggRank": 73,
+      "axes": [
+        "moyen-experts"
+      ]
+    },
+    {
+      "bggId": 42,
+      "nom": "Tigris & Euphrates",
+      "anneeSortie": 1997,
+      "bggRank": 131,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 93,
+      "nom": "El Grande",
+      "anneeSortie": 1995,
+      "bggRank": 102,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 36218,
+      "nom": "Dominion",
+      "anneeSortie": 2008,
+      "bggRank": 145,
+      "axes": [
+        "moyen-incontournable"
+      ]
+    },
+    {
+      "bggId": 147020,
+      "nom": "Star Realms",
+      "anneeSortie": 2014,
+      "bggRank": 174,
+      "axes": [
+        "deux-joueurs"
+      ]
+    },
+    {
+      "bggId": 209778,
+      "nom": "Magic Maze",
+      "anneeSortie": 2017,
+      "bggRank": 794,
+      "axes": [
+        "cooperatif-francophone"
+      ]
+    },
+    {
+      "bggId": 271324,
+      "nom": "It's a Wonderful World",
+      "anneeSortie": 2019,
+      "bggRank": 185,
+      "axes": [
+        "moyen-francophone"
+      ]
+    },
+    {
+      "bggId": 233867,
+      "nom": "Welcome To...",
+      "anneeSortie": 2018,
+      "bggRank": 213,
+      "axes": [
+        "moyen-francophone"
+      ]
+    },
+    {
+      "bggId": 303672,
+      "nom": "Trek 12: Himalaya",
+      "anneeSortie": 2020,
+      "bggRank": 2212,
+      "axes": [
+        "moyen-francophone"
+      ]
+    },
+    {
+      "bggId": 191862,
+      "nom": "Imhotep",
+      "anneeSortie": 2016,
+      "bggRank": 622,
+      "axes": [
+        "moyen"
+      ]
+    },
+    {
+      "bggId": 204583,
+      "nom": "Kingdomino",
+      "anneeSortie": 2016,
+      "bggRank": 329,
+      "axes": [
+        "familial-francophone"
+      ]
+    },
+    {
+      "bggId": 232043,
+      "nom": "Queendomino",
+      "anneeSortie": 2017,
+      "bggRank": 710,
+      "axes": [
+        "familial-francophone"
+      ]
+    },
+    {
+      "bggId": 312484,
+      "nom": "Lost Ruins of Arnak",
+      "anneeSortie": 2020,
+      "bggRank": 30,
+      "axes": [
+        "moyen-experts"
+      ]
+    },
+    {
+      "bggId": 199792,
+      "nom": "Everdell",
+      "anneeSortie": 2018,
+      "bggRank": 43,
+      "axes": [
+        "moyen-experts"
+      ]
+    },
+    {
+      "bggId": 295947,
+      "nom": "Cascadia",
+      "anneeSortie": 2021,
+      "bggRank": 60,
+      "axes": [
+        "familial-incontournable"
+      ]
+    },
+    {
+      "bggId": 276025,
+      "nom": "Maracaibo",
+      "anneeSortie": 2019,
+      "bggRank": 88,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 319966,
+      "nom": "The King Is Dead: Second Edition",
+      "anneeSortie": 2020,
+      "bggRank": 371,
+      "axes": [
+        "moyen"
+      ]
+    },
+    {
+      "bggId": 155821,
+      "nom": "Inis",
+      "anneeSortie": 2016,
+      "bggRank": 125,
+      "axes": [
+        "experts-francophone"
+      ]
+    },
+    {
+      "bggId": 170216,
+      "nom": "Blood Rage",
+      "anneeSortie": 2015,
+      "bggRank": 65,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 237182,
+      "nom": "Root",
+      "anneeSortie": 2018,
+      "bggRank": 34,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 366013,
+      "nom": "Heat: Pedal to the Metal",
+      "anneeSortie": 2022,
+      "bggRank": 47,
+      "axes": [
+        "moyen-francophone"
+      ]
+    },
+    {
+      "bggId": 328479,
+      "nom": "Living Forest",
+      "anneeSortie": 2021,
+      "bggRank": 761,
+      "axes": [
+        "moyen-francophone"
+      ]
+    },
+    {
+      "bggId": 364073,
+      "nom": "Splendor Duel",
+      "anneeSortie": 2022,
+      "bggRank": 111,
+      "axes": [
+        "deux-joueurs-francophone"
+      ]
+    },
+    {
+      "bggId": 357563,
+      "nom": "Akropolis",
+      "anneeSortie": 2022,
+      "bggRank": 450,
+      "axes": [
+        "familial-francophone"
+      ]
+    },
+    {
+      "bggId": 63888,
+      "nom": "Innovation",
+      "anneeSortie": 2010,
+      "bggRank": 378,
+      "axes": [
+        "moyen-experts"
+      ]
+    },
+    {
+      "bggId": 196340,
+      "nom": "Yokohama",
+      "anneeSortie": 2016,
+      "bggRank": 156,
+      "axes": [
+        "experts"
+      ]
+    },
+    {
+      "bggId": 157354,
+      "nom": "Five Tribes: The Djinns of Naqala",
+      "anneeSortie": 2014,
+      "bggRank": 96,
+      "axes": [
+        "experts-francophone"
+      ]
+    }
+  ]
+}

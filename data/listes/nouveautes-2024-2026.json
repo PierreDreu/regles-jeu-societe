@@ -1,0 +1,5639 @@
+{
+  "_description": "Nouveautés 2024-2026 avec ≥ 200 votes",
+  "jeux": [
+    {
+      "bggId": 418059,
+      "nom": "SETI: Search for Extraterrestrial Intelligence",
+      "anneeSortie": 2024,
+      "bggRank": 16
+    },
+    {
+      "bggId": 338960,
+      "nom": "Slay the Spire: The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 17
+    },
+    {
+      "bggId": 421006,
+      "nom": "The Lord of the Rings: Duel for Middle-earth",
+      "anneeSortie": 2024,
+      "bggRank": 19
+    },
+    {
+      "bggId": 414317,
+      "nom": "Harmonies",
+      "anneeSortie": 2024,
+      "bggRank": 55
+    },
+    {
+      "bggId": 367966,
+      "nom": "Endeavor: Deep Sea",
+      "anneeSortie": 2024,
+      "bggRank": 79
+    },
+    {
+      "bggId": 436217,
+      "nom": "The Lord of the Rings: Fate of the Fellowship",
+      "anneeSortie": 2025,
+      "bggRank": 87
+    },
+    {
+      "bggId": 413246,
+      "nom": "Bomb Busters",
+      "anneeSortie": 2024,
+      "bggRank": 97
+    },
+    {
+      "bggId": 359871,
+      "nom": "Arcs",
+      "anneeSortie": 2024,
+      "bggRank": 101
+    },
+    {
+      "bggId": 391137,
+      "nom": "Galactic Cruise",
+      "anneeSortie": 2025,
+      "bggRank": 121
+    },
+    {
+      "bggId": 410201,
+      "nom": "Wyrmspan",
+      "anneeSortie": 2024,
+      "bggRank": 124
+    },
+    {
+      "bggId": 429293,
+      "nom": "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game",
+      "anneeSortie": 2025,
+      "bggRank": 150
+    },
+    {
+      "bggId": 358661,
+      "nom": "Andromeda's Edge",
+      "anneeSortie": 2024,
+      "bggRank": 175
+    },
+    {
+      "bggId": 400602,
+      "nom": "Civolution",
+      "anneeSortie": 2024,
+      "bggRank": 177
+    },
+    {
+      "bggId": 356080,
+      "nom": "The Elder Scrolls: Betrayal of the Second Era",
+      "anneeSortie": 2025,
+      "bggRank": 210
+    },
+    {
+      "bggId": 420033,
+      "nom": "Vantage",
+      "anneeSortie": 2025,
+      "bggRank": 214
+    },
+    {
+      "bggId": 416851,
+      "nom": "Castle Combo",
+      "anneeSortie": 2024,
+      "bggRank": 225
+    },
+    {
+      "bggId": 400366,
+      "nom": "Wondrous Creatures",
+      "anneeSortie": 2024,
+      "bggRank": 251
+    },
+    {
+      "bggId": 367150,
+      "nom": "Dune: War for Arrakis",
+      "anneeSortie": 2024,
+      "bggRank": 257
+    },
+    {
+      "bggId": 375459,
+      "nom": "Speakeasy",
+      "anneeSortie": 2025,
+      "bggRank": 266
+    },
+    {
+      "bggId": 329500,
+      "nom": "Unconscious Mind",
+      "anneeSortie": 2024,
+      "bggRank": 309
+    },
+    {
+      "bggId": 446497,
+      "nom": "Hot Streak",
+      "anneeSortie": 2025,
+      "bggRank": 364
+    },
+    {
+      "bggId": 411567,
+      "nom": "The Gang",
+      "anneeSortie": 2024,
+      "bggRank": 381
+    },
+    {
+      "bggId": 434654,
+      "nom": "Toy Battle",
+      "anneeSortie": 2025,
+      "bggRank": 387
+    },
+    {
+      "bggId": 219650,
+      "nom": "Arydia: The Paths We Dare Tread",
+      "anneeSortie": 2025,
+      "bggRank": 405
+    },
+    {
+      "bggId": 384213,
+      "nom": "Fromage",
+      "anneeSortie": 2024,
+      "bggRank": 413
+    },
+    {
+      "bggId": 368173,
+      "nom": "Let's Go! To Japan",
+      "anneeSortie": 2024,
+      "bggRank": 428
+    },
+    {
+      "bggId": 408180,
+      "nom": "Shackleton Base: A Journey to the Moon",
+      "anneeSortie": 2024,
+      "bggRank": 431
+    },
+    {
+      "bggId": 417197,
+      "nom": "Rebirth",
+      "anneeSortie": 2024,
+      "bggRank": 442
+    },
+    {
+      "bggId": 436126,
+      "nom": "Finspan",
+      "anneeSortie": 2025,
+      "bggRank": 460
+    },
+    {
+      "bggId": 381248,
+      "nom": "Nemesis: Retaliation",
+      "anneeSortie": 2025,
+      "bggRank": 467
+    },
+    {
+      "bggId": 454103,
+      "nom": "Magical Athlete",
+      "anneeSortie": 2025,
+      "bggRank": 474
+    },
+    {
+      "bggId": 386368,
+      "nom": "Ezra and Nehemiah",
+      "anneeSortie": 2024,
+      "bggRank": 477
+    },
+    {
+      "bggId": 420087,
+      "nom": "Flip 7",
+      "anneeSortie": 2024,
+      "bggRank": 518
+    },
+    {
+      "bggId": 404431,
+      "nom": "Men-Nefer",
+      "anneeSortie": 2024,
+      "bggRank": 551
+    },
+    {
+      "bggId": 422732,
+      "nom": "Agent Avenue",
+      "anneeSortie": 2024,
+      "bggRank": 576
+    },
+    {
+      "bggId": 371330,
+      "nom": "Luthier",
+      "anneeSortie": 2025,
+      "bggRank": 599
+    },
+    {
+      "bggId": 406652,
+      "nom": "Compile: Main 1",
+      "anneeSortie": 2024,
+      "bggRank": 620
+    },
+    {
+      "bggId": 425549,
+      "nom": "Moon Colony Bloodbath",
+      "anneeSortie": 2025,
+      "bggRank": 621
+    },
+    {
+      "bggId": 424219,
+      "nom": "Zenith",
+      "anneeSortie": 2025,
+      "bggRank": 624
+    },
+    {
+      "bggId": 387866,
+      "nom": "Star Wars: Unlimited",
+      "anneeSortie": 2024,
+      "bggRank": 633
+    },
+    {
+      "bggId": 415776,
+      "nom": "Kingdom Legacy: Feudal Kingdom",
+      "anneeSortie": 2024,
+      "bggRank": 640
+    },
+    {
+      "bggId": 380619,
+      "nom": "Cyclades: Legendary Edition",
+      "anneeSortie": 2024,
+      "bggRank": 687
+    },
+    {
+      "bggId": 440540,
+      "nom": "Take Time",
+      "anneeSortie": 2025,
+      "bggRank": 708
+    },
+    {
+      "bggId": 403441,
+      "nom": "Windmill Valley",
+      "anneeSortie": 2024,
+      "bggRank": 739
+    },
+    {
+      "bggId": 286063,
+      "nom": "The 7th Citadel",
+      "anneeSortie": 2024,
+      "bggRank": 740
+    },
+    {
+      "bggId": 424981,
+      "nom": "Eternal Decks",
+      "anneeSortie": 2025,
+      "bggRank": 743
+    },
+    {
+      "bggId": 298231,
+      "nom": "Skyrise",
+      "anneeSortie": 2024,
+      "bggRank": 746
+    },
+    {
+      "bggId": 399941,
+      "nom": "River of Gold",
+      "anneeSortie": 2024,
+      "bggRank": 751
+    },
+    {
+      "bggId": 347305,
+      "nom": "Inventions: Evolution of Ideas",
+      "anneeSortie": 2024,
+      "bggRank": 768
+    },
+    {
+      "bggId": 444481,
+      "nom": "Star Wars: Battle of Hoth",
+      "anneeSortie": 2025,
+      "bggRank": 775
+    },
+    {
+      "bggId": 434367,
+      "nom": "Nippon: Zaibatsu",
+      "anneeSortie": 2026,
+      "bggRank": 803
+    },
+    {
+      "bggId": 422541,
+      "nom": "Star Trek: Captain's Chair",
+      "anneeSortie": 2025,
+      "bggRank": 815
+    },
+    {
+      "bggId": 357873,
+      "nom": "The Old King's Crown",
+      "anneeSortie": 2025,
+      "bggRank": 819
+    },
+    {
+      "bggId": 434906,
+      "nom": "Tag Team",
+      "anneeSortie": 2025,
+      "bggRank": 821
+    },
+    {
+      "bggId": 373600,
+      "nom": "Cthulhu: Death May Die – Fear of the Unknown",
+      "anneeSortie": 2024,
+      "bggRank": 851
+    },
+    {
+      "bggId": 367518,
+      "nom": "Imperium: Horizons",
+      "anneeSortie": 2024,
+      "bggRank": 854
+    },
+    {
+      "bggId": 358737,
+      "nom": "Leviathan Wilds",
+      "anneeSortie": 2024,
+      "bggRank": 858
+    },
+    {
+      "bggId": 303731,
+      "nom": "Primal: The Awakening",
+      "anneeSortie": 2024,
+      "bggRank": 871
+    },
+    {
+      "bggId": 441696,
+      "nom": "Sanctuary",
+      "anneeSortie": 2025,
+      "bggRank": 872
+    },
+    {
+      "bggId": 447243,
+      "nom": "Duel for Cardia",
+      "anneeSortie": 2025,
+      "bggRank": 876
+    },
+    {
+      "bggId": 407297,
+      "nom": "River Valley Glassworks",
+      "anneeSortie": 2024,
+      "bggRank": 896
+    },
+    {
+      "bggId": 393325,
+      "nom": "Captain Flip",
+      "anneeSortie": 2024,
+      "bggRank": 898
+    },
+    {
+      "bggId": 393672,
+      "nom": "Gloomhaven: Buttons & Bugs",
+      "anneeSortie": 2024,
+      "bggRank": 916
+    },
+    {
+      "bggId": 393429,
+      "nom": "Critter Kitchen",
+      "anneeSortie": 2025,
+      "bggRank": 920
+    },
+    {
+      "bggId": 385331,
+      "nom": "Creature Caravan",
+      "anneeSortie": 2024,
+      "bggRank": 932
+    },
+    {
+      "bggId": 420498,
+      "nom": "Unstoppable",
+      "anneeSortie": 2025,
+      "bggRank": 954
+    },
+    {
+      "bggId": 393333,
+      "nom": "Galileo Galilei",
+      "anneeSortie": 2024,
+      "bggRank": 974
+    },
+    {
+      "bggId": 387378,
+      "nom": "MLEM: Space Agency",
+      "anneeSortie": 2024,
+      "bggRank": 981
+    },
+    {
+      "bggId": 402676,
+      "nom": "Cities",
+      "anneeSortie": 2024,
+      "bggRank": 983
+    },
+    {
+      "bggId": 422674,
+      "nom": "Saltfjord",
+      "anneeSortie": 2024,
+      "bggRank": 989
+    },
+    {
+      "bggId": 456440,
+      "nom": "Cozy Stickerville",
+      "anneeSortie": 2026,
+      "bggRank": 1020
+    },
+    {
+      "bggId": 420805,
+      "nom": "Black Forest",
+      "anneeSortie": 2024,
+      "bggRank": 1034
+    },
+    {
+      "bggId": 422780,
+      "nom": "Mistborn: The Deckbuilding Game",
+      "anneeSortie": 2024,
+      "bggRank": 1049
+    },
+    {
+      "bggId": 374595,
+      "nom": "Kelp: Shark vs Octopus",
+      "anneeSortie": 2024,
+      "bggRank": 1065
+    },
+    {
+      "bggId": 402283,
+      "nom": "Courtisans",
+      "anneeSortie": 2024,
+      "bggRank": 1071
+    },
+    {
+      "bggId": 393165,
+      "nom": "Inferno",
+      "anneeSortie": 2024,
+      "bggRank": 1116
+    },
+    {
+      "bggId": 402679,
+      "nom": "Rock Hard: 1977",
+      "anneeSortie": 2024,
+      "bggRank": 1121
+    },
+    {
+      "bggId": 425428,
+      "nom": "Survive The Island",
+      "anneeSortie": 2024,
+      "bggRank": 1138
+    },
+    {
+      "bggId": 438402,
+      "nom": "Forest Shuffle: Dartmoor",
+      "anneeSortie": 2025,
+      "bggRank": 1182
+    },
+    {
+      "bggId": 387514,
+      "nom": "Stonespine Architects",
+      "anneeSortie": 2024,
+      "bggRank": 1207
+    },
+    {
+      "bggId": 408637,
+      "nom": "The Anarchy",
+      "anneeSortie": 2025,
+      "bggRank": 1208
+    },
+    {
+      "bggId": 419195,
+      "nom": "Fishing",
+      "anneeSortie": 2024,
+      "bggRank": 1230
+    },
+    {
+      "bggId": 270871,
+      "nom": "Agemonia",
+      "anneeSortie": 2024,
+      "bggRank": 1242
+    },
+    {
+      "bggId": 388367,
+      "nom": "Innovation Ultimate",
+      "anneeSortie": 2025,
+      "bggRank": 1268
+    },
+    {
+      "bggId": 424774,
+      "nom": "Dorfromantik: Sakura",
+      "anneeSortie": 2024,
+      "bggRank": 1298
+    },
+    {
+      "bggId": 411875,
+      "nom": "Pixies",
+      "anneeSortie": 2024,
+      "bggRank": 1303
+    },
+    {
+      "bggId": 425005,
+      "nom": "Everdell Duo",
+      "anneeSortie": 2025,
+      "bggRank": 1311
+    },
+    {
+      "bggId": 436215,
+      "nom": "The Hobbit: There and Back Again",
+      "anneeSortie": 2025,
+      "bggRank": 1331
+    },
+    {
+      "bggId": 425445,
+      "nom": "Sweet Lands",
+      "anneeSortie": 2025,
+      "bggRank": 1337
+    },
+    {
+      "bggId": 412865,
+      "nom": "Foundations of Metropolis",
+      "anneeSortie": 2024,
+      "bggRank": 1344
+    },
+    {
+      "bggId": 371932,
+      "nom": "Explorers of Navoria",
+      "anneeSortie": 2024,
+      "bggRank": 1351
+    },
+    {
+      "bggId": 422332,
+      "nom": "Star Wars: The Deckbuilding Game – Clone Wars Edition",
+      "anneeSortie": 2024,
+      "bggRank": 1366
+    },
+    {
+      "bggId": 440007,
+      "nom": "The Druids of Edora",
+      "anneeSortie": 2025,
+      "bggRank": 1369
+    },
+    {
+      "bggId": 407343,
+      "nom": "Ironwood",
+      "anneeSortie": 2024,
+      "bggRank": 1371
+    },
+    {
+      "bggId": 397931,
+      "nom": "Deep Regrets",
+      "anneeSortie": 2025,
+      "bggRank": 1388
+    },
+    {
+      "bggId": 386166,
+      "nom": "Santorini: Pantheon Edition",
+      "anneeSortie": 2025,
+      "bggRank": 1403
+    },
+    {
+      "bggId": 403754,
+      "nom": "Middle Ages",
+      "anneeSortie": 2024,
+      "bggRank": 1420
+    },
+    {
+      "bggId": 437306,
+      "nom": "Parks (Second Edition)",
+      "anneeSortie": 2025,
+      "bggRank": 1428
+    },
+    {
+      "bggId": 382518,
+      "nom": "Sankoré: The Pride of Mansa Musa",
+      "anneeSortie": 2024,
+      "bggRank": 1438
+    },
+    {
+      "bggId": 338376,
+      "nom": "A Gest of Robin Hood",
+      "anneeSortie": 2024,
+      "bggRank": 1440
+    },
+    {
+      "bggId": 378387,
+      "nom": "Inventors of the South Tigris",
+      "anneeSortie": 2024,
+      "bggRank": 1456
+    },
+    {
+      "bggId": 408547,
+      "nom": "Things in Rings",
+      "anneeSortie": 2024,
+      "bggRank": 1463
+    },
+    {
+      "bggId": 393307,
+      "nom": "Tower Up",
+      "anneeSortie": 2024,
+      "bggRank": 1495
+    },
+    {
+      "bggId": 448271,
+      "nom": "The Lord of the Rings: The Two Towers – Trick-Taking Game",
+      "anneeSortie": 2026,
+      "bggRank": 1525
+    },
+    {
+      "bggId": 447174,
+      "nom": "A Wild Venture",
+      "anneeSortie": 2025,
+      "bggRank": 1527
+    },
+    {
+      "bggId": 383010,
+      "nom": "Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic",
+      "anneeSortie": 2024,
+      "bggRank": 1534
+    },
+    {
+      "bggId": 449185,
+      "nom": "FlipToons",
+      "anneeSortie": 2025,
+      "bggRank": 1537
+    },
+    {
+      "bggId": 429405,
+      "nom": "Orloj: The Prague Astronomical Clock",
+      "anneeSortie": 2025,
+      "bggRank": 1553
+    },
+    {
+      "bggId": 404538,
+      "nom": "Kinfire Delve: Scorn's Stockade",
+      "anneeSortie": 2024,
+      "bggRank": 1566
+    },
+    {
+      "bggId": 402111,
+      "nom": "Kronologic: Paris 1920",
+      "anneeSortie": 2024,
+      "bggRank": 1577
+    },
+    {
+      "bggId": 381247,
+      "nom": "Dragon Eclipse",
+      "anneeSortie": 2025,
+      "bggRank": 1605
+    },
+    {
+      "bggId": 415945,
+      "nom": "Unmatched: Slings and Arrows",
+      "anneeSortie": 2024,
+      "bggRank": 1611
+    },
+    {
+      "bggId": 426513,
+      "nom": "Emberleaf",
+      "anneeSortie": 2025,
+      "bggRank": 1614
+    },
+    {
+      "bggId": 380135,
+      "nom": "Dead Cells: The Rogue-Lite Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 1629
+    },
+    {
+      "bggId": 406174,
+      "nom": "Kinfire Delve: Callous' Lab",
+      "anneeSortie": 2024,
+      "bggRank": 1644
+    },
+    {
+      "bggId": 355326,
+      "nom": "Heroes of Might and Magic III: The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 1673
+    },
+    {
+      "bggId": 402663,
+      "nom": "Salton Sea",
+      "anneeSortie": 2024,
+      "bggRank": 1679
+    },
+    {
+      "bggId": 429863,
+      "nom": "Covenant",
+      "anneeSortie": 2025,
+      "bggRank": 1690
+    },
+    {
+      "bggId": 454672,
+      "nom": "Boss Fighters QR",
+      "anneeSortie": 2025,
+      "bggRank": 1701
+    },
+    {
+      "bggId": 360366,
+      "nom": "Tainted Grail: Kings of Ruin",
+      "anneeSortie": 2024,
+      "bggRank": 1702
+    },
+    {
+      "bggId": 395623,
+      "nom": "Harvest",
+      "anneeSortie": 2024,
+      "bggRank": 1711
+    },
+    {
+      "bggId": 422042,
+      "nom": "Tea Garden",
+      "anneeSortie": 2024,
+      "bggRank": 1721
+    },
+    {
+      "bggId": 389820,
+      "nom": "Burning Banners",
+      "anneeSortie": 2024,
+      "bggRank": 1723
+    },
+    {
+      "bggId": 363625,
+      "nom": "Fateforge: Chronicles of Kaan",
+      "anneeSortie": 2024,
+      "bggRank": 1743
+    },
+    {
+      "bggId": 409693,
+      "nom": "Flatiron",
+      "anneeSortie": 2024,
+      "bggRank": 1766
+    },
+    {
+      "bggId": 408636,
+      "nom": "Skara Brae",
+      "anneeSortie": 2025,
+      "bggRank": 1789
+    },
+    {
+      "bggId": 430533,
+      "nom": "Formaggio",
+      "anneeSortie": 2025,
+      "bggRank": 1796
+    },
+    {
+      "bggId": 427388,
+      "nom": "Tend",
+      "anneeSortie": 2025,
+      "bggRank": 1810
+    },
+    {
+      "bggId": 386366,
+      "nom": "Shipwrights of the North Sea: Redux",
+      "anneeSortie": 2024,
+      "bggRank": 1815
+    },
+    {
+      "bggId": 428440,
+      "nom": "Shallow Sea",
+      "anneeSortie": 2025,
+      "bggRank": 1817
+    },
+    {
+      "bggId": 415147,
+      "nom": "Spectacular",
+      "anneeSortie": 2024,
+      "bggRank": 1828
+    },
+    {
+      "bggId": 402024,
+      "nom": "Conservas",
+      "anneeSortie": 2024,
+      "bggRank": 1837
+    },
+    {
+      "bggId": 436821,
+      "nom": "Everdell Silverfrost",
+      "anneeSortie": 2025,
+      "bggRank": 1851
+    },
+    {
+      "bggId": 350185,
+      "nom": "Draft & Write Records",
+      "anneeSortie": 2024,
+      "bggRank": 1853
+    },
+    {
+      "bggId": 383469,
+      "nom": "Unmatched: Sun's Origin",
+      "anneeSortie": 2024,
+      "bggRank": 1860
+    },
+    {
+      "bggId": 401216,
+      "nom": "Cascadero",
+      "anneeSortie": 2024,
+      "bggRank": 1861
+    },
+    {
+      "bggId": 410991,
+      "nom": "Looot",
+      "anneeSortie": 2024,
+      "bggRank": 1864
+    },
+    {
+      "bggId": 371688,
+      "nom": "HUANG",
+      "anneeSortie": 2024,
+      "bggRank": 1874
+    },
+    {
+      "bggId": 446493,
+      "nom": "Recall",
+      "anneeSortie": 2025,
+      "bggRank": 1878
+    },
+    {
+      "bggId": 423401,
+      "nom": "Minos: Dawn of the Bronze Age",
+      "anneeSortie": 2024,
+      "bggRank": 1891
+    },
+    {
+      "bggId": 422484,
+      "nom": "King of Tokyo: Duel",
+      "anneeSortie": 2024,
+      "bggRank": 1900
+    },
+    {
+      "bggId": 233261,
+      "nom": "Tidal Blades 2: Rise of the Unfolders",
+      "anneeSortie": 2024,
+      "bggRank": 1907
+    },
+    {
+      "bggId": 412911,
+      "nom": "Monkey Palace",
+      "anneeSortie": 2024,
+      "bggRank": 1911
+    },
+    {
+      "bggId": 431038,
+      "nom": "Azul Duel",
+      "anneeSortie": 2025,
+      "bggRank": 1912
+    },
+    {
+      "bggId": 424573,
+      "nom": "Pergola",
+      "anneeSortie": 2025,
+      "bggRank": 1914
+    },
+    {
+      "bggId": 439305,
+      "nom": "Flamecraft Duals",
+      "anneeSortie": 2025,
+      "bggRank": 1916
+    },
+    {
+      "bggId": 424975,
+      "nom": "Wilmot's Warehouse",
+      "anneeSortie": 2024,
+      "bggRank": 1918
+    },
+    {
+      "bggId": 406854,
+      "nom": "Odin",
+      "anneeSortie": 2024,
+      "bggRank": 1926
+    },
+    {
+      "bggId": 424152,
+      "nom": "Orapa Mine",
+      "anneeSortie": 2024,
+      "bggRank": 1931
+    },
+    {
+      "bggId": 420077,
+      "nom": "The Mandalorian: Adventures",
+      "anneeSortie": 2024,
+      "bggRank": 1939
+    },
+    {
+      "bggId": 370581,
+      "nom": "Fractured Sky",
+      "anneeSortie": 2024,
+      "bggRank": 1962
+    },
+    {
+      "bggId": 423517,
+      "nom": "3 Chapters",
+      "anneeSortie": 2024,
+      "bggRank": 1967
+    },
+    {
+      "bggId": 370789,
+      "nom": "Nova Roma",
+      "anneeSortie": 2024,
+      "bggRank": 1974
+    },
+    {
+      "bggId": 403116,
+      "nom": "Next Station: Paris",
+      "anneeSortie": 2024,
+      "bggRank": 1978
+    },
+    {
+      "bggId": 418062,
+      "nom": "Railroad Tiles",
+      "anneeSortie": 2025,
+      "bggRank": 2006
+    },
+    {
+      "bggId": 454909,
+      "nom": "Origin Story",
+      "anneeSortie": 2025,
+      "bggRank": 2018
+    },
+    {
+      "bggId": 420914,
+      "nom": "Iliad",
+      "anneeSortie": 2025,
+      "bggRank": 2026
+    },
+    {
+      "bggId": 402677,
+      "nom": "Daitoshi",
+      "anneeSortie": 2024,
+      "bggRank": 2031
+    },
+    {
+      "bggId": 419704,
+      "nom": "Phoenix New Horizon",
+      "anneeSortie": 2024,
+      "bggRank": 2032
+    },
+    {
+      "bggId": 413260,
+      "nom": "Botanicus",
+      "anneeSortie": 2024,
+      "bggRank": 2057
+    },
+    {
+      "bggId": 381246,
+      "nom": "S.T.A.L.K.E.R. The Board Game",
+      "anneeSortie": 2025,
+      "bggRank": 2082
+    },
+    {
+      "bggId": 425276,
+      "nom": "Unmatched Adventures: Teenage Mutant Ninja Turtles",
+      "anneeSortie": 2025,
+      "bggRank": 2100
+    },
+    {
+      "bggId": 431481,
+      "nom": "A Place for All My Books",
+      "anneeSortie": 2025,
+      "bggRank": 2133
+    },
+    {
+      "bggId": 400498,
+      "nom": "Light Speed: Arena",
+      "anneeSortie": 2025,
+      "bggRank": 2135
+    },
+    {
+      "bggId": 396895,
+      "nom": "Corps of Discovery: A Game Set in the World of Manifest Destiny",
+      "anneeSortie": 2025,
+      "bggRank": 2151
+    },
+    {
+      "bggId": 392492,
+      "nom": "Stupor Mundi",
+      "anneeSortie": 2025,
+      "bggRank": 2154
+    },
+    {
+      "bggId": 349750,
+      "nom": "Molly House",
+      "anneeSortie": 2025,
+      "bggRank": 2162
+    },
+    {
+      "bggId": 424280,
+      "nom": "Hitster: Music Bingo",
+      "anneeSortie": 2024,
+      "bggRank": 2182
+    },
+    {
+      "bggId": 413469,
+      "nom": "Ada's Dream",
+      "anneeSortie": 2025,
+      "bggRank": 2188
+    },
+    {
+      "bggId": 412086,
+      "nom": "Etherstone",
+      "anneeSortie": 2025,
+      "bggRank": 2214
+    },
+    {
+      "bggId": 377969,
+      "nom": "Marvel United: Multiverse",
+      "anneeSortie": 2024,
+      "bggRank": 2221
+    },
+    {
+      "bggId": 439742,
+      "nom": "Dewan",
+      "anneeSortie": 2025,
+      "bggRank": 2222
+    },
+    {
+      "bggId": 387515,
+      "nom": "Kavango",
+      "anneeSortie": 2024,
+      "bggRank": 2243
+    },
+    {
+      "bggId": 399822,
+      "nom": "Fate: Defenders of Grimheim",
+      "anneeSortie": 2025,
+      "bggRank": 2248
+    },
+    {
+      "bggId": 304510,
+      "nom": "Pampero",
+      "anneeSortie": 2024,
+      "bggRank": 2272
+    },
+    {
+      "bggId": 423648,
+      "nom": "Naishi",
+      "anneeSortie": 2024,
+      "bggRank": 2316
+    },
+    {
+      "bggId": 431305,
+      "nom": "Great Western Trail: El Paso",
+      "anneeSortie": 2025,
+      "bggRank": 2323
+    },
+    {
+      "bggId": 432527,
+      "nom": "Ethnos: 2nd Edition",
+      "anneeSortie": 2025,
+      "bggRank": 2344
+    },
+    {
+      "bggId": 446699,
+      "nom": "Ants",
+      "anneeSortie": 2025,
+      "bggRank": 2348
+    },
+    {
+      "bggId": 361958,
+      "nom": "Maple Valley",
+      "anneeSortie": 2024,
+      "bggRank": 2355
+    },
+    {
+      "bggId": 414117,
+      "nom": "Wroth",
+      "anneeSortie": 2025,
+      "bggRank": 2361
+    },
+    {
+      "bggId": 417323,
+      "nom": "Panda Spin",
+      "anneeSortie": 2024,
+      "bggRank": 2362
+    },
+    {
+      "bggId": 424816,
+      "nom": "Jungo",
+      "anneeSortie": 2025,
+      "bggRank": 2371
+    },
+    {
+      "bggId": 373667,
+      "nom": "House of Fado",
+      "anneeSortie": 2025,
+      "bggRank": 2408
+    },
+    {
+      "bggId": 275912,
+      "nom": "Rise & Fall",
+      "anneeSortie": 2024,
+      "bggRank": 2443
+    },
+    {
+      "bggId": 438936,
+      "nom": "The White Castle Duel",
+      "anneeSortie": 2025,
+      "bggRank": 2481
+    },
+    {
+      "bggId": 424784,
+      "nom": "Arkham Horror: Lovecraft Letter",
+      "anneeSortie": 2025,
+      "bggRank": 2492
+    },
+    {
+      "bggId": 378476,
+      "nom": "Mycelia",
+      "anneeSortie": 2024,
+      "bggRank": 2500
+    },
+    {
+      "bggId": 397393,
+      "nom": "Altered",
+      "anneeSortie": 2024,
+      "bggRank": 2514
+    },
+    {
+      "bggId": 431493,
+      "nom": "Forestry",
+      "anneeSortie": 2025,
+      "bggRank": 2522
+    },
+    {
+      "bggId": 415845,
+      "nom": "Grimcoven",
+      "anneeSortie": 2025,
+      "bggRank": 2540
+    },
+    {
+      "bggId": 415780,
+      "nom": "Lure",
+      "anneeSortie": 2024,
+      "bggRank": 2554
+    },
+    {
+      "bggId": 407318,
+      "nom": "Cascadia: Rolling Rivers",
+      "anneeSortie": 2024,
+      "bggRank": 2555
+    },
+    {
+      "bggId": 448159,
+      "nom": "Railway Boom",
+      "anneeSortie": 2025,
+      "bggRank": 2556
+    },
+    {
+      "bggId": 427345,
+      "nom": "Res Arcana Duo",
+      "anneeSortie": 2024,
+      "bggRank": 2565
+    },
+    {
+      "bggId": 406660,
+      "nom": "Seaside",
+      "anneeSortie": 2024,
+      "bggRank": 2576
+    },
+    {
+      "bggId": 428635,
+      "nom": "Ruins",
+      "anneeSortie": 2025,
+      "bggRank": 2578
+    },
+    {
+      "bggId": 411860,
+      "nom": "Unmatched: The Witcher – Steel and Silver",
+      "anneeSortie": 2025,
+      "bggRank": 2587
+    },
+    {
+      "bggId": 401978,
+      "nom": "Undaunted 2200: Callisto",
+      "anneeSortie": 2024,
+      "bggRank": 2611
+    },
+    {
+      "bggId": 420931,
+      "nom": "Spooktacular",
+      "anneeSortie": 2025,
+      "bggRank": 2630
+    },
+    {
+      "bggId": 366251,
+      "nom": "Mistwind",
+      "anneeSortie": 2024,
+      "bggRank": 2648
+    },
+    {
+      "bggId": 463126,
+      "nom": "Arkham Horror: The Card Game",
+      "anneeSortie": 2026,
+      "bggRank": 2663
+    },
+    {
+      "bggId": 399987,
+      "nom": "A Message From the Stars",
+      "anneeSortie": 2024,
+      "bggRank": 2675
+    },
+    {
+      "bggId": 403468,
+      "nom": "Aqua: Biodiversity in the Oceans",
+      "anneeSortie": 2024,
+      "bggRank": 2685
+    },
+    {
+      "bggId": 406498,
+      "nom": "Café Baras",
+      "anneeSortie": 2024,
+      "bggRank": 2693
+    },
+    {
+      "bggId": 429438,
+      "nom": "Ayar: Children of the Sun",
+      "anneeSortie": 2025,
+      "bggRank": 2703
+    },
+    {
+      "bggId": 398996,
+      "nom": "Panda Royale",
+      "anneeSortie": 2024,
+      "bggRank": 2712
+    },
+    {
+      "bggId": 443306,
+      "nom": "Deckers",
+      "anneeSortie": 2025,
+      "bggRank": 2721
+    },
+    {
+      "bggId": 452817,
+      "nom": "Emberheart",
+      "anneeSortie": 2025,
+      "bggRank": 2730
+    },
+    {
+      "bggId": 419074,
+      "nom": "Fairy Ring",
+      "anneeSortie": 2024,
+      "bggRank": 2738
+    },
+    {
+      "bggId": 437245,
+      "nom": "Kingdom Crossing",
+      "anneeSortie": 2025,
+      "bggRank": 2743
+    },
+    {
+      "bggId": 445044,
+      "nom": "Wispwood",
+      "anneeSortie": 2025,
+      "bggRank": 2817
+    },
+    {
+      "bggId": 419639,
+      "nom": "Mind The Lines",
+      "anneeSortie": 2024,
+      "bggRank": 2823
+    },
+    {
+      "bggId": 422126,
+      "nom": "Intarsia",
+      "anneeSortie": 2024,
+      "bggRank": 2829
+    },
+    {
+      "bggId": 407233,
+      "nom": "Tenby",
+      "anneeSortie": 2025,
+      "bggRank": 2831
+    },
+    {
+      "bggId": 311731,
+      "nom": "Freedom Five: A Sentinel Comics Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 2840
+    },
+    {
+      "bggId": 396251,
+      "nom": "Invincible: The Hero-Building Game",
+      "anneeSortie": 2024,
+      "bggRank": 2841
+    },
+    {
+      "bggId": 421310,
+      "nom": "Beyond the Horizon",
+      "anneeSortie": 2024,
+      "bggRank": 2844
+    },
+    {
+      "bggId": 409496,
+      "nom": "The Quacks of Quedlinburg: The Duel",
+      "anneeSortie": 2024,
+      "bggRank": 2857
+    },
+    {
+      "bggId": 422374,
+      "nom": "Lone Wolves",
+      "anneeSortie": 2024,
+      "bggRank": 2879
+    },
+    {
+      "bggId": 410209,
+      "nom": "Hitster: Summer Party",
+      "anneeSortie": 2024,
+      "bggRank": 2889
+    },
+    {
+      "bggId": 331398,
+      "nom": "Mythic Battles: Ragnarök",
+      "anneeSortie": 2024,
+      "bggRank": 2900
+    },
+    {
+      "bggId": 391752,
+      "nom": "Steam Power",
+      "anneeSortie": 2025,
+      "bggRank": 2902
+    },
+    {
+      "bggId": 343433,
+      "nom": "Tír na nÓg",
+      "anneeSortie": 2024,
+      "bggRank": 2903
+    },
+    {
+      "bggId": 266529,
+      "nom": "Metal Gear Solid: The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 2906
+    },
+    {
+      "bggId": 376740,
+      "nom": "Undergrove",
+      "anneeSortie": 2024,
+      "bggRank": 2914
+    },
+    {
+      "bggId": 414685,
+      "nom": "Mesos",
+      "anneeSortie": 2024,
+      "bggRank": 2931
+    },
+    {
+      "bggId": 421374,
+      "nom": "Landmarks",
+      "anneeSortie": 2024,
+      "bggRank": 2940
+    },
+    {
+      "bggId": 411255,
+      "nom": "Solstis",
+      "anneeSortie": 2024,
+      "bggRank": 2948
+    },
+    {
+      "bggId": 371183,
+      "nom": "JOYRIDE: Survival of the Fastest",
+      "anneeSortie": 2024,
+      "bggRank": 2960
+    },
+    {
+      "bggId": 416079,
+      "nom": "March of the Ants: Evolved Edition",
+      "anneeSortie": 2025,
+      "bggRank": 2971
+    },
+    {
+      "bggId": 405923,
+      "nom": "Moonrollers",
+      "anneeSortie": 2024,
+      "bggRank": 2981
+    },
+    {
+      "bggId": 415036,
+      "nom": "Medical Mysteries: NYC Emergency Room",
+      "anneeSortie": 2024,
+      "bggRank": 3007
+    },
+    {
+      "bggId": 422019,
+      "nom": "Duck & Cover",
+      "anneeSortie": 2024,
+      "bggRank": 3008
+    },
+    {
+      "bggId": 407317,
+      "nom": "Cascadia: Rolling Hills",
+      "anneeSortie": 2024,
+      "bggRank": 3019
+    },
+    {
+      "bggId": 415054,
+      "nom": "Piña Coladice",
+      "anneeSortie": 2024,
+      "bggRank": 3020
+    },
+    {
+      "bggId": 367527,
+      "nom": "Fields of Fire: Deluxe Edition",
+      "anneeSortie": 2025,
+      "bggRank": 3024
+    },
+    {
+      "bggId": 401325,
+      "nom": "The Witcher: Path of Destiny",
+      "anneeSortie": 2025,
+      "bggRank": 3033
+    },
+    {
+      "bggId": 431998,
+      "nom": "Point Galaxy",
+      "anneeSortie": 2025,
+      "bggRank": 3038
+    },
+    {
+      "bggId": 377704,
+      "nom": "Tales of the Arthurian Knights",
+      "anneeSortie": 2024,
+      "bggRank": 3045
+    },
+    {
+      "bggId": 411861,
+      "nom": "Unmatched: The Witcher – Realms Fall",
+      "anneeSortie": 2025,
+      "bggRank": 3055
+    },
+    {
+      "bggId": 431994,
+      "nom": "Propolis",
+      "anneeSortie": 2025,
+      "bggRank": 3058
+    },
+    {
+      "bggId": 387276,
+      "nom": "Reforest",
+      "anneeSortie": 2024,
+      "bggRank": 3059
+    },
+    {
+      "bggId": 441850,
+      "nom": "Echoes of Time",
+      "anneeSortie": 2025,
+      "bggRank": 3063
+    },
+    {
+      "bggId": 332885,
+      "nom": "Gnome Hollow",
+      "anneeSortie": 2024,
+      "bggRank": 3066
+    },
+    {
+      "bggId": 438442,
+      "nom": "Feya's Swamp",
+      "anneeSortie": 2025,
+      "bggRank": 3074
+    },
+    {
+      "bggId": 426796,
+      "nom": "Stamp Swap",
+      "anneeSortie": 2024,
+      "bggRank": 3094
+    },
+    {
+      "bggId": 402207,
+      "nom": "YRO",
+      "anneeSortie": 2024,
+      "bggRank": 3099
+    },
+    {
+      "bggId": 365357,
+      "nom": "Railways of the Lost Atlas",
+      "anneeSortie": 2024,
+      "bggRank": 3115
+    },
+    {
+      "bggId": 411033,
+      "nom": "Wine Cellar",
+      "anneeSortie": 2025,
+      "bggRank": 3149
+    },
+    {
+      "bggId": 360899,
+      "nom": "Harrow County: The Game of Gothic Conflict",
+      "anneeSortie": 2024,
+      "bggRank": 3160
+    },
+    {
+      "bggId": 334363,
+      "nom": "Vijayanagara: The Deccan Empires of Medieval India, 1290-1398",
+      "anneeSortie": 2024,
+      "bggRank": 3195
+    },
+    {
+      "bggId": 440606,
+      "nom": "Compile: Main 2",
+      "anneeSortie": 2025,
+      "bggRank": 3209
+    },
+    {
+      "bggId": 401636,
+      "nom": "Tacta",
+      "anneeSortie": 2025,
+      "bggRank": 3211
+    },
+    {
+      "bggId": 419199,
+      "nom": "Reef Project",
+      "anneeSortie": 2024,
+      "bggRank": 3236
+    },
+    {
+      "bggId": 421606,
+      "nom": "Knitting Circle",
+      "anneeSortie": 2025,
+      "bggRank": 3253
+    },
+    {
+      "bggId": 411894,
+      "nom": "Kinfire Council",
+      "anneeSortie": 2025,
+      "bggRank": 3258
+    },
+    {
+      "bggId": 393892,
+      "nom": "Rolling Realms Redux",
+      "anneeSortie": 2024,
+      "bggRank": 3296
+    },
+    {
+      "bggId": 411402,
+      "nom": "Whispering Woods",
+      "anneeSortie": 2024,
+      "bggRank": 3311
+    },
+    {
+      "bggId": 437705,
+      "nom": "Horrified: Dungeons & Dragons",
+      "anneeSortie": 2025,
+      "bggRank": 3314
+    },
+    {
+      "bggId": 418858,
+      "nom": "Resafa",
+      "anneeSortie": 2024,
+      "bggRank": 3338
+    },
+    {
+      "bggId": 432716,
+      "nom": "Leaders",
+      "anneeSortie": 2025,
+      "bggRank": 3367
+    },
+    {
+      "bggId": 457386,
+      "nom": "Carnuta",
+      "anneeSortie": 2026,
+      "bggRank": 3396
+    },
+    {
+      "bggId": 412963,
+      "nom": "Regicide Legacy",
+      "anneeSortie": 2025,
+      "bggRank": 3403
+    },
+    {
+      "bggId": 439765,
+      "nom": "Unmatched: Battle of Legends, Volume Three",
+      "anneeSortie": 2025,
+      "bggRank": 3409
+    },
+    {
+      "bggId": 429767,
+      "nom": "ORBIT",
+      "anneeSortie": 2025,
+      "bggRank": 3422
+    },
+    {
+      "bggId": 421199,
+      "nom": "Link City",
+      "anneeSortie": 2024,
+      "bggRank": 3426
+    },
+    {
+      "bggId": 409572,
+      "nom": "Intent to Kill",
+      "anneeSortie": 2024,
+      "bggRank": 3434
+    },
+    {
+      "bggId": 419384,
+      "nom": "Suna Valo",
+      "anneeSortie": 2024,
+      "bggRank": 3449
+    },
+    {
+      "bggId": 463441,
+      "nom": "Flip 7: With A Vengeance",
+      "anneeSortie": 2026,
+      "bggRank": 3455
+    },
+    {
+      "bggId": 386538,
+      "nom": "Astro Knights: Eternity",
+      "anneeSortie": 2024,
+      "bggRank": 3456
+    },
+    {
+      "bggId": 437581,
+      "nom": "La Cuenta",
+      "anneeSortie": 2025,
+      "bggRank": 3459
+    },
+    {
+      "bggId": 419130,
+      "nom": "Hutan: Life in the Rainforest",
+      "anneeSortie": 2025,
+      "bggRank": 3461
+    },
+    {
+      "bggId": 428058,
+      "nom": "Up or Down?",
+      "anneeSortie": 2024,
+      "bggRank": 3471
+    },
+    {
+      "bggId": 297510,
+      "nom": "Kingdoms Forlorn: Dragons, Devils and Kings",
+      "anneeSortie": 2025,
+      "bggRank": 3473
+    },
+    {
+      "bggId": 417403,
+      "nom": "Toriki: The Castaway Island",
+      "anneeSortie": 2024,
+      "bggRank": 3481
+    },
+    {
+      "bggId": 410103,
+      "nom": "7 Empires",
+      "anneeSortie": 2024,
+      "bggRank": 3500
+    },
+    {
+      "bggId": 373577,
+      "nom": "Forage: A 9 card solitaire game",
+      "anneeSortie": 2024,
+      "bggRank": 3503
+    },
+    {
+      "bggId": 359612,
+      "nom": "Trick Shot: Second Edition",
+      "anneeSortie": 2024,
+      "bggRank": 3524
+    },
+    {
+      "bggId": 378117,
+      "nom": "The Last Lighthouse",
+      "anneeSortie": 2024,
+      "bggRank": 3530
+    },
+    {
+      "bggId": 415465,
+      "nom": "Citizens of the Spark",
+      "anneeSortie": 2025,
+      "bggRank": 3535
+    },
+    {
+      "bggId": 400203,
+      "nom": "Snails",
+      "anneeSortie": 2024,
+      "bggRank": 3568
+    },
+    {
+      "bggId": 408280,
+      "nom": "Twinkle Twinkle",
+      "anneeSortie": 2025,
+      "bggRank": 3575
+    },
+    {
+      "bggId": 390406,
+      "nom": "The Morrison Game Factory",
+      "anneeSortie": 2024,
+      "bggRank": 3576
+    },
+    {
+      "bggId": 423553,
+      "nom": "Above and Below: Haunted",
+      "anneeSortie": 2025,
+      "bggRank": 3578
+    },
+    {
+      "bggId": 388476,
+      "nom": "Spectral",
+      "anneeSortie": 2024,
+      "bggRank": 3604
+    },
+    {
+      "bggId": 420862,
+      "nom": "LUZ",
+      "anneeSortie": 2024,
+      "bggRank": 3606
+    },
+    {
+      "bggId": 418542,
+      "nom": "Rome: Fate of an Empire",
+      "anneeSortie": 2024,
+      "bggRank": 3630
+    },
+    {
+      "bggId": 436931,
+      "nom": "Trinket Trove",
+      "anneeSortie": 2025,
+      "bggRank": 3645
+    },
+    {
+      "bggId": 387560,
+      "nom": "Perch",
+      "anneeSortie": 2025,
+      "bggRank": 3648
+    },
+    {
+      "bggId": 423787,
+      "nom": "Behind",
+      "anneeSortie": 2024,
+      "bggRank": 3653
+    },
+    {
+      "bggId": 383360,
+      "nom": "Flock Together",
+      "anneeSortie": 2024,
+      "bggRank": 3654
+    },
+    {
+      "bggId": 364356,
+      "nom": "Company of Heroes: 2nd Edition",
+      "anneeSortie": 2025,
+      "bggRank": 3659
+    },
+    {
+      "bggId": 434222,
+      "nom": "Gwent: The Legendary Card Game",
+      "anneeSortie": 2025,
+      "bggRank": 3667
+    },
+    {
+      "bggId": 406232,
+      "nom": "How to Save a World",
+      "anneeSortie": 2025,
+      "bggRank": 3675
+    },
+    {
+      "bggId": 380837,
+      "nom": "Botany",
+      "anneeSortie": 2024,
+      "bggRank": 3678
+    },
+    {
+      "bggId": 423270,
+      "nom": "Moving Wild",
+      "anneeSortie": 2024,
+      "bggRank": 3683
+    },
+    {
+      "bggId": 390478,
+      "nom": "Gloomhaven (Second Edition)",
+      "anneeSortie": 2025,
+      "bggRank": 3701
+    },
+    {
+      "bggId": 382549,
+      "nom": "Biome",
+      "anneeSortie": 2024,
+      "bggRank": 3710
+    },
+    {
+      "bggId": 423434,
+      "nom": "Horrified: World of Monsters",
+      "anneeSortie": 2024,
+      "bggRank": 3718
+    },
+    {
+      "bggId": 406663,
+      "nom": "That's Not a Hat: Pop Culture",
+      "anneeSortie": 2024,
+      "bggRank": 3720
+    },
+    {
+      "bggId": 436161,
+      "nom": "Koi",
+      "anneeSortie": 2025,
+      "bggRank": 3726
+    },
+    {
+      "bggId": 408381,
+      "nom": "War Story: Occupied France",
+      "anneeSortie": 2024,
+      "bggRank": 3727
+    },
+    {
+      "bggId": 409978,
+      "nom": "Tiny Epic Game of Thrones",
+      "anneeSortie": 2025,
+      "bggRank": 3743
+    },
+    {
+      "bggId": 435423,
+      "nom": "Alibis",
+      "anneeSortie": 2025,
+      "bggRank": 3756
+    },
+    {
+      "bggId": 433384,
+      "nom": "Rival Cities",
+      "anneeSortie": 2025,
+      "bggRank": 3769
+    },
+    {
+      "bggId": 393175,
+      "nom": "Nocturne",
+      "anneeSortie": 2024,
+      "bggRank": 3788
+    },
+    {
+      "bggId": 360641,
+      "nom": "Maladum: Dungeons of Enveron",
+      "anneeSortie": 2024,
+      "bggRank": 3796
+    },
+    {
+      "bggId": 352263,
+      "nom": "Through Ice & Snow",
+      "anneeSortie": 2024,
+      "bggRank": 3819
+    },
+    {
+      "bggId": 413364,
+      "nom": "Bottle Imp",
+      "anneeSortie": 2024,
+      "bggRank": 3820
+    },
+    {
+      "bggId": 415078,
+      "nom": "Brink",
+      "anneeSortie": 2025,
+      "bggRank": 3826
+    },
+    {
+      "bggId": 330152,
+      "nom": "Nature",
+      "anneeSortie": 2025,
+      "bggRank": 3856
+    },
+    {
+      "bggId": 365742,
+      "nom": "Bacon",
+      "anneeSortie": 2024,
+      "bggRank": 3860
+    },
+    {
+      "bggId": 437356,
+      "nom": "Scales of Fate",
+      "anneeSortie": 2025,
+      "bggRank": 3888
+    },
+    {
+      "bggId": 322499,
+      "nom": "Red Dust Rebellion",
+      "anneeSortie": 2024,
+      "bggRank": 3890
+    },
+    {
+      "bggId": 420915,
+      "nom": "Ichor",
+      "anneeSortie": 2025,
+      "bggRank": 3895
+    },
+    {
+      "bggId": 439983,
+      "nom": "The Voynich Puzzle",
+      "anneeSortie": 2025,
+      "bggRank": 3899
+    },
+    {
+      "bggId": 426912,
+      "nom": "Tea Witches",
+      "anneeSortie": 2025,
+      "bggRank": 3901
+    },
+    {
+      "bggId": 372649,
+      "nom": "Defenders of the Wild",
+      "anneeSortie": 2024,
+      "bggRank": 3902
+    },
+    {
+      "bggId": 420361,
+      "nom": "Trekking the World: Second Edition",
+      "anneeSortie": 2024,
+      "bggRank": 3929
+    },
+    {
+      "bggId": 353572,
+      "nom": "Pest",
+      "anneeSortie": 2024,
+      "bggRank": 3931
+    },
+    {
+      "bggId": 415910,
+      "nom": "The Architects of Amytis",
+      "anneeSortie": 2024,
+      "bggRank": 3933
+    },
+    {
+      "bggId": 351648,
+      "nom": "Dragons Down",
+      "anneeSortie": 2024,
+      "bggRank": 3934
+    },
+    {
+      "bggId": 418812,
+      "nom": "Little Alchemists",
+      "anneeSortie": 2024,
+      "bggRank": 3939
+    },
+    {
+      "bggId": 288558,
+      "nom": "Chu Han",
+      "anneeSortie": 2024,
+      "bggRank": 3950
+    },
+    {
+      "bggId": 453594,
+      "nom": "Miasto Tańczącego Karpia",
+      "anneeSortie": 2024,
+      "bggRank": 3953
+    },
+    {
+      "bggId": 379761,
+      "nom": "Natera: New Beginning",
+      "anneeSortie": 2025,
+      "bggRank": 3961
+    },
+    {
+      "bggId": 431248,
+      "nom": "For a Crown",
+      "anneeSortie": 2025,
+      "bggRank": 3962
+    },
+    {
+      "bggId": 418354,
+      "nom": "Babylon",
+      "anneeSortie": 2024,
+      "bggRank": 3976
+    },
+    {
+      "bggId": 415090,
+      "nom": "Rainbow",
+      "anneeSortie": 2024,
+      "bggRank": 3997
+    },
+    {
+      "bggId": 425560,
+      "nom": "Strange World Above the Clouds",
+      "anneeSortie": 2024,
+      "bggRank": 4008
+    },
+    {
+      "bggId": 371133,
+      "nom": "Wild Gardens",
+      "anneeSortie": 2024,
+      "bggRank": 4012
+    },
+    {
+      "bggId": 350198,
+      "nom": "Terminus",
+      "anneeSortie": 2024,
+      "bggRank": 4014
+    },
+    {
+      "bggId": 403683,
+      "nom": "Algae, Inc.",
+      "anneeSortie": 2024,
+      "bggRank": 4032
+    },
+    {
+      "bggId": 367442,
+      "nom": "French Quarter",
+      "anneeSortie": 2024,
+      "bggRank": 4045
+    },
+    {
+      "bggId": 429845,
+      "nom": "Jisogi: Anime Studio Tycoon",
+      "anneeSortie": 2025,
+      "bggRank": 4056
+    },
+    {
+      "bggId": 376610,
+      "nom": "Blueprints of Mad King Ludwig",
+      "anneeSortie": 2024,
+      "bggRank": 4084
+    },
+    {
+      "bggId": 424751,
+      "nom": "Cat and the Tower",
+      "anneeSortie": 2024,
+      "bggRank": 4089
+    },
+    {
+      "bggId": 379959,
+      "nom": "The Battle of Versailles",
+      "anneeSortie": 2024,
+      "bggRank": 4094
+    },
+    {
+      "bggId": 367260,
+      "nom": "Ascending Empires: Zenith Edition",
+      "anneeSortie": 2024,
+      "bggRank": 4095
+    },
+    {
+      "bggId": 356883,
+      "nom": "Millennia: Tracks of Time",
+      "anneeSortie": 2025,
+      "bggRank": 4096
+    },
+    {
+      "bggId": 447746,
+      "nom": "Tianxia",
+      "anneeSortie": 2025,
+      "bggRank": 4099
+    },
+    {
+      "bggId": 358636,
+      "nom": "SAS: Rogue Regiment",
+      "anneeSortie": 2024,
+      "bggRank": 4105
+    },
+    {
+      "bggId": 431718,
+      "nom": "The Isle of Cats Duel",
+      "anneeSortie": 2024,
+      "bggRank": 4135
+    },
+    {
+      "bggId": 429765,
+      "nom": "SILOS",
+      "anneeSortie": 2025,
+      "bggRank": 4146
+    },
+    {
+      "bggId": 446231,
+      "nom": "7 Wonders Dice",
+      "anneeSortie": 2025,
+      "bggRank": 4154
+    },
+    {
+      "bggId": 359927,
+      "nom": "The Breach",
+      "anneeSortie": 2024,
+      "bggRank": 4170
+    },
+    {
+      "bggId": 435330,
+      "nom": "Pondscape",
+      "anneeSortie": 2025,
+      "bggRank": 4180
+    },
+    {
+      "bggId": 415792,
+      "nom": "Neko Syndicate",
+      "anneeSortie": 2024,
+      "bggRank": 4183
+    },
+    {
+      "bggId": 415981,
+      "nom": "Seers Catalog",
+      "anneeSortie": 2024,
+      "bggRank": 4184
+    },
+    {
+      "bggId": 419642,
+      "nom": "Mindbug: Battlefruit Kingdom",
+      "anneeSortie": 2025,
+      "bggRank": 4198
+    },
+    {
+      "bggId": 404509,
+      "nom": "Cthulhu: Dark Providence",
+      "anneeSortie": 2025,
+      "bggRank": 4210
+    },
+    {
+      "bggId": 425505,
+      "nom": "Storyfold: Wildwoods",
+      "anneeSortie": 2025,
+      "bggRank": 4240
+    },
+    {
+      "bggId": 450175,
+      "nom": "Hitster Rock: Bob!",
+      "anneeSortie": 2025,
+      "bggRank": 4245
+    },
+    {
+      "bggId": 351876,
+      "nom": "I, Napoleon",
+      "anneeSortie": 2024,
+      "bggRank": 4260
+    },
+    {
+      "bggId": 391124,
+      "nom": "Kraftwagen: Age of Engineering",
+      "anneeSortie": 2024,
+      "bggRank": 4271
+    },
+    {
+      "bggId": 393114,
+      "nom": "Barbecubes",
+      "anneeSortie": 2025,
+      "bggRank": 4275
+    },
+    {
+      "bggId": 453526,
+      "nom": "Got Five!",
+      "anneeSortie": 2026,
+      "bggRank": 4286
+    },
+    {
+      "bggId": 416059,
+      "nom": "Gardlings",
+      "anneeSortie": 2024,
+      "bggRank": 4290
+    },
+    {
+      "bggId": 334537,
+      "nom": "Altay: Dawn of Civilization",
+      "anneeSortie": 2024,
+      "bggRank": 4297
+    },
+    {
+      "bggId": 430563,
+      "nom": "Popcorn",
+      "anneeSortie": 2025,
+      "bggRank": 4316
+    },
+    {
+      "bggId": 437301,
+      "nom": "INK",
+      "anneeSortie": 2025,
+      "bggRank": 4321
+    },
+    {
+      "bggId": 420242,
+      "nom": "VIVO",
+      "anneeSortie": 2024,
+      "bggRank": 4342
+    },
+    {
+      "bggId": 429861,
+      "nom": "Ace of Spades",
+      "anneeSortie": 2025,
+      "bggRank": 4345
+    },
+    {
+      "bggId": 421823,
+      "nom": "Æterna",
+      "anneeSortie": 2025,
+      "bggRank": 4349
+    },
+    {
+      "bggId": 440023,
+      "nom": "Gazebo",
+      "anneeSortie": 2025,
+      "bggRank": 4350
+    },
+    {
+      "bggId": 365526,
+      "nom": "Galactic Renaissance",
+      "anneeSortie": 2024,
+      "bggRank": 4355
+    },
+    {
+      "bggId": 349369,
+      "nom": "Tabriz",
+      "anneeSortie": 2025,
+      "bggRank": 4359
+    },
+    {
+      "bggId": 383496,
+      "nom": "Zombicide: White Death",
+      "anneeSortie": 2025,
+      "bggRank": 4363
+    },
+    {
+      "bggId": 410680,
+      "nom": "Kabuto Sumo: Sakura Slam",
+      "anneeSortie": 2024,
+      "bggRank": 4367
+    },
+    {
+      "bggId": 344925,
+      "nom": "Bardwood Grove",
+      "anneeSortie": 2024,
+      "bggRank": 4373
+    },
+    {
+      "bggId": 440509,
+      "nom": "Fountains",
+      "anneeSortie": 2025,
+      "bggRank": 4378
+    },
+    {
+      "bggId": 423432,
+      "nom": "Skull Queen",
+      "anneeSortie": 2024,
+      "bggRank": 4384
+    },
+    {
+      "bggId": 445673,
+      "nom": "Lightning Train",
+      "anneeSortie": 2025,
+      "bggRank": 4402
+    },
+    {
+      "bggId": 402106,
+      "nom": "Power Vacuum",
+      "anneeSortie": 2024,
+      "bggRank": 4418
+    },
+    {
+      "bggId": 436936,
+      "nom": "No Loose Ends",
+      "anneeSortie": 2025,
+      "bggRank": 4419
+    },
+    {
+      "bggId": 390422,
+      "nom": "Command of Nature",
+      "anneeSortie": 2024,
+      "bggRank": 4421
+    },
+    {
+      "bggId": 443932,
+      "nom": "Aquaria",
+      "anneeSortie": 2025,
+      "bggRank": 4424
+    },
+    {
+      "bggId": 368386,
+      "nom": "El Burro: A La Granja Game",
+      "anneeSortie": 2024,
+      "bggRank": 4426
+    },
+    {
+      "bggId": 447575,
+      "nom": "Spirits of the Wild: Awakening",
+      "anneeSortie": 2025,
+      "bggRank": 4429
+    },
+    {
+      "bggId": 357975,
+      "nom": "Stephens",
+      "anneeSortie": 2024,
+      "bggRank": 4436
+    },
+    {
+      "bggId": 448740,
+      "nom": "Orapa Space",
+      "anneeSortie": 2025,
+      "bggRank": 4442
+    },
+    {
+      "bggId": 367833,
+      "nom": "Forges of Ravenshire",
+      "anneeSortie": 2024,
+      "bggRank": 4443
+    },
+    {
+      "bggId": 363547,
+      "nom": "Cretaceous Rails",
+      "anneeSortie": 2025,
+      "bggRank": 4445
+    },
+    {
+      "bggId": 429766,
+      "nom": "EGO",
+      "anneeSortie": 2025,
+      "bggRank": 4464
+    },
+    {
+      "bggId": 432451,
+      "nom": "Symbiosis",
+      "anneeSortie": 2025,
+      "bggRank": 4469
+    },
+    {
+      "bggId": 354768,
+      "nom": "The Dark Quarter",
+      "anneeSortie": 2025,
+      "bggRank": 4477
+    },
+    {
+      "bggId": 358216,
+      "nom": "Thorgal: The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 4484
+    },
+    {
+      "bggId": 397788,
+      "nom": "Worms: The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 4505
+    },
+    {
+      "bggId": 402669,
+      "nom": "Sand",
+      "anneeSortie": 2024,
+      "bggRank": 4507
+    },
+    {
+      "bggId": 415550,
+      "nom": "Talisman: The Magical Quest Game – 5th Edition",
+      "anneeSortie": 2024,
+      "bggRank": 4510
+    },
+    {
+      "bggId": 414302,
+      "nom": "Xylotar",
+      "anneeSortie": 2024,
+      "bggRank": 4515
+    },
+    {
+      "bggId": 418581,
+      "nom": "Bus & Stop",
+      "anneeSortie": 2024,
+      "bggRank": 4521
+    },
+    {
+      "bggId": 414107,
+      "nom": "Ratjack",
+      "anneeSortie": 2024,
+      "bggRank": 4531
+    },
+    {
+      "bggId": 404883,
+      "nom": "Lairs",
+      "anneeSortie": 2026,
+      "bggRank": 4558
+    },
+    {
+      "bggId": 397138,
+      "nom": "Dungeon Legends",
+      "anneeSortie": 2024,
+      "bggRank": 4567
+    },
+    {
+      "bggId": 448435,
+      "nom": "Adamastor",
+      "anneeSortie": 2025,
+      "bggRank": 4571
+    },
+    {
+      "bggId": 437337,
+      "nom": "Abroad",
+      "anneeSortie": 2025,
+      "bggRank": 4607
+    },
+    {
+      "bggId": 380109,
+      "nom": "エスペライゼーション (Gibberers: The Word Game of Language Invention and Civilization Development)",
+      "anneeSortie": 2024,
+      "bggRank": 4633
+    },
+    {
+      "bggId": 424679,
+      "nom": "Atlantis Exodus",
+      "anneeSortie": 2024,
+      "bggRank": 4639
+    },
+    {
+      "bggId": 428787,
+      "nom": "Omens",
+      "anneeSortie": 2025,
+      "bggRank": 4642
+    },
+    {
+      "bggId": 427624,
+      "nom": "I am done",
+      "anneeSortie": 2024,
+      "bggRank": 4653
+    },
+    {
+      "bggId": 353745,
+      "nom": "From the Moon",
+      "anneeSortie": 2024,
+      "bggRank": 4660
+    },
+    {
+      "bggId": 419720,
+      "nom": "Australis",
+      "anneeSortie": 2024,
+      "bggRank": 4667
+    },
+    {
+      "bggId": 354307,
+      "nom": "Crown of Ash",
+      "anneeSortie": 2024,
+      "bggRank": 4691
+    },
+    {
+      "bggId": 447649,
+      "nom": "12 Rivers",
+      "anneeSortie": 2025,
+      "bggRank": 4702
+    },
+    {
+      "bggId": 431582,
+      "nom": "Dice Throne: Outcasts",
+      "anneeSortie": 2025,
+      "bggRank": 4706
+    },
+    {
+      "bggId": 431929,
+      "nom": "Onward",
+      "anneeSortie": 2025,
+      "bggRank": 4714
+    },
+    {
+      "bggId": 420017,
+      "nom": "Rebel Princess: 2nd Edition",
+      "anneeSortie": 2024,
+      "bggRank": 4729
+    },
+    {
+      "bggId": 411404,
+      "nom": "Power Hungry Pets",
+      "anneeSortie": 2024,
+      "bggRank": 4730
+    },
+    {
+      "bggId": 448500,
+      "nom": "Formidable Farm",
+      "anneeSortie": 2025,
+      "bggRank": 4737
+    },
+    {
+      "bggId": 425630,
+      "nom": "Baghdad: The City of Peace",
+      "anneeSortie": 2025,
+      "bggRank": 4746
+    },
+    {
+      "bggId": 411003,
+      "nom": "Disney Villainous: Sugar and Spite",
+      "anneeSortie": 2024,
+      "bggRank": 4766
+    },
+    {
+      "bggId": 423632,
+      "nom": "Asian Tigers: A Story of Prosperity",
+      "anneeSortie": 2024,
+      "bggRank": 4775
+    },
+    {
+      "bggId": 446953,
+      "nom": "Soda Jerk",
+      "anneeSortie": 2025,
+      "bggRank": 4798
+    },
+    {
+      "bggId": 342200,
+      "nom": "Confusing Lands",
+      "anneeSortie": 2024,
+      "bggRank": 4822
+    },
+    {
+      "bggId": 423577,
+      "nom": "Valheim: The Board Game",
+      "anneeSortie": 2025,
+      "bggRank": 4824
+    },
+    {
+      "bggId": 424995,
+      "nom": "Star Explorer",
+      "anneeSortie": 2024,
+      "bggRank": 4826
+    },
+    {
+      "bggId": 434172,
+      "nom": "Excalibur",
+      "anneeSortie": 2026,
+      "bggRank": 4829
+    },
+    {
+      "bggId": 441114,
+      "nom": "Soothsayers",
+      "anneeSortie": 2026,
+      "bggRank": 4836
+    },
+    {
+      "bggId": 359601,
+      "nom": "Weirdwood Manor",
+      "anneeSortie": 2024,
+      "bggRank": 4849
+    },
+    {
+      "bggId": 390163,
+      "nom": "Avant Carde",
+      "anneeSortie": 2024,
+      "bggRank": 4850
+    },
+    {
+      "bggId": 439306,
+      "nom": "Limit",
+      "anneeSortie": 2025,
+      "bggRank": 4858
+    },
+    {
+      "bggId": 396587,
+      "nom": "Colossal Cat in the Box",
+      "anneeSortie": 2024,
+      "bggRank": 4860
+    },
+    {
+      "bggId": 408839,
+      "nom": "A Nice Cuppa",
+      "anneeSortie": 2024,
+      "bggRank": 4868
+    },
+    {
+      "bggId": 435360,
+      "nom": "Waddle",
+      "anneeSortie": 2025,
+      "bggRank": 4871
+    },
+    {
+      "bggId": 401493,
+      "nom": "FateFlip: Washed Ashore",
+      "anneeSortie": 2024,
+      "bggRank": 4898
+    },
+    {
+      "bggId": 435979,
+      "nom": "HIT! Extreme",
+      "anneeSortie": 2024,
+      "bggRank": 4914
+    },
+    {
+      "bggId": 431837,
+      "nom": "Coming of Age",
+      "anneeSortie": 2025,
+      "bggRank": 4926
+    },
+    {
+      "bggId": 436561,
+      "nom": "Timber Town",
+      "anneeSortie": 2025,
+      "bggRank": 4944
+    },
+    {
+      "bggId": 424395,
+      "nom": "Power Grid: Outpost",
+      "anneeSortie": 2024,
+      "bggRank": 4947
+    },
+    {
+      "bggId": 437261,
+      "nom": "MicroMacro: Kids – Crazy City Park",
+      "anneeSortie": 2025,
+      "bggRank": 4948
+    },
+    {
+      "bggId": 415836,
+      "nom": "Slide",
+      "anneeSortie": 2024,
+      "bggRank": 4975
+    },
+    {
+      "bggId": 407805,
+      "nom": "Caution Signs",
+      "anneeSortie": 2024,
+      "bggRank": 4976
+    },
+    {
+      "bggId": 374134,
+      "nom": "Chandigarh",
+      "anneeSortie": 2024,
+      "bggRank": 4979
+    },
+    {
+      "bggId": 391886,
+      "nom": "Canopy: Evergreen",
+      "anneeSortie": 2024,
+      "bggRank": 4982
+    },
+    {
+      "bggId": 408770,
+      "nom": "In the Footsteps of Marie Curie",
+      "anneeSortie": 2024,
+      "bggRank": 5000
+    },
+    {
+      "bggId": 432456,
+      "nom": "DNUP",
+      "anneeSortie": 2025,
+      "bggRank": 5005
+    },
+    {
+      "bggId": 424577,
+      "nom": "Flower Fields",
+      "anneeSortie": 2024,
+      "bggRank": 5011
+    },
+    {
+      "bggId": 421208,
+      "nom": "Wrath of Fire Mountain",
+      "anneeSortie": 2024,
+      "bggRank": 5024
+    },
+    {
+      "bggId": 417599,
+      "nom": "Harmony",
+      "anneeSortie": 2024,
+      "bggRank": 5048
+    },
+    {
+      "bggId": 430765,
+      "nom": "EXIT: The Game – Advent Calendar: The Intergalactic Race",
+      "anneeSortie": 2024,
+      "bggRank": 5074
+    },
+    {
+      "bggId": 385325,
+      "nom": "Skytear Horde: Monoliths",
+      "anneeSortie": 2024,
+      "bggRank": 5076
+    },
+    {
+      "bggId": 410625,
+      "nom": "Rajas of the Ganges: Cards & Karma",
+      "anneeSortie": 2024,
+      "bggRank": 5078
+    },
+    {
+      "bggId": 433205,
+      "nom": "Torchlit",
+      "anneeSortie": 2024,
+      "bggRank": 5089
+    },
+    {
+      "bggId": 410628,
+      "nom": "Keyside",
+      "anneeSortie": 2025,
+      "bggRank": 5091
+    },
+    {
+      "bggId": 415513,
+      "nom": "Life in Reterra",
+      "anneeSortie": 2024,
+      "bggRank": 5109
+    },
+    {
+      "bggId": 429114,
+      "nom": "Nova Era",
+      "anneeSortie": 2025,
+      "bggRank": 5133
+    },
+    {
+      "bggId": 383172,
+      "nom": "Nightshift",
+      "anneeSortie": 2025,
+      "bggRank": 5140
+    },
+    {
+      "bggId": 451594,
+      "nom": "A Carnivore Did It!",
+      "anneeSortie": 2025,
+      "bggRank": 5142
+    },
+    {
+      "bggId": 409581,
+      "nom": "Rivages",
+      "anneeSortie": 2024,
+      "bggRank": 5154
+    },
+    {
+      "bggId": 375557,
+      "nom": "I Made You a Mixtape",
+      "anneeSortie": 2025,
+      "bggRank": 5157
+    },
+    {
+      "bggId": 442615,
+      "nom": "Oliva",
+      "anneeSortie": 2025,
+      "bggRank": 5169
+    },
+    {
+      "bggId": 368557,
+      "nom": "Heroscape Master Set: Age of Annihilation",
+      "anneeSortie": 2024,
+      "bggRank": 5174
+    },
+    {
+      "bggId": 437384,
+      "nom": "Bohemians",
+      "anneeSortie": 2025,
+      "bggRank": 5176
+    },
+    {
+      "bggId": 419645,
+      "nom": "Mindbug: Battlefruit Galaxy",
+      "anneeSortie": 2025,
+      "bggRank": 5177
+    },
+    {
+      "bggId": 372831,
+      "nom": "Potions of Azerland",
+      "anneeSortie": 2025,
+      "bggRank": 5182
+    },
+    {
+      "bggId": 383452,
+      "nom": "Lunar",
+      "anneeSortie": 2024,
+      "bggRank": 5195
+    },
+    {
+      "bggId": 447379,
+      "nom": "Carnival of Sins",
+      "anneeSortie": 2025,
+      "bggRank": 5204
+    },
+    {
+      "bggId": 437383,
+      "nom": "Age of Galaxy (Second Edition)",
+      "anneeSortie": 2025,
+      "bggRank": 5223
+    },
+    {
+      "bggId": 370210,
+      "nom": "Diatoms",
+      "anneeSortie": 2025,
+      "bggRank": 5227
+    },
+    {
+      "bggId": 362917,
+      "nom": "The Other Side of the Hill",
+      "anneeSortie": 2024,
+      "bggRank": 5239
+    },
+    {
+      "bggId": 279727,
+      "nom": "Harakiri: Blades of Honor",
+      "anneeSortie": 2024,
+      "bggRank": 5245
+    },
+    {
+      "bggId": 312675,
+      "nom": "Pole Position",
+      "anneeSortie": 2024,
+      "bggRank": 5253
+    },
+    {
+      "bggId": 424785,
+      "nom": "Crafting the Cosmos",
+      "anneeSortie": 2025,
+      "bggRank": 5264
+    },
+    {
+      "bggId": 376363,
+      "nom": "Sweet Mess: Pastry Competition",
+      "anneeSortie": 2024,
+      "bggRank": 5281
+    },
+    {
+      "bggId": 415938,
+      "nom": "Inori",
+      "anneeSortie": 2024,
+      "bggRank": 5297
+    },
+    {
+      "bggId": 410655,
+      "nom": "Star Wars: Bounty Hunters",
+      "anneeSortie": 2024,
+      "bggRank": 5308
+    },
+    {
+      "bggId": 439107,
+      "nom": "Santorini: Second Edition",
+      "anneeSortie": 2025,
+      "bggRank": 5317
+    },
+    {
+      "bggId": 398032,
+      "nom": "Dungeon Kart",
+      "anneeSortie": 2024,
+      "bggRank": 5324
+    },
+    {
+      "bggId": 373701,
+      "nom": "Pax Hispanica",
+      "anneeSortie": 2025,
+      "bggRank": 5330
+    },
+    {
+      "bggId": 433283,
+      "nom": "Daydream",
+      "anneeSortie": 2025,
+      "bggRank": 5334
+    },
+    {
+      "bggId": 447583,
+      "nom": "Viva Catrina",
+      "anneeSortie": 2025,
+      "bggRank": 5347
+    },
+    {
+      "bggId": 400817,
+      "nom": "Epochs: Course of Cultures",
+      "anneeSortie": 2025,
+      "bggRank": 5390
+    },
+    {
+      "bggId": 427087,
+      "nom": "Perspectives Blue",
+      "anneeSortie": 2024,
+      "bggRank": 5398
+    },
+    {
+      "bggId": 357890,
+      "nom": "An Age Contrived",
+      "anneeSortie": 2024,
+      "bggRank": 5401
+    },
+    {
+      "bggId": 403150,
+      "nom": "World Order",
+      "anneeSortie": 2026,
+      "bggRank": 5413
+    },
+    {
+      "bggId": 334717,
+      "nom": "Tranquility: The Ascent",
+      "anneeSortie": 2024,
+      "bggRank": 5421
+    },
+    {
+      "bggId": 420876,
+      "nom": "Spotlight",
+      "anneeSortie": 2024,
+      "bggRank": 5432
+    },
+    {
+      "bggId": 428636,
+      "nom": "Oddland",
+      "anneeSortie": 2025,
+      "bggRank": 5436
+    },
+    {
+      "bggId": 286690,
+      "nom": "Shinjuku",
+      "anneeSortie": 2024,
+      "bggRank": 5449
+    },
+    {
+      "bggId": 419293,
+      "nom": "Medical Mysteries: Miami Flatline",
+      "anneeSortie": 2024,
+      "bggRank": 5455
+    },
+    {
+      "bggId": 446249,
+      "nom": "Piñatas",
+      "anneeSortie": 2025,
+      "bggRank": 5458
+    },
+    {
+      "bggId": 411865,
+      "nom": "Magic Number Eleven",
+      "anneeSortie": 2024,
+      "bggRank": 5465
+    },
+    {
+      "bggId": 406305,
+      "nom": "Ingenious 3D",
+      "anneeSortie": 2024,
+      "bggRank": 5490
+    },
+    {
+      "bggId": 404041,
+      "nom": "FLOWERS",
+      "anneeSortie": 2024,
+      "bggRank": 5500
+    },
+    {
+      "bggId": 383983,
+      "nom": "Bone Wars",
+      "anneeSortie": 2024,
+      "bggRank": 5506
+    },
+    {
+      "bggId": 449853,
+      "nom": "Frosted Blooms",
+      "anneeSortie": 2026,
+      "bggRank": 5527
+    },
+    {
+      "bggId": 349051,
+      "nom": "Purple Haze",
+      "anneeSortie": 2024,
+      "bggRank": 5533
+    },
+    {
+      "bggId": 410382,
+      "nom": "That Escalated Quickly",
+      "anneeSortie": 2024,
+      "bggRank": 5536
+    },
+    {
+      "bggId": 372571,
+      "nom": "Tycoon: India 1981",
+      "anneeSortie": 2025,
+      "bggRank": 5540
+    },
+    {
+      "bggId": 451214,
+      "nom": "Thebai",
+      "anneeSortie": 2025,
+      "bggRank": 5547
+    },
+    {
+      "bggId": 440941,
+      "nom": "Pillars of Fate",
+      "anneeSortie": 2025,
+      "bggRank": 5562
+    },
+    {
+      "bggId": 414174,
+      "nom": "Big Sur",
+      "anneeSortie": 2025,
+      "bggRank": 5569
+    },
+    {
+      "bggId": 296578,
+      "nom": "Congress of Vienna",
+      "anneeSortie": 2025,
+      "bggRank": 5577
+    },
+    {
+      "bggId": 440885,
+      "nom": "Thesauros",
+      "anneeSortie": 2025,
+      "bggRank": 5589
+    },
+    {
+      "bggId": 436205,
+      "nom": "Rewild: South America",
+      "anneeSortie": 2025,
+      "bggRank": 5591
+    },
+    {
+      "bggId": 432250,
+      "nom": "52 Realms: Adventures",
+      "anneeSortie": 2024,
+      "bggRank": 5592
+    },
+    {
+      "bggId": 422796,
+      "nom": "RA and Write",
+      "anneeSortie": 2025,
+      "bggRank": 5602
+    },
+    {
+      "bggId": 415092,
+      "nom": "Prey",
+      "anneeSortie": 2024,
+      "bggRank": 5613
+    },
+    {
+      "bggId": 436038,
+      "nom": "Hercules and the 12 Labors",
+      "anneeSortie": 2025,
+      "bggRank": 5616
+    },
+    {
+      "bggId": 365119,
+      "nom": "Party Panda Pirates",
+      "anneeSortie": 2024,
+      "bggRank": 5639
+    },
+    {
+      "bggId": 422345,
+      "nom": "Star Trek: Star Realms Core Set",
+      "anneeSortie": 2024,
+      "bggRank": 5642
+    },
+    {
+      "bggId": 395875,
+      "nom": "Oranges & Lemons",
+      "anneeSortie": 2024,
+      "bggRank": 5643
+    },
+    {
+      "bggId": 258295,
+      "nom": "Ascendancy",
+      "anneeSortie": 2024,
+      "bggRank": 5646
+    },
+    {
+      "bggId": 392455,
+      "nom": "Maki Master",
+      "anneeSortie": 2024,
+      "bggRank": 5661
+    },
+    {
+      "bggId": 412731,
+      "nom": "One-Hit Heroes",
+      "anneeSortie": 2025,
+      "bggRank": 5662
+    },
+    {
+      "bggId": 381591,
+      "nom": "Pax Penning",
+      "anneeSortie": 2024,
+      "bggRank": 5667
+    },
+    {
+      "bggId": 317515,
+      "nom": "Águeda: City of Umbrellas",
+      "anneeSortie": 2024,
+      "bggRank": 5678
+    },
+    {
+      "bggId": 415524,
+      "nom": "Super Boss Monster",
+      "anneeSortie": 2025,
+      "bggRank": 5686
+    },
+    {
+      "bggId": 362723,
+      "nom": "Escape from New York",
+      "anneeSortie": 2024,
+      "bggRank": 5698
+    },
+    {
+      "bggId": 404893,
+      "nom": "Tiny Epic Cthulhu",
+      "anneeSortie": 2024,
+      "bggRank": 5704
+    },
+    {
+      "bggId": 404845,
+      "nom": "Canal Houses",
+      "anneeSortie": 2024,
+      "bggRank": 5705
+    },
+    {
+      "bggId": 438940,
+      "nom": "Tic Tac Trek",
+      "anneeSortie": 2025,
+      "bggRank": 5707
+    },
+    {
+      "bggId": 406312,
+      "nom": "EXIT: The Game – The Venice Conspiracy",
+      "anneeSortie": 2024,
+      "bggRank": 5709
+    },
+    {
+      "bggId": 412268,
+      "nom": "Aeon's End: The Descent",
+      "anneeSortie": 2024,
+      "bggRank": 5715
+    },
+    {
+      "bggId": 434442,
+      "nom": "13 Leaves",
+      "anneeSortie": 2025,
+      "bggRank": 5717
+    },
+    {
+      "bggId": 379928,
+      "nom": "Fall of Lumen",
+      "anneeSortie": 2024,
+      "bggRank": 5724
+    },
+    {
+      "bggId": 422898,
+      "nom": "DCeased: Gotham City Outbreak",
+      "anneeSortie": 2024,
+      "bggRank": 5735
+    },
+    {
+      "bggId": 419125,
+      "nom": "Sparks",
+      "anneeSortie": 2024,
+      "bggRank": 5749
+    },
+    {
+      "bggId": 415108,
+      "nom": "Crisps!",
+      "anneeSortie": 2025,
+      "bggRank": 5753
+    },
+    {
+      "bggId": 408836,
+      "nom": "Aqua ROVE: Results-Oriented Versatile Explorer",
+      "anneeSortie": 2024,
+      "bggRank": 5775
+    },
+    {
+      "bggId": 415921,
+      "nom": "Backstories: Alone Under the Ice",
+      "anneeSortie": 2024,
+      "bggRank": 5779
+    },
+    {
+      "bggId": 417696,
+      "nom": "boop the Halls!",
+      "anneeSortie": 2024,
+      "bggRank": 5788
+    },
+    {
+      "bggId": 348872,
+      "nom": "The Bad Karmas and The Curse of the Zodiac",
+      "anneeSortie": 2024,
+      "bggRank": 5789
+    },
+    {
+      "bggId": 438534,
+      "nom": "Papyria",
+      "anneeSortie": 2025,
+      "bggRank": 5798
+    },
+    {
+      "bggId": 413248,
+      "nom": "R.A.V.E.L.",
+      "anneeSortie": 2025,
+      "bggRank": 5825
+    },
+    {
+      "bggId": 385643,
+      "nom": "Paperback: 10th Anniversary Edition",
+      "anneeSortie": 2024,
+      "bggRank": 5845
+    },
+    {
+      "bggId": 433908,
+      "nom": "Gatsby",
+      "anneeSortie": 2025,
+      "bggRank": 5851
+    },
+    {
+      "bggId": 402814,
+      "nom": "Peaks",
+      "anneeSortie": 2025,
+      "bggRank": 5854
+    },
+    {
+      "bggId": 412068,
+      "nom": "Tin Realm",
+      "anneeSortie": 2024,
+      "bggRank": 5886
+    },
+    {
+      "bggId": 447384,
+      "nom": "Meister Makatsu",
+      "anneeSortie": 2025,
+      "bggRank": 5896
+    },
+    {
+      "bggId": 400617,
+      "nom": "Mythic Mischief Vol. II",
+      "anneeSortie": 2024,
+      "bggRank": 5903
+    },
+    {
+      "bggId": 423561,
+      "nom": "HeroQuest: First Light",
+      "anneeSortie": 2025,
+      "bggRank": 5907
+    },
+    {
+      "bggId": 416284,
+      "nom": "Avatar: The Last Airbender – Aang's Destiny",
+      "anneeSortie": 2024,
+      "bggRank": 5913
+    },
+    {
+      "bggId": 445552,
+      "nom": "The Great Evening Banquet",
+      "anneeSortie": 2025,
+      "bggRank": 5915
+    },
+    {
+      "bggId": 413403,
+      "nom": "Minecraft Explorers",
+      "anneeSortie": 2024,
+      "bggRank": 5923
+    },
+    {
+      "bggId": 411202,
+      "nom": "Apothebakery: The Culinary Alchemists",
+      "anneeSortie": 2025,
+      "bggRank": 5925
+    },
+    {
+      "bggId": 432067,
+      "nom": "Assyria: Second Edition",
+      "anneeSortie": 2025,
+      "bggRank": 5931
+    },
+    {
+      "bggId": 398887,
+      "nom": "Hispania",
+      "anneeSortie": 2024,
+      "bggRank": 5938
+    },
+    {
+      "bggId": 438018,
+      "nom": "Kanal",
+      "anneeSortie": 2024,
+      "bggRank": 5939
+    },
+    {
+      "bggId": 403221,
+      "nom": "Ticket to Ride: Paris",
+      "anneeSortie": 2024,
+      "bggRank": 5941
+    },
+    {
+      "bggId": 419192,
+      "nom": "Free Ride USA",
+      "anneeSortie": 2024,
+      "bggRank": 5946
+    },
+    {
+      "bggId": 453893,
+      "nom": "Collect!",
+      "anneeSortie": 2025,
+      "bggRank": 5953
+    },
+    {
+      "bggId": 431308,
+      "nom": "Hitster: Rock",
+      "anneeSortie": 2024,
+      "bggRank": 5956
+    },
+    {
+      "bggId": 416266,
+      "nom": "Mass Effect: The Board Game – Priority: Hagalaz",
+      "anneeSortie": 2024,
+      "bggRank": 5965
+    },
+    {
+      "bggId": 383529,
+      "nom": "Mori",
+      "anneeSortie": 2024,
+      "bggRank": 5966
+    },
+    {
+      "bggId": 424507,
+      "nom": "Aspens",
+      "anneeSortie": 2025,
+      "bggRank": 5970
+    },
+    {
+      "bggId": 429851,
+      "nom": "Quorum",
+      "anneeSortie": 2025,
+      "bggRank": 5980
+    },
+    {
+      "bggId": 332170,
+      "nom": "Donut Shop",
+      "anneeSortie": 2024,
+      "bggRank": 5981
+    },
+    {
+      "bggId": 409031,
+      "nom": "Kathmandu",
+      "anneeSortie": 2024,
+      "bggRank": 5982
+    },
+    {
+      "bggId": 380041,
+      "nom": "Pax Illuminaten",
+      "anneeSortie": 2024,
+      "bggRank": 5985
+    },
+    {
+      "bggId": 421762,
+      "nom": "Emerald Skulls",
+      "anneeSortie": 2025,
+      "bggRank": 5992
+    },
+    {
+      "bggId": 386860,
+      "nom": "Farm Hand",
+      "anneeSortie": 2025,
+      "bggRank": 5995
+    },
+    {
+      "bggId": 346597,
+      "nom": "Worldspanner Factions, Set 1: Heroes",
+      "anneeSortie": 2024,
+      "bggRank": 5996
+    },
+    {
+      "bggId": 413461,
+      "nom": "This Game Is Killer: Alien on Board",
+      "anneeSortie": 2024,
+      "bggRank": 5997
+    },
+    {
+      "bggId": 354335,
+      "nom": "Palm Laboratory",
+      "anneeSortie": 2024,
+      "bggRank": 5999
+    },
+    {
+      "bggId": 436178,
+      "nom": "Bid Coin",
+      "anneeSortie": 2024,
+      "bggRank": 6003
+    },
+    {
+      "bggId": 443348,
+      "nom": "Arigatō",
+      "anneeSortie": 2025,
+      "bggRank": 6008
+    },
+    {
+      "bggId": 414764,
+      "nom": "Madcala",
+      "anneeSortie": 2025,
+      "bggRank": 6017
+    },
+    {
+      "bggId": 416086,
+      "nom": "AI: 100% Human",
+      "anneeSortie": 2024,
+      "bggRank": 6018
+    },
+    {
+      "bggId": 447002,
+      "nom": "Sanibel",
+      "anneeSortie": 2026,
+      "bggRank": 6022
+    },
+    {
+      "bggId": 360676,
+      "nom": "Star Realms: Rise of Empire",
+      "anneeSortie": 2024,
+      "bggRank": 6034
+    },
+    {
+      "bggId": 402324,
+      "nom": "Eternitium",
+      "anneeSortie": 2024,
+      "bggRank": 6035
+    },
+    {
+      "bggId": 360058,
+      "nom": "Charcuterie: The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 6038
+    },
+    {
+      "bggId": 433339,
+      "nom": "6 nimmt! Baron Oxx",
+      "anneeSortie": 2025,
+      "bggRank": 6040
+    },
+    {
+      "bggId": 448496,
+      "nom": "Fearless",
+      "anneeSortie": 2025,
+      "bggRank": 6050
+    },
+    {
+      "bggId": 434425,
+      "nom": "General Orders: Sengoku Jidai",
+      "anneeSortie": 2025,
+      "bggRank": 6058
+    },
+    {
+      "bggId": 430726,
+      "nom": "The Peak Team",
+      "anneeSortie": 2025,
+      "bggRank": 6063
+    },
+    {
+      "bggId": 382894,
+      "nom": "The Hunters A.D. 1492",
+      "anneeSortie": 2025,
+      "bggRank": 6068
+    },
+    {
+      "bggId": 426994,
+      "nom": "Urbion (Second Edition)",
+      "anneeSortie": 2024,
+      "bggRank": 6072
+    },
+    {
+      "bggId": 447707,
+      "nom": "3 Witches",
+      "anneeSortie": 2025,
+      "bggRank": 6074
+    },
+    {
+      "bggId": 364393,
+      "nom": "Star Tycoon",
+      "anneeSortie": 2024,
+      "bggRank": 6076
+    },
+    {
+      "bggId": 444648,
+      "nom": "Tornado Splash",
+      "anneeSortie": 2025,
+      "bggRank": 6081
+    },
+    {
+      "bggId": 386447,
+      "nom": "Storm Raiders",
+      "anneeSortie": 2025,
+      "bggRank": 6120
+    },
+    {
+      "bggId": 423170,
+      "nom": "Pyradice",
+      "anneeSortie": 2025,
+      "bggRank": 6122
+    },
+    {
+      "bggId": 406619,
+      "nom": "Kronologic: Cuzco 1450",
+      "anneeSortie": 2025,
+      "bggRank": 6125
+    },
+    {
+      "bggId": 446519,
+      "nom": "Miams",
+      "anneeSortie": 2025,
+      "bggRank": 6129
+    },
+    {
+      "bggId": 403123,
+      "nom": "Puerto Banana",
+      "anneeSortie": 2024,
+      "bggRank": 6139
+    },
+    {
+      "bggId": 424972,
+      "nom": "Sushi Go! 10th Anniversary Edition",
+      "anneeSortie": 2024,
+      "bggRank": 6141
+    },
+    {
+      "bggId": 395181,
+      "nom": "Farms Race",
+      "anneeSortie": 2024,
+      "bggRank": 6156
+    },
+    {
+      "bggId": 417505,
+      "nom": "Dabba Walla",
+      "anneeSortie": 2024,
+      "bggRank": 6157
+    },
+    {
+      "bggId": 446703,
+      "nom": "Fortunes of Scoundrel Bay",
+      "anneeSortie": 2025,
+      "bggRank": 6173
+    },
+    {
+      "bggId": 420385,
+      "nom": "The Yellow House",
+      "anneeSortie": 2024,
+      "bggRank": 6176
+    },
+    {
+      "bggId": 346773,
+      "nom": "The Stifling Dark",
+      "anneeSortie": 2024,
+      "bggRank": 6189
+    },
+    {
+      "bggId": 403240,
+      "nom": "King of Tokyo: Origins",
+      "anneeSortie": 2024,
+      "bggRank": 6193
+    },
+    {
+      "bggId": 402337,
+      "nom": "Expressions",
+      "anneeSortie": 2024,
+      "bggRank": 6195
+    },
+    {
+      "bggId": 443186,
+      "nom": "Pandora's Legacy",
+      "anneeSortie": 2025,
+      "bggRank": 6197
+    },
+    {
+      "bggId": 383190,
+      "nom": "Positano",
+      "anneeSortie": 2025,
+      "bggRank": 6199
+    },
+    {
+      "bggId": 417426,
+      "nom": "Rogue Dungeon: 2nd Edition",
+      "anneeSortie": 2024,
+      "bggRank": 6201
+    },
+    {
+      "bggId": 417518,
+      "nom": "Floristry",
+      "anneeSortie": 2025,
+      "bggRank": 6209
+    },
+    {
+      "bggId": 334827,
+      "nom": "Starship Interstellar",
+      "anneeSortie": 2024,
+      "bggRank": 6223
+    },
+    {
+      "bggId": 400266,
+      "nom": "Boreal",
+      "anneeSortie": 2024,
+      "bggRank": 6233
+    },
+    {
+      "bggId": 440136,
+      "nom": "Labyrinth: Chronicles",
+      "anneeSortie": 2026,
+      "bggRank": 6255
+    },
+    {
+      "bggId": 339300,
+      "nom": "Army of the Dead: A Zombicide Game",
+      "anneeSortie": 2024,
+      "bggRank": 6280
+    },
+    {
+      "bggId": 417155,
+      "nom": "Kyoto no Neko",
+      "anneeSortie": 2024,
+      "bggRank": 6281
+    },
+    {
+      "bggId": 433007,
+      "nom": "Cascadia Junior",
+      "anneeSortie": 2025,
+      "bggRank": 6287
+    },
+    {
+      "bggId": 449353,
+      "nom": "Mindbug x King of Tokyo",
+      "anneeSortie": 2025,
+      "bggRank": 6291
+    },
+    {
+      "bggId": 274471,
+      "nom": "Malhya: Lands of Legends",
+      "anneeSortie": 2025,
+      "bggRank": 6305
+    },
+    {
+      "bggId": 409005,
+      "nom": "Nassau",
+      "anneeSortie": 2024,
+      "bggRank": 6308
+    },
+    {
+      "bggId": 367625,
+      "nom": "Set A Watch: Forsaken Isles",
+      "anneeSortie": 2024,
+      "bggRank": 6311
+    },
+    {
+      "bggId": 374593,
+      "nom": "The Last of Us: Escape the Dark",
+      "anneeSortie": 2024,
+      "bggRank": 6326
+    },
+    {
+      "bggId": 385437,
+      "nom": "Snowcrest",
+      "anneeSortie": 2024,
+      "bggRank": 6343
+    },
+    {
+      "bggId": 363278,
+      "nom": "Dodos Riding Dinos: Dodo Dash",
+      "anneeSortie": 2024,
+      "bggRank": 6347
+    },
+    {
+      "bggId": 437214,
+      "nom": "EXIT: The Game – Adventures on Catan",
+      "anneeSortie": 2025,
+      "bggRank": 6354
+    },
+    {
+      "bggId": 416232,
+      "nom": "Square One",
+      "anneeSortie": 2025,
+      "bggRank": 6358
+    },
+    {
+      "bggId": 406329,
+      "nom": "Metrorunner",
+      "anneeSortie": 2024,
+      "bggRank": 6359
+    },
+    {
+      "bggId": 380677,
+      "nom": "Biohack",
+      "anneeSortie": 2024,
+      "bggRank": 6361
+    },
+    {
+      "bggId": 404170,
+      "nom": "France '40: 2nd Edition",
+      "anneeSortie": 2024,
+      "bggRank": 6362
+    },
+    {
+      "bggId": 396335,
+      "nom": "BOG",
+      "anneeSortie": 2024,
+      "bggRank": 6379
+    },
+    {
+      "bggId": 402817,
+      "nom": "La Fleur",
+      "anneeSortie": 2025,
+      "bggRank": 6404
+    },
+    {
+      "bggId": 386425,
+      "nom": "Peacemakers: Horrors of War",
+      "anneeSortie": 2024,
+      "bggRank": 6405
+    },
+    {
+      "bggId": 399115,
+      "nom": "Photo Tour: North America",
+      "anneeSortie": 2025,
+      "bggRank": 6414
+    },
+    {
+      "bggId": 434870,
+      "nom": "Shallow Regrets",
+      "anneeSortie": 2025,
+      "bggRank": 6419
+    },
+    {
+      "bggId": 433386,
+      "nom": "Gloomies",
+      "anneeSortie": 2025,
+      "bggRank": 6424
+    },
+    {
+      "bggId": 423689,
+      "nom": "Disney Lorcana: Gateway",
+      "anneeSortie": 2024,
+      "bggRank": 6426
+    },
+    {
+      "bggId": 425765,
+      "nom": "Ministry of Lost Things: Case 1 – Lint Condition",
+      "anneeSortie": 2025,
+      "bggRank": 6443
+    },
+    {
+      "bggId": 282527,
+      "nom": "Dawn of Madness",
+      "anneeSortie": 2024,
+      "bggRank": 6446
+    },
+    {
+      "bggId": 325020,
+      "nom": "Wolfpack: The North Atlantic Convoy Struggles October 1941 - March 1943",
+      "anneeSortie": 2024,
+      "bggRank": 6453
+    },
+    {
+      "bggId": 453584,
+      "nom": "Pili Pili",
+      "anneeSortie": 2025,
+      "bggRank": 6455
+    },
+    {
+      "bggId": 415848,
+      "nom": "Lands of Evershade",
+      "anneeSortie": 2026,
+      "bggRank": 6480
+    },
+    {
+      "bggId": 449957,
+      "nom": "Valpiedra: Descensus ad tenebras",
+      "anneeSortie": 2025,
+      "bggRank": 6481
+    },
+    {
+      "bggId": 387015,
+      "nom": "Spring Cleaning",
+      "anneeSortie": 2024,
+      "bggRank": 6483
+    },
+    {
+      "bggId": 432487,
+      "nom": "Trickarus",
+      "anneeSortie": 2024,
+      "bggRank": 6493
+    },
+    {
+      "bggId": 414351,
+      "nom": "Cat Blues: The Big Gig",
+      "anneeSortie": 2024,
+      "bggRank": 6497
+    },
+    {
+      "bggId": 347601,
+      "nom": "Cross Bronx Expressway",
+      "anneeSortie": 2025,
+      "bggRank": 6505
+    },
+    {
+      "bggId": 342075,
+      "nom": "Crossbows & Catapults: Fortress War",
+      "anneeSortie": 2024,
+      "bggRank": 6509
+    },
+    {
+      "bggId": 415181,
+      "nom": "Flash Point: Legacy of Flame",
+      "anneeSortie": 2025,
+      "bggRank": 6512
+    },
+    {
+      "bggId": 429608,
+      "nom": "Mü & more: Revised Edition",
+      "anneeSortie": 2024,
+      "bggRank": 6514
+    },
+    {
+      "bggId": 439685,
+      "nom": "Pacts",
+      "anneeSortie": 2025,
+      "bggRank": 6519
+    },
+    {
+      "bggId": 396749,
+      "nom": "Magic Maze Tower",
+      "anneeSortie": 2024,
+      "bggRank": 6522
+    },
+    {
+      "bggId": 425235,
+      "nom": "Point of View: Lost Places",
+      "anneeSortie": 2024,
+      "bggRank": 6524
+    },
+    {
+      "bggId": 418826,
+      "nom": "Dark Blood",
+      "anneeSortie": 2025,
+      "bggRank": 6548
+    },
+    {
+      "bggId": 446492,
+      "nom": "Tax the Rich",
+      "anneeSortie": 2025,
+      "bggRank": 6560
+    },
+    {
+      "bggId": 428322,
+      "nom": "Locus",
+      "anneeSortie": 2024,
+      "bggRank": 6561
+    },
+    {
+      "bggId": 447776,
+      "nom": "The Game Makers",
+      "anneeSortie": 2026,
+      "bggRank": 6563
+    },
+    {
+      "bggId": 436511,
+      "nom": "Compania",
+      "anneeSortie": 2025,
+      "bggRank": 6566
+    },
+    {
+      "bggId": 452211,
+      "nom": "Movers & Shakers",
+      "anneeSortie": 2026,
+      "bggRank": 6575
+    },
+    {
+      "bggId": 342277,
+      "nom": "Hellbringer",
+      "anneeSortie": 2024,
+      "bggRank": 6580
+    },
+    {
+      "bggId": 379363,
+      "nom": "Castellans",
+      "anneeSortie": 2024,
+      "bggRank": 6600
+    },
+    {
+      "bggId": 439310,
+      "nom": "Brick Like This!",
+      "anneeSortie": 2025,
+      "bggRank": 6620
+    },
+    {
+      "bggId": 406591,
+      "nom": "The Walking Dead: Surrounded",
+      "anneeSortie": 2024,
+      "bggRank": 6624
+    },
+    {
+      "bggId": 430875,
+      "nom": "High Tide",
+      "anneeSortie": 2024,
+      "bggRank": 6642
+    },
+    {
+      "bggId": 373544,
+      "nom": "Tether",
+      "anneeSortie": 2024,
+      "bggRank": 6648
+    },
+    {
+      "bggId": 291334,
+      "nom": "Tanto Monta: The Rise of Ferdinand & Isabella 1470-1516",
+      "anneeSortie": 2024,
+      "bggRank": 6657
+    },
+    {
+      "bggId": 419291,
+      "nom": "A Wayfarer's Tale: The Journey Begins",
+      "anneeSortie": 2025,
+      "bggRank": 6660
+    },
+    {
+      "bggId": 447254,
+      "nom": "Azure",
+      "anneeSortie": 2026,
+      "bggRank": 6691
+    },
+    {
+      "bggId": 421547,
+      "nom": "Disney Lorcana: Illumineer's Quest – Deep Trouble",
+      "anneeSortie": 2024,
+      "bggRank": 6707
+    },
+    {
+      "bggId": 437938,
+      "nom": "Top Ten Adventures",
+      "anneeSortie": 2025,
+      "bggRank": 6718
+    },
+    {
+      "bggId": 429423,
+      "nom": "Postcards",
+      "anneeSortie": 2025,
+      "bggRank": 6745
+    },
+    {
+      "bggId": 457436,
+      "nom": "All In: Predictions",
+      "anneeSortie": 2026,
+      "bggRank": 6748
+    },
+    {
+      "bggId": 421530,
+      "nom": "Night Soil",
+      "anneeSortie": 2025,
+      "bggRank": 6764
+    },
+    {
+      "bggId": 449974,
+      "nom": "Space Lab",
+      "anneeSortie": 2025,
+      "bggRank": 6765
+    },
+    {
+      "bggId": 426229,
+      "nom": "Overparked",
+      "anneeSortie": 2025,
+      "bggRank": 6785
+    },
+    {
+      "bggId": 338067,
+      "nom": "6: Siege – The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 6787
+    },
+    {
+      "bggId": 437273,
+      "nom": "Brilliant",
+      "anneeSortie": 2025,
+      "bggRank": 6794
+    },
+    {
+      "bggId": 372967,
+      "nom": "Trailblazer: The Arizona Trail",
+      "anneeSortie": 2025,
+      "bggRank": 6795
+    },
+    {
+      "bggId": 401217,
+      "nom": "Cascadito",
+      "anneeSortie": 2024,
+      "bggRank": 6797
+    },
+    {
+      "bggId": 418316,
+      "nom": "Halo: Flashpoint",
+      "anneeSortie": 2024,
+      "bggRank": 6821
+    },
+    {
+      "bggId": 298086,
+      "nom": "The Fog: Escape from Paradise",
+      "anneeSortie": 2024,
+      "bggRank": 6823
+    },
+    {
+      "bggId": 432858,
+      "nom": "Artistry",
+      "anneeSortie": 2025,
+      "bggRank": 6829
+    },
+    {
+      "bggId": 380681,
+      "nom": "Apex Legends: The Board Game",
+      "anneeSortie": 2025,
+      "bggRank": 6843
+    },
+    {
+      "bggId": 366800,
+      "nom": "Spark Riders 3000",
+      "anneeSortie": 2024,
+      "bggRank": 6845
+    },
+    {
+      "bggId": 406977,
+      "nom": "Under Our Sun",
+      "anneeSortie": 2024,
+      "bggRank": 6856
+    },
+    {
+      "bggId": 338164,
+      "nom": "Nanolith",
+      "anneeSortie": 2024,
+      "bggRank": 6860
+    },
+    {
+      "bggId": 394691,
+      "nom": "The Six of VIII",
+      "anneeSortie": 2024,
+      "bggRank": 6878
+    },
+    {
+      "bggId": 416780,
+      "nom": "Adulthood",
+      "anneeSortie": 2024,
+      "bggRank": 6894
+    },
+    {
+      "bggId": 434356,
+      "nom": "Micro Hero: Hercules",
+      "anneeSortie": 2025,
+      "bggRank": 6897
+    },
+    {
+      "bggId": 322076,
+      "nom": "On the Underground: Paris / New York",
+      "anneeSortie": 2024,
+      "bggRank": 6898
+    },
+    {
+      "bggId": 361875,
+      "nom": "Thiefdom",
+      "anneeSortie": 2025,
+      "bggRank": 6925
+    },
+    {
+      "bggId": 438417,
+      "nom": "The Last Droids",
+      "anneeSortie": 2025,
+      "bggRank": 6936
+    },
+    {
+      "bggId": 403258,
+      "nom": "Pikit",
+      "anneeSortie": 2024,
+      "bggRank": 6941
+    },
+    {
+      "bggId": 432705,
+      "nom": "Ofrenda",
+      "anneeSortie": 2025,
+      "bggRank": 6943
+    },
+    {
+      "bggId": 424980,
+      "nom": "Parks: Roll & Hike",
+      "anneeSortie": 2024,
+      "bggRank": 6952
+    },
+    {
+      "bggId": 414349,
+      "nom": "Bebop",
+      "anneeSortie": 2024,
+      "bggRank": 6959
+    },
+    {
+      "bggId": 361469,
+      "nom": "Sovereign: Bretwalda",
+      "anneeSortie": 2025,
+      "bggRank": 6960
+    },
+    {
+      "bggId": 436046,
+      "nom": "One Round?",
+      "anneeSortie": 2025,
+      "bggRank": 6963
+    },
+    {
+      "bggId": 369341,
+      "nom": "Galaxy Postman",
+      "anneeSortie": 2024,
+      "bggRank": 6966
+    },
+    {
+      "bggId": 410238,
+      "nom": "Logic & Lore",
+      "anneeSortie": 2025,
+      "bggRank": 6973
+    },
+    {
+      "bggId": 283634,
+      "nom": "CoLab",
+      "anneeSortie": 2024,
+      "bggRank": 6974
+    },
+    {
+      "bggId": 329534,
+      "nom": "In the Shadows: Resistance in France 1943 - 1944",
+      "anneeSortie": 2025,
+      "bggRank": 6979
+    },
+    {
+      "bggId": 405994,
+      "nom": "New Cold War",
+      "anneeSortie": 2025,
+      "bggRank": 6985
+    },
+    {
+      "bggId": 408828,
+      "nom": "Casinopolis",
+      "anneeSortie": 2025,
+      "bggRank": 6986
+    },
+    {
+      "bggId": 391549,
+      "nom": "Pillars of Heracles",
+      "anneeSortie": 2025,
+      "bggRank": 6993
+    },
+    {
+      "bggId": 428638,
+      "nom": "Vegas Strip",
+      "anneeSortie": 2025,
+      "bggRank": 6994
+    },
+    {
+      "bggId": 397685,
+      "nom": "EVE: War for New Eden",
+      "anneeSortie": 2025,
+      "bggRank": 7005
+    },
+    {
+      "bggId": 411543,
+      "nom": "My Shelfie: The Dice Game",
+      "anneeSortie": 2024,
+      "bggRank": 7023
+    },
+    {
+      "bggId": 449893,
+      "nom": "Cereal Killer",
+      "anneeSortie": 2025,
+      "bggRank": 7027
+    },
+    {
+      "bggId": 417629,
+      "nom": "Boxtop Pinball: Haunted House",
+      "anneeSortie": 2024,
+      "bggRank": 7033
+    },
+    {
+      "bggId": 427886,
+      "nom": "Fossilium",
+      "anneeSortie": 2025,
+      "bggRank": 7049
+    },
+    {
+      "bggId": 433074,
+      "nom": "Cat Between Us",
+      "anneeSortie": 2024,
+      "bggRank": 7052
+    },
+    {
+      "bggId": 273436,
+      "nom": "Rebel Fury",
+      "anneeSortie": 2024,
+      "bggRank": 7056
+    },
+    {
+      "bggId": 448445,
+      "nom": "Dark Pact",
+      "anneeSortie": 2026,
+      "bggRank": 7093
+    },
+    {
+      "bggId": 425602,
+      "nom": "YUBIBO",
+      "anneeSortie": 2024,
+      "bggRank": 7115
+    },
+    {
+      "bggId": 339598,
+      "nom": "Divinus",
+      "anneeSortie": 2024,
+      "bggRank": 7118
+    },
+    {
+      "bggId": 437334,
+      "nom": "The Hanging Gardens",
+      "anneeSortie": 2025,
+      "bggRank": 7126
+    },
+    {
+      "bggId": 438481,
+      "nom": "Happy Mochi",
+      "anneeSortie": 2025,
+      "bggRank": 7136
+    },
+    {
+      "bggId": 437781,
+      "nom": "Digit Code",
+      "anneeSortie": 2025,
+      "bggRank": 7145
+    },
+    {
+      "bggId": 440024,
+      "nom": "Gingham",
+      "anneeSortie": 2025,
+      "bggRank": 7146
+    },
+    {
+      "bggId": 394094,
+      "nom": "Snow Planner",
+      "anneeSortie": 2024,
+      "bggRank": 7149
+    },
+    {
+      "bggId": 429816,
+      "nom": "Unlock!: Short Adventures – Inside the Mind of Sherlock Holmes",
+      "anneeSortie": 2024,
+      "bggRank": 7158
+    },
+    {
+      "bggId": 448428,
+      "nom": "Moustache",
+      "anneeSortie": 2025,
+      "bggRank": 7175
+    },
+    {
+      "bggId": 430611,
+      "nom": "Hyperstar Run",
+      "anneeSortie": 2025,
+      "bggRank": 7184
+    },
+    {
+      "bggId": 354923,
+      "nom": "Gudnak",
+      "anneeSortie": 2024,
+      "bggRank": 7187
+    },
+    {
+      "bggId": 408727,
+      "nom": "Catan: New Energies",
+      "anneeSortie": 2024,
+      "bggRank": 7207
+    },
+    {
+      "bggId": 448116,
+      "nom": "Borealis: Arctic Expeditions",
+      "anneeSortie": 2026,
+      "bggRank": 7227
+    },
+    {
+      "bggId": 426355,
+      "nom": "Onoda",
+      "anneeSortie": 2025,
+      "bggRank": 7238
+    },
+    {
+      "bggId": 419378,
+      "nom": "Vicious Gardens",
+      "anneeSortie": 2025,
+      "bggRank": 7239
+    },
+    {
+      "bggId": 444683,
+      "nom": "Pilgrims: Curious Adventures",
+      "anneeSortie": 2025,
+      "bggRank": 7247
+    },
+    {
+      "bggId": 350992,
+      "nom": "Neuroriders",
+      "anneeSortie": 2024,
+      "bggRank": 7256
+    },
+    {
+      "bggId": 421232,
+      "nom": "Captain Tsubasa: The Card Game",
+      "anneeSortie": 2024,
+      "bggRank": 7271
+    },
+    {
+      "bggId": 414595,
+      "nom": "Wandering Galaxy: A Crossroads Game",
+      "anneeSortie": 2025,
+      "bggRank": 7289
+    },
+    {
+      "bggId": 413533,
+      "nom": "Stickers",
+      "anneeSortie": 2024,
+      "bggRank": 7297
+    },
+    {
+      "bggId": 415507,
+      "nom": "Kokeshi",
+      "anneeSortie": 2024,
+      "bggRank": 7306
+    },
+    {
+      "bggId": 443982,
+      "nom": "Petiquette",
+      "anneeSortie": 2025,
+      "bggRank": 7330
+    },
+    {
+      "bggId": 436751,
+      "nom": "Under the Leaves",
+      "anneeSortie": 2025,
+      "bggRank": 7346
+    },
+    {
+      "bggId": 415838,
+      "nom": "Battalion: War of the Ancients",
+      "anneeSortie": 2024,
+      "bggRank": 7350
+    },
+    {
+      "bggId": 400495,
+      "nom": "JinxO",
+      "anneeSortie": 2024,
+      "bggRank": 7352
+    },
+    {
+      "bggId": 450112,
+      "nom": "Ghost Lift",
+      "anneeSortie": 2025,
+      "bggRank": 7354
+    },
+    {
+      "bggId": 402125,
+      "nom": "Umbrella",
+      "anneeSortie": 2024,
+      "bggRank": 7361
+    },
+    {
+      "bggId": 399277,
+      "nom": "Obscurians",
+      "anneeSortie": 2024,
+      "bggRank": 7366
+    },
+    {
+      "bggId": 416281,
+      "nom": "Bosa",
+      "anneeSortie": 2024,
+      "bggRank": 7377
+    },
+    {
+      "bggId": 429186,
+      "nom": "Heroes: Write & Conquer",
+      "anneeSortie": 2025,
+      "bggRank": 7390
+    },
+    {
+      "bggId": 443297,
+      "nom": "Map Masters",
+      "anneeSortie": 2025,
+      "bggRank": 7398
+    },
+    {
+      "bggId": 429860,
+      "nom": "Transgalactica",
+      "anneeSortie": 2025,
+      "bggRank": 7422
+    },
+    {
+      "bggId": 427278,
+      "nom": "Roaring 20s",
+      "anneeSortie": 2024,
+      "bggRank": 7424
+    },
+    {
+      "bggId": 411872,
+      "nom": "Bower",
+      "anneeSortie": 2024,
+      "bggRank": 7425
+    },
+    {
+      "bggId": 391165,
+      "nom": "Chants for the Old Ones",
+      "anneeSortie": 2024,
+      "bggRank": 7442
+    },
+    {
+      "bggId": 430856,
+      "nom": "Gachapon Trick",
+      "anneeSortie": 2024,
+      "bggRank": 7452
+    },
+    {
+      "bggId": 382578,
+      "nom": "Dungeon Saga Origins",
+      "anneeSortie": 2024,
+      "bggRank": 7455
+    },
+    {
+      "bggId": 427202,
+      "nom": "La Pâtisserie Rococo",
+      "anneeSortie": 2026,
+      "bggRank": 7459
+    },
+    {
+      "bggId": 464675,
+      "nom": "Catan: On the Road",
+      "anneeSortie": 2026,
+      "bggRank": 7480
+    },
+    {
+      "bggId": 414648,
+      "nom": "The Search for UAPs",
+      "anneeSortie": 2024,
+      "bggRank": 7490
+    },
+    {
+      "bggId": 420091,
+      "nom": "DaDaDa",
+      "anneeSortie": 2024,
+      "bggRank": 7513
+    },
+    {
+      "bggId": 427084,
+      "nom": "Superstore 3000",
+      "anneeSortie": 2024,
+      "bggRank": 7530
+    },
+    {
+      "bggId": 428664,
+      "nom": "Fantasy Realms: Greek Legends",
+      "anneeSortie": 2025,
+      "bggRank": 7536
+    },
+    {
+      "bggId": 417106,
+      "nom": "Neon Reign",
+      "anneeSortie": 2024,
+      "bggRank": 7538
+    },
+    {
+      "bggId": 439803,
+      "nom": "L'oaf",
+      "anneeSortie": 2025,
+      "bggRank": 7551
+    },
+    {
+      "bggId": 401501,
+      "nom": "Floresta",
+      "anneeSortie": 2024,
+      "bggRank": 7597
+    },
+    {
+      "bggId": 419997,
+      "nom": "Happy Home",
+      "anneeSortie": 2024,
+      "bggRank": 7617
+    },
+    {
+      "bggId": 434848,
+      "nom": "Adventurous",
+      "anneeSortie": 2025,
+      "bggRank": 7682
+    },
+    {
+      "bggId": 406320,
+      "nom": "L.A.M.A. Kadabra",
+      "anneeSortie": 2024,
+      "bggRank": 7695
+    },
+    {
+      "bggId": 437370,
+      "nom": "This Game Is Killer: Frozen Horror",
+      "anneeSortie": 2025,
+      "bggRank": 7696
+    },
+    {
+      "bggId": 414855,
+      "nom": "2 Pommes 3 Pains",
+      "anneeSortie": 2024,
+      "bggRank": 7710
+    },
+    {
+      "bggId": 396375,
+      "nom": "Gems of Iridescia",
+      "anneeSortie": 2025,
+      "bggRank": 7739
+    },
+    {
+      "bggId": 436560,
+      "nom": "Riftbound: The League of Legends Trading Card Game",
+      "anneeSortie": 2025,
+      "bggRank": 7742
+    },
+    {
+      "bggId": 424442,
+      "nom": "Beatz'n'Catz",
+      "anneeSortie": 2024,
+      "bggRank": 7744
+    },
+    {
+      "bggId": 324403,
+      "nom": "Re;ACT: The Arts of War",
+      "anneeSortie": 2024,
+      "bggRank": 7758
+    },
+    {
+      "bggId": 394451,
+      "nom": "Diluvium",
+      "anneeSortie": 2024,
+      "bggRank": 7769
+    },
+    {
+      "bggId": 431280,
+      "nom": "2 Win",
+      "anneeSortie": 2025,
+      "bggRank": 7778
+    },
+    {
+      "bggId": 396740,
+      "nom": "23 Knives",
+      "anneeSortie": 2025,
+      "bggRank": 7806
+    },
+    {
+      "bggId": 421570,
+      "nom": "Misfit Heroes",
+      "anneeSortie": 2026,
+      "bggRank": 7824
+    },
+    {
+      "bggId": 414927,
+      "nom": "Parks & Potions",
+      "anneeSortie": 2025,
+      "bggRank": 7829
+    },
+    {
+      "bggId": 458230,
+      "nom": "Ghosts Galore",
+      "anneeSortie": 2026,
+      "bggRank": 7830
+    },
+    {
+      "bggId": 385645,
+      "nom": "Typewriter",
+      "anneeSortie": 2024,
+      "bggRank": 7831
+    },
+    {
+      "bggId": 326264,
+      "nom": "Ovation",
+      "anneeSortie": 2024,
+      "bggRank": 7835
+    },
+    {
+      "bggId": 451310,
+      "nom": "Snake Charmers",
+      "anneeSortie": 2025,
+      "bggRank": 7857
+    },
+    {
+      "bggId": 402674,
+      "nom": "All Aboard!",
+      "anneeSortie": 2025,
+      "bggRank": 7872
+    },
+    {
+      "bggId": 445423,
+      "nom": "Graft",
+      "anneeSortie": 2025,
+      "bggRank": 7898
+    },
+    {
+      "bggId": 397099,
+      "nom": "The Gilded Realms",
+      "anneeSortie": 2025,
+      "bggRank": 7954
+    },
+    {
+      "bggId": 420517,
+      "nom": "Monumental Duel: Exploration",
+      "anneeSortie": 2024,
+      "bggRank": 7995
+    },
+    {
+      "bggId": 413948,
+      "nom": "Festival",
+      "anneeSortie": 2024,
+      "bggRank": 7997
+    },
+    {
+      "bggId": 422668,
+      "nom": "Ghost Fightin' Treasure Hunters: Anniversary Edition",
+      "anneeSortie": 2024,
+      "bggRank": 8000
+    },
+    {
+      "bggId": 442512,
+      "nom": "Movie Tricks",
+      "anneeSortie": 2025,
+      "bggRank": 8034
+    },
+    {
+      "bggId": 405719,
+      "nom": "Tabletop Inc.",
+      "anneeSortie": 2025,
+      "bggRank": 8054
+    },
+    {
+      "bggId": 420214,
+      "nom": "Arctic",
+      "anneeSortie": 2024,
+      "bggRank": 8056
+    },
+    {
+      "bggId": 429446,
+      "nom": "Moirai",
+      "anneeSortie": 2025,
+      "bggRank": 8068
+    },
+    {
+      "bggId": 432536,
+      "nom": "Virus! Marvel",
+      "anneeSortie": 2024,
+      "bggRank": 8078
+    },
+    {
+      "bggId": 436516,
+      "nom": "Merchants of Andromeda",
+      "anneeSortie": 2025,
+      "bggRank": 8087
+    },
+    {
+      "bggId": 406684,
+      "nom": "Sonic Roll",
+      "anneeSortie": 2024,
+      "bggRank": 8091
+    },
+    {
+      "bggId": 289957,
+      "nom": "Lost Lumina",
+      "anneeSortie": 2024,
+      "bggRank": 8102
+    },
+    {
+      "bggId": 428224,
+      "nom": "1 A.M. Jailbreak",
+      "anneeSortie": 2024,
+      "bggRank": 8147
+    },
+    {
+      "bggId": 383725,
+      "nom": "Cryptic Nature",
+      "anneeSortie": 2024,
+      "bggRank": 8192
+    },
+    {
+      "bggId": 355788,
+      "nom": "Chemical Overload",
+      "anneeSortie": 2025,
+      "bggRank": 8194
+    },
+    {
+      "bggId": 411617,
+      "nom": "Quoridor Pac-Man",
+      "anneeSortie": 2024,
+      "bggRank": 8195
+    },
+    {
+      "bggId": 448416,
+      "nom": "Beasts",
+      "anneeSortie": 2025,
+      "bggRank": 8240
+    },
+    {
+      "bggId": 379582,
+      "nom": "Neodreams",
+      "anneeSortie": 2024,
+      "bggRank": 8241
+    },
+    {
+      "bggId": 440843,
+      "nom": "Moonshine",
+      "anneeSortie": 2025,
+      "bggRank": 8261
+    },
+    {
+      "bggId": 445045,
+      "nom": "Dice Pool Party",
+      "anneeSortie": 2025,
+      "bggRank": 8289
+    },
+    {
+      "bggId": 421281,
+      "nom": "1980 Sixtina",
+      "anneeSortie": 2024,
+      "bggRank": 8301
+    },
+    {
+      "bggId": 426482,
+      "nom": "One Piece Nakama: Friends & Enemies",
+      "anneeSortie": 2024,
+      "bggRank": 8319
+    },
+    {
+      "bggId": 455101,
+      "nom": "Unlock!: Enchanted Adventures",
+      "anneeSortie": 2025,
+      "bggRank": 8366
+    },
+    {
+      "bggId": 274525,
+      "nom": "Soul Raiders",
+      "anneeSortie": 2025,
+      "bggRank": 8368
+    },
+    {
+      "bggId": 424203,
+      "nom": "Minecart Town",
+      "anneeSortie": 2024,
+      "bggRank": 8382
+    },
+    {
+      "bggId": 450337,
+      "nom": "Rowdy Partners",
+      "anneeSortie": 2025,
+      "bggRank": 8407
+    },
+    {
+      "bggId": 425532,
+      "nom": "Otter",
+      "anneeSortie": 2025,
+      "bggRank": 8420
+    },
+    {
+      "bggId": 383450,
+      "nom": "Pies",
+      "anneeSortie": 2024,
+      "bggRank": 8430
+    },
+    {
+      "bggId": 417719,
+      "nom": "Virus!: Roll & Write",
+      "anneeSortie": 2024,
+      "bggRank": 8473
+    },
+    {
+      "bggId": 404846,
+      "nom": "Bable",
+      "anneeSortie": 2024,
+      "bggRank": 8481
+    },
+    {
+      "bggId": 375751,
+      "nom": "Vampire: The Masquerade – Milan Uprising",
+      "anneeSortie": 2024,
+      "bggRank": 8523
+    },
+    {
+      "bggId": 415197,
+      "nom": "Ziggurat",
+      "anneeSortie": 2024,
+      "bggRank": 8524
+    },
+    {
+      "bggId": 412230,
+      "nom": "Lifeboats: Plank of Carneades",
+      "anneeSortie": 2024,
+      "bggRank": 8529
+    },
+    {
+      "bggId": 429840,
+      "nom": "Twisted Cryptids",
+      "anneeSortie": 2025,
+      "bggRank": 8553
+    },
+    {
+      "bggId": 399959,
+      "nom": "Click A Tree",
+      "anneeSortie": 2025,
+      "bggRank": 8554
+    },
+    {
+      "bggId": 427260,
+      "nom": "Living Forest Duel",
+      "anneeSortie": 2025,
+      "bggRank": 8600
+    },
+    {
+      "bggId": 401784,
+      "nom": "Koinobori",
+      "anneeSortie": 2024,
+      "bggRank": 8601
+    },
+    {
+      "bggId": 438845,
+      "nom": "Bombastic",
+      "anneeSortie": 2025,
+      "bggRank": 8629
+    },
+    {
+      "bggId": 404923,
+      "nom": "Operation Barclay",
+      "anneeSortie": 2024,
+      "bggRank": 8633
+    },
+    {
+      "bggId": 383117,
+      "nom": "Cathood",
+      "anneeSortie": 2025,
+      "bggRank": 8641
+    },
+    {
+      "bggId": 432715,
+      "nom": "Dirt & Dust",
+      "anneeSortie": 2025,
+      "bggRank": 8677
+    },
+    {
+      "bggId": 393306,
+      "nom": "A.I.Pokalypse",
+      "anneeSortie": 2024,
+      "bggRank": 8694
+    },
+    {
+      "bggId": 363695,
+      "nom": "Ecosfera",
+      "anneeSortie": 2024,
+      "bggRank": 8703
+    },
+    {
+      "bggId": 327082,
+      "nom": "Garden Rush",
+      "anneeSortie": 2025,
+      "bggRank": 8718
+    },
+    {
+      "bggId": 451304,
+      "nom": "Emblems",
+      "anneeSortie": 2025,
+      "bggRank": 8774
+    },
+    {
+      "bggId": 419230,
+      "nom": "Bloomchasers: A Delightful 3D Tree Game of Flowers and Wits",
+      "anneeSortie": 2025,
+      "bggRank": 8813
+    },
+    {
+      "bggId": 406459,
+      "nom": "Love Letter: Bridgerton",
+      "anneeSortie": 2024,
+      "bggRank": 8899
+    },
+    {
+      "bggId": 429849,
+      "nom": "Red Carpet",
+      "anneeSortie": 2025,
+      "bggRank": 8938
+    },
+    {
+      "bggId": 423698,
+      "nom": "Tree Society",
+      "anneeSortie": 2024,
+      "bggRank": 8965
+    },
+    {
+      "bggId": 404351,
+      "nom": "Flip Circus",
+      "anneeSortie": 2024,
+      "bggRank": 8982
+    },
+    {
+      "bggId": 423307,
+      "nom": "Zero to Hero",
+      "anneeSortie": 2024,
+      "bggRank": 9009
+    },
+    {
+      "bggId": 448756,
+      "nom": "Oh My Socks!",
+      "anneeSortie": 2025,
+      "bggRank": 9023
+    },
+    {
+      "bggId": 417224,
+      "nom": "Onstage",
+      "anneeSortie": 2024,
+      "bggRank": 9058
+    },
+    {
+      "bggId": 359157,
+      "nom": "Nestlings",
+      "anneeSortie": 2024,
+      "bggRank": 9069
+    },
+    {
+      "bggId": 431304,
+      "nom": "Mythicals",
+      "anneeSortie": 2025,
+      "bggRank": 9077
+    },
+    {
+      "bggId": 316312,
+      "nom": "Buru",
+      "anneeSortie": 2024,
+      "bggRank": 9104
+    },
+    {
+      "bggId": 450782,
+      "nom": "Codenames: Back to Hogwarts",
+      "anneeSortie": 2025,
+      "bggRank": 9106
+    },
+    {
+      "bggId": 402126,
+      "nom": "Pocket Cats",
+      "anneeSortie": 2024,
+      "bggRank": 9122
+    },
+    {
+      "bggId": 416552,
+      "nom": "Stalk Exchange",
+      "anneeSortie": 2024,
+      "bggRank": 9153
+    },
+    {
+      "bggId": 434283,
+      "nom": "Habemus Papam",
+      "anneeSortie": 2025,
+      "bggRank": 9209
+    },
+    {
+      "bggId": 453785,
+      "nom": "Pick 'n Packers",
+      "anneeSortie": 2025,
+      "bggRank": 9212
+    },
+    {
+      "bggId": 451924,
+      "nom": "Biddle",
+      "anneeSortie": 2025,
+      "bggRank": 9241
+    },
+    {
+      "bggId": 443829,
+      "nom": "Wriggle Roulette",
+      "anneeSortie": 2025,
+      "bggRank": 9244
+    },
+    {
+      "bggId": 438119,
+      "nom": "Please Don't Burn My Village!",
+      "anneeSortie": 2025,
+      "bggRank": 9262
+    },
+    {
+      "bggId": 410378,
+      "nom": "Temple Code",
+      "anneeSortie": 2024,
+      "bggRank": 9311
+    },
+    {
+      "bggId": 412927,
+      "nom": "Quando",
+      "anneeSortie": 2024,
+      "bggRank": 9334
+    },
+    {
+      "bggId": 391286,
+      "nom": "Terraria: The Board Game",
+      "anneeSortie": 2026,
+      "bggRank": 9356
+    },
+    {
+      "bggId": 427887,
+      "nom": "Castle Builder",
+      "anneeSortie": 2024,
+      "bggRank": 9413
+    },
+    {
+      "bggId": 449137,
+      "nom": "Whirly Derby",
+      "anneeSortie": 2025,
+      "bggRank": 9435
+    },
+    {
+      "bggId": 400949,
+      "nom": "Dark Tomb: Bloodthorn Island",
+      "anneeSortie": 2024,
+      "bggRank": 9451
+    },
+    {
+      "bggId": 420061,
+      "nom": "Yaxha",
+      "anneeSortie": 2024,
+      "bggRank": 9460
+    },
+    {
+      "bggId": 403250,
+      "nom": "Little Tavern",
+      "anneeSortie": 2024,
+      "bggRank": 9502
+    },
+    {
+      "bggId": 349575,
+      "nom": "HiFi",
+      "anneeSortie": 2024,
+      "bggRank": 9546
+    },
+    {
+      "bggId": 435810,
+      "nom": "Legions: Abyss Universe",
+      "anneeSortie": 2025,
+      "bggRank": 9567
+    },
+    {
+      "bggId": 386199,
+      "nom": "Coney",
+      "anneeSortie": 2024,
+      "bggRank": 9609
+    },
+    {
+      "bggId": 410705,
+      "nom": "Clans and Glory",
+      "anneeSortie": 2024,
+      "bggRank": 9633
+    },
+    {
+      "bggId": 400508,
+      "nom": "Word Traveler",
+      "anneeSortie": 2024,
+      "bggRank": 9661
+    },
+    {
+      "bggId": 429508,
+      "nom": "Fuego",
+      "anneeSortie": 2024,
+      "bggRank": 9695
+    },
+    {
+      "bggId": 428231,
+      "nom": "Pulitzer",
+      "anneeSortie": 2025,
+      "bggRank": 9712
+    },
+    {
+      "bggId": 407627,
+      "nom": "Cheez-Tricks",
+      "anneeSortie": 2024,
+      "bggRank": 9772
+    },
+    {
+      "bggId": 403601,
+      "nom": "Winter Court",
+      "anneeSortie": 2024,
+      "bggRank": 9799
+    },
+    {
+      "bggId": 420766,
+      "nom": "Trick & Snipers",
+      "anneeSortie": 2024,
+      "bggRank": 9809
+    },
+    {
+      "bggId": 419793,
+      "nom": "Pyramido: Forgotten Treasures",
+      "anneeSortie": 2025,
+      "bggRank": 9863
+    },
+    {
+      "bggId": 408545,
+      "nom": "Fairy",
+      "anneeSortie": 2024,
+      "bggRank": 9891
+    },
+    {
+      "bggId": 421165,
+      "nom": "Pantheum: Demigods of Olympia",
+      "anneeSortie": 2025,
+      "bggRank": 9892
+    },
+    {
+      "bggId": 421299,
+      "nom": "Golden Cup",
+      "anneeSortie": 2024,
+      "bggRank": 10031
+    },
+    {
+      "bggId": 416850,
+      "nom": "Piggy Piggy",
+      "anneeSortie": 2024,
+      "bggRank": 10064
+    },
+    {
+      "bggId": 410273,
+      "nom": "Balconia",
+      "anneeSortie": 2024,
+      "bggRank": 10101
+    },
+    {
+      "bggId": 449155,
+      "nom": "Epona",
+      "anneeSortie": 2025,
+      "bggRank": 10173
+    },
+    {
+      "bggId": 375616,
+      "nom": "Sirens",
+      "anneeSortie": 2024,
+      "bggRank": 10217
+    },
+    {
+      "bggId": 394306,
+      "nom": "Le Roy des Ribauds",
+      "anneeSortie": 2024,
+      "bggRank": 10244
+    },
+    {
+      "bggId": 449297,
+      "nom": "Ghostbumpers",
+      "anneeSortie": 2025,
+      "bggRank": 10287
+    },
+    {
+      "bggId": 435357,
+      "nom": "Slambo!",
+      "anneeSortie": 2025,
+      "bggRank": 10378
+    },
+    {
+      "bggId": 406708,
+      "nom": "Alpina",
+      "anneeSortie": 2024,
+      "bggRank": 10438
+    },
+    {
+      "bggId": 413435,
+      "nom": "Oh My Pigeons!",
+      "anneeSortie": 2024,
+      "bggRank": 10502
+    },
+    {
+      "bggId": 462464,
+      "nom": "First Giants",
+      "anneeSortie": 2026,
+      "bggRank": 10635
+    },
+    {
+      "bggId": 412997,
+      "nom": "Isle of Night",
+      "anneeSortie": 2024,
+      "bggRank": 10637
+    },
+    {
+      "bggId": 404233,
+      "nom": "Forks: 2nd Edition",
+      "anneeSortie": 2024,
+      "bggRank": 10698
+    },
+    {
+      "bggId": 427865,
+      "nom": "Souvenirs from Venice",
+      "anneeSortie": 2024,
+      "bggRank": 10746
+    },
+    {
+      "bggId": 427464,
+      "nom": "Gangs of Kyoto",
+      "anneeSortie": 2024,
+      "bggRank": 10781
+    },
+    {
+      "bggId": 447565,
+      "nom": "Tacta: Promotional Edition",
+      "anneeSortie": 2025,
+      "bggRank": 10838
+    },
+    {
+      "bggId": 433075,
+      "nom": "TRND",
+      "anneeSortie": 2024,
+      "bggRank": 10860
+    },
+    {
+      "bggId": 435367,
+      "nom": "Survivor: The Tribe Has Spoken",
+      "anneeSortie": 2025,
+      "bggRank": 10869
+    },
+    {
+      "bggId": 394201,
+      "nom": "Bear Mountain Camping Adventure",
+      "anneeSortie": 2025,
+      "bggRank": 10893
+    },
+    {
+      "bggId": 428062,
+      "nom": "Camargue",
+      "anneeSortie": 2024,
+      "bggRank": 11069
+    },
+    {
+      "bggId": 448291,
+      "nom": "Unlock!: Short Adventures – The Song of the Sea Spray",
+      "anneeSortie": 2025,
+      "bggRank": 11211
+    },
+    {
+      "bggId": 406861,
+      "nom": "TowerBrix",
+      "anneeSortie": 2024,
+      "bggRank": 11362
+    },
+    {
+      "bggId": 412381,
+      "nom": "Sandbag",
+      "anneeSortie": 2024,
+      "bggRank": 11371
+    },
+    {
+      "bggId": 401223,
+      "nom": "Haunted Lands",
+      "anneeSortie": 2024,
+      "bggRank": 11520
+    },
+    {
+      "bggId": 423850,
+      "nom": "13 Beavers",
+      "anneeSortie": 2024,
+      "bggRank": 11525
+    },
+    {
+      "bggId": 411369,
+      "nom": "Chronicles of Light: Darkness Falls – Disney Edition",
+      "anneeSortie": 2024,
+      "bggRank": 11528
+    },
+    {
+      "bggId": 429020,
+      "nom": "Paper World",
+      "anneeSortie": 2025,
+      "bggRank": 11529
+    },
+    {
+      "bggId": 397074,
+      "nom": "Fool's Blade",
+      "anneeSortie": 2024,
+      "bggRank": 11546
+    },
+    {
+      "bggId": 435652,
+      "nom": "Easy Peasy",
+      "anneeSortie": 2025,
+      "bggRank": 11634
+    },
+    {
+      "bggId": 406378,
+      "nom": "Birdie",
+      "anneeSortie": 2024,
+      "bggRank": 11675
+    },
+    {
+      "bggId": 423677,
+      "nom": "The Lie",
+      "anneeSortie": 2025,
+      "bggRank": 11732
+    },
+    {
+      "bggId": 412563,
+      "nom": "Flowers",
+      "anneeSortie": 2024,
+      "bggRank": 11765
+    },
+    {
+      "bggId": 398388,
+      "nom": "Oxono",
+      "anneeSortie": 2024,
+      "bggRank": 12347
+    },
+    {
+      "bggId": 434141,
+      "nom": "Flow",
+      "anneeSortie": 2025,
+      "bggRank": 12489
+    },
+    {
+      "bggId": 395581,
+      "nom": "Light in the Dark",
+      "anneeSortie": 2024,
+      "bggRank": 12529
+    },
+    {
+      "bggId": 429477,
+      "nom": "Der König des Waldes",
+      "anneeSortie": 2025,
+      "bggRank": 12682
+    },
+    {
+      "bggId": 406299,
+      "nom": "The Crew: Family Adventure",
+      "anneeSortie": 2024,
+      "bggRank": 13033
+    },
+    {
+      "bggId": 464056,
+      "nom": "Spooky Tower",
+      "anneeSortie": 2026,
+      "bggRank": 13057
+    },
+    {
+      "bggId": 414176,
+      "nom": "Ultimatch",
+      "anneeSortie": 2024,
+      "bggRank": 13196
+    },
+    {
+      "bggId": 418954,
+      "nom": "Dédale",
+      "anneeSortie": 2024,
+      "bggRank": 13468
+    },
+    {
+      "bggId": 373636,
+      "nom": "Takenokolor",
+      "anneeSortie": 2024,
+      "bggRank": 13889
+    },
+    {
+      "bggId": 428317,
+      "nom": "KADO",
+      "anneeSortie": 2024,
+      "bggRank": 14592
+    },
+    {
+      "bggId": 416832,
+      "nom": "Khiva",
+      "anneeSortie": 2024,
+      "bggRank": 15269
+    },
+    {
+      "bggId": 329613,
+      "nom": "Paper App Dungeon",
+      "anneeSortie": 2024,
+      "bggRank": 15561
+    },
+    {
+      "bggId": 457476,
+      "nom": "Spirited",
+      "anneeSortie": 2026,
+      "bggRank": 15671
+    },
+    {
+      "bggId": 428457,
+      "nom": "Refuge",
+      "anneeSortie": 2024,
+      "bggRank": 15749
+    },
+    {
+      "bggId": 419705,
+      "nom": "Golfie",
+      "anneeSortie": 2024,
+      "bggRank": 16144
+    },
+    {
+      "bggId": 436400,
+      "nom": "Abra Chadabra",
+      "anneeSortie": 2025,
+      "bggRank": 18052
+    },
+    {
+      "bggId": 431292,
+      "nom": "Box Two",
+      "anneeSortie": 2024,
+      "bggRank": 19293
+    },
+    {
+      "bggId": 434683,
+      "nom": "Verso",
+      "anneeSortie": 2025,
+      "bggRank": 19393
+    },
+    {
+      "bggId": 344332,
+      "nom": "Total War: ROME – The Board Game",
+      "anneeSortie": 2024,
+      "bggRank": 20578
+    },
+    {
+      "bggId": 408769,
+      "nom": "Propuh",
+      "anneeSortie": 2024,
+      "bggRank": 20779
+    },
+    {
+      "bggId": 447244,
+      "nom": "Exploding Kittens: The Board Game",
+      "anneeSortie": 2025,
+      "bggRank": 20837
+    },
+    {
+      "bggId": 419262,
+      "nom": "Mega Jackpot",
+      "anneeSortie": 2024,
+      "bggRank": 22921
+    },
+    {
+      "bggId": 373107,
+      "nom": "Elden Ring: Realm of the Grafted King",
+      "anneeSortie": 2025,
+      "bggRank": 27348
+    },
+    {
+      "bggId": 425254,
+      "nom": "Ninjan",
+      "anneeSortie": 2024,
+      "bggRank": 27871
+    },
+    {
+      "bggId": 401303,
+      "nom": "Mind Cycling",
+      "anneeSortie": 2024,
+      "bggRank": 29150
+    },
+    {
+      "bggId": 420793,
+      "nom": "Dicy Cards",
+      "anneeSortie": 2024,
+      "bggRank": 29555
+    },
+    {
+      "bggId": 404455,
+      "nom": "The Dick Sits",
+      "anneeSortie": 2024,
+      "bggRank": 29909
+    },
+    {
+      "bggId": 430572,
+      "nom": "Horrible Therapist",
+      "anneeSortie": 2024,
+      "bggRank": 30108
+    },
+    {
+      "bggId": 294880,
+      "nom": "Chai: Tea for 2",
+      "anneeSortie": 2025,
+      "bggRank": 30454
+    },
+    {
+      "bggId": 385757,
+      "nom": "Foxpaw",
+      "anneeSortie": 2025,
+      "bggRank": 30482
+    },
+    {
+      "bggId": 155250,
+      "nom": "TseuQuesT",
+      "anneeSortie": 2024,
+      "bggRank": 30523
+    },
+    {
+      "bggId": 419763,
+      "nom": "Wonders of The First CCG",
+      "anneeSortie": 2025,
+      "bggRank": 30568
+    },
+    {
+      "bggId": 415843,
+      "nom": "Puerto Rico 1897: Special Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 418556,
+      "nom": "Rebel Princess: Deluxe Edition",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 378979,
+      "nom": "Nusfjord: Big Box",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 418470,
+      "nom": "Endeavor: Deep Sea Deluxe Edition",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 334931,
+      "nom": "Robinson Crusoe: Adventures on the Cursed Island – Collector's Edition (Gamefound Edition)",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 429653,
+      "nom": "Andromeda's Edge: Deluxe Edition",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 391288,
+      "nom": "Firefly: The Game – 10th Anniversary Collector's Edition",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 403494,
+      "nom": "Marvel Dice Throne: X-Men",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 381715,
+      "nom": "Teotihuacan: City of Gods – Deluxe Master Set",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 406321,
+      "nom": "Take 5: 30th Anniversary Edition",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 427866,
+      "nom": "Deep Sea Adventure Boost",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 441706,
+      "nom": "Quacks: All-In Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 420068,
+      "nom": "Orléans: Big Box",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 406322,
+      "nom": "Saboteur: 20th Anniversary Edition",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 375769,
+      "nom": "Lords of Vegas",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 447305,
+      "nom": "Inis: Legendary Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 424809,
+      "nom": "Joyride: Turbo",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 441628,
+      "nom": "Stupor Mundi: Master Print Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 440147,
+      "nom": "Agricola: Special Edition",
+      "anneeSortie": 2026,
+      "bggRank": null
+    },
+    {
+      "bggId": 428559,
+      "nom": "Creature Caravan: Deluxe Edition",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 441548,
+      "nom": "Trickerion: Anniversary Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 426945,
+      "nom": "Baseball Highlights: 2045 – Bases Loaded Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 429401,
+      "nom": "Manhattan Project: Energy Empire",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 393871,
+      "nom": "Shards of Infinity: Saga Collection",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 440849,
+      "nom": "Critter Kitchen: Deluxe Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 434027,
+      "nom": "Food Chain Magnate: Deluxe Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 428308,
+      "nom": "Unmatched: Lee vs Ali",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 428908,
+      "nom": "San Juan 1897: Special Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 418801,
+      "nom": "Marvel Dice Throne: Captain Marvel, Black Panther, Doctor Strange, Black Widow",
+      "anneeSortie": 2024,
+      "bggRank": null
+    },
+    {
+      "bggId": 429717,
+      "nom": "Railroad Tiles: Collector's Edition",
+      "anneeSortie": 2025,
+      "bggRank": null
+    },
+    {
+      "bggId": 410768,
+      "nom": "Final Girl: S1 Ultimate Box",
+      "anneeSortie": 2024,
+      "bggRank": null
+    }
+  ]
+}
