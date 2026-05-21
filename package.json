@@ -1,0 +1,21 @@
+{
+  "name": "regles-jeu-societe",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Site regles-jeu-societe.fr — annuaire et règles de jeux de société en français",
+  "scripts": {
+    "fetch:bgg": "tsx scripts/fetch-bgg.ts",
+    "fetch:pdf": "tsx scripts/fetch-pdf.ts",
+    "build:lists": "tsx scripts/build-lists.ts",
+    "generate:rules": "tsx scripts/generate-rules.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
