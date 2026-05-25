@@ -201,7 +201,7 @@
   "bggRating": 7.41624,
   "image": "/jeux/images/carcassonne.jpg",
   "imageUrlSource": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__original/img/bP18m_PYjyFOv1IBGgMOteQUneA=/0x0/filters:format(jpeg)/pic8621446.jpg",
-  "pdfUrlSource": null,
+  "pdfUrlSource": "https://cdn.svc.asmodee.net/staging-unboxnowcom/uploads/sites/2/2022/04/higcarc01fr_rules_fr-compresse.pdf",
   "descriptionEN": "Carcassonne is a tile placement game in which the players draw and place a tile with a piece of southern French landscape represented on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, et cetera. Having placed a tile, the player can then decide to place one of their meeples in one of the areas on it: in the city as a knight, on the road as a robber, in the cloister as a monk, or in the field as a farmer. When that area is complete that meeple scores points for its owner.\n\nDuring a game of Carcassonne, players are faced with decisions like: \"Is it really worth putting my last meeple there?\" or \"Should I use this tile to expand my city, or should I place it near my opponent instead, thus making it a harder for them to complete it and score points?\" Since players place only one tile and have the option to place one meeple on it, turns proceed quickly even if it is a game full of options and possibilities.\n\nFirst game in the Carcassonne series.",
   "presentation": null,
   "materiel": null,
@@ -213,5 +213,13 @@
   "relueParHumain": false,
   "dateImportBGG": "2026-05-25T10:59:27.105Z",
   "dateGeneration": null,
-  "dateRelecture": null
+  "dateRelecture": null,
+  "pdfLocal": "/jeux/pdf/carcassonne.pdf",
+  "pdfSourcePage": "https://www.asmodee.fr/carcassonne/",
+  "pdfLangue": "fr",
+  "pdfEditeurAffiche": "Hans im Glück / Z-Man Games / Asmodee",
+  "pdfNote": "PDF officiel hébergé sur CDN Asmodee (référence higcarc01fr)",
+  "pdfServingMode": "local",
+  "pdfTailleOctets": 7510601,
+  "pdfDateRecuperation": "2026-05-25T11:38:57.879Z"
 }

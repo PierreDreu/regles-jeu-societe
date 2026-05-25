@@ -33,6 +33,30 @@
       "langue": "fr",
       "editeurAffiche": "Repos Production",
       "note": "PDF officiel Repos Production sur CDN Asmodee"
+    },
+    "carcassonne": {
+      "bggId": 822,
+      "pdfUrl": "https://cdn.svc.asmodee.net/staging-unboxnowcom/uploads/sites/2/2022/04/higcarc01fr_rules_fr-compresse.pdf",
+      "sourcePage": "https://www.asmodee.fr/carcassonne/",
+      "langue": "fr",
+      "editeurAffiche": "Hans im Glück / Z-Man Games / Asmodee",
+      "note": "PDF officiel hébergé sur CDN Asmodee (référence higcarc01fr)"
+    },
+    "codenames": {
+      "bggId": 178900,
+      "pdfUrl": "https://iello.fr/regles/Codenames_regles.pdf",
+      "sourcePage": "https://iello.fr/jeux/codenames/",
+      "langue": "fr",
+      "editeurAffiche": "Iello (CGE)",
+      "note": "PDF officiel Iello, distribué en France pour le compte de Czech Games Edition"
+    },
+    "concept": {
+      "bggId": 147151,
+      "pdfUrl": "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/concept/rules/concept-rules-fr-1607965351GtD7A.pdf",
+      "sourcePage": "https://rprod.com/jeux/concept",
+      "langue": "fr",
+      "editeurAffiche": "Repos Production",
+      "note": "PDF officiel Repos Production sur CDN Asmodee"
     }
   }
 }

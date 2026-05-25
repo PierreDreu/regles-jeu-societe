@@ -93,7 +93,7 @@
   "bggRating": 6.74048,
   "image": "/jeux/images/concept.jpg",
   "imageUrlSource": "https://cf.geekdo-images.com/hHFs0_KRoW_FJ0cMIVgZcw__original/img/vbR7Wrdlq4fPcwUE1Ck9CowlJHY=/0x0/filters:format(jpeg)/pic4991925.jpg",
-  "pdfUrlSource": null,
+  "pdfUrlSource": "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/concept/rules/concept-rules-fr-1607965351GtD7A.pdf",
   "descriptionEN": "In Concept, your goal is to guess words through the association of icons. A team of two players &ndash; neighbors at the table &ndash; choose a word or phrase that the other players need to guess. Acting together, this team places pieces judiciously on the available icons on the game board.\n\nTo get others to guess \"milk\", for example, the team might place the question mark icon (which signifies the main concept) on the liquid icon, then cubes of this color on the icons for \"food/drink\" and \"white\". For a more complicated concept, such as \"Leonardo DiCaprio\", the team can use the main concept and its matching cubes to clue players into the hidden phrase being an actor or director, while then using sub-concept icons and their matching cubes to gives clues to particular movies in which DiCaprio starred, such as Titanic or Inception.\n\nThe first player to discover the word or phrase receives 2 victory points, the team receives points as well, and the player who ends up with the most points wins.",
   "presentation": null,
   "materiel": null,
@@ -105,5 +105,13 @@
   "relueParHumain": false,
   "dateImportBGG": "2026-05-25T10:59:36.550Z",
   "dateGeneration": null,
-  "dateRelecture": null
+  "dateRelecture": null,
+  "pdfLocal": "/jeux/pdf/concept.pdf",
+  "pdfSourcePage": "https://rprod.com/jeux/concept",
+  "pdfLangue": "fr",
+  "pdfEditeurAffiche": "Repos Production",
+  "pdfNote": "PDF officiel Repos Production sur CDN Asmodee",
+  "pdfServingMode": "local",
+  "pdfTailleOctets": 7682922,
+  "pdfDateRecuperation": "2026-05-25T11:39:00.987Z"
 }
