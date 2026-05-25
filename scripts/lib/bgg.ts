@@ -43,16 +43,20 @@ function asArray<T>(v: T | T[] | undefined | null): T[] {
   return Array.isArray(v) ? v : [v];
 }
 
-function parseDescription(raw: string | undefined): string {
-  if (!raw) return "";
+function decodeEntities(raw: string): string {
   return raw
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n, 10)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16)))
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, "\"")
-    .replace(/&#10;/g, "\n")
-    .replace(/&#13;/g, "\r")
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n, 10)));
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'");
+}
+
+function parseDescription(raw: string | undefined): string {
+  if (!raw) return "";
+  return decodeEntities(raw);
 }
 
 async function sleep(ms: number): Promise<void> {
@@ -102,8 +106,8 @@ function parseThingXml(xml: string, expectedId: number): BggGameRaw {
   if (!item) throw new Error(`No <item> in BGG response for id ${expectedId}`);
 
   const names = asArray<{ "@_type": string; "@_value": string }>(item.name);
-  const primary = names.find((n) => n["@_type"] === "primary")?.["@_value"] ?? "";
-  const alternates = names.filter((n) => n["@_type"] === "alternate").map((n) => n["@_value"]);
+  const primary = decodeEntities(names.find((n) => n["@_type"] === "primary")?.["@_value"] ?? "");
+  const alternates = names.filter((n) => n["@_type"] === "alternate").map((n) => decodeEntities(n["@_value"]));
 
   const links = asArray<{ "@_type": string; "@_id": number; "@_value": string }>(item.link);
   const filterLinks = (type: string) => links.filter((l) => l["@_type"] === type);

@@ -1,0 +1,17 @@
+{
+  "_description": "Overrides manuels du nom français choisi par le fetcher. Quand l'heuristique automatique se trompe (préfère un ancien nom, un nom étrange, etc.), on force le nom officiel actuel via bggId.",
+  "_format": "bggId (string) → nom préféré (string)",
+  "overrides": {
+    "11": "Bohnanza",
+    "13": "Catan",
+    "42": "Tigre et Euphrate",
+    "822": "Carcassonne",
+    "2655": "Hive",
+    "28143": "Race for the Galaxy",
+    "36218": "Dominion",
+    "163412": "Patchwork",
+    "178900": "Codenames",
+    "199792": "Everdell",
+    "312484": "Lost Ruins of Arnak"
+  }
+}

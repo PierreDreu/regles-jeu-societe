@@ -27,6 +27,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const JEUX_DIR = path.join(ROOT, "data", "jeux");
 const IMAGES_DIR = path.join(JEUX_DIR, "images");
+const OVERRIDES_FILE = path.join(ROOT, "data", "overrides", "noms-jeux.json");
 
 interface JeuJson {
   slug: string;
@@ -67,52 +68,88 @@ interface JeuJson {
   dateRelecture: string | null;
 }
 
-const EDITEURS_FRANCOPHONES = new Set([
-  "Asmodee",
-  "Iello",
-  "Days of Wonder",
-  "Repos Production",
-  "Space Cowboys",
-  "Catch Up Games",
-  "Studio H",
-  "Libellud",
-  "Bombyx",
-  "Blam!",
-  "Blue Cocker Games",
-  "Cocktail Games",
-  "Don't Panic Games",
-  "Édition du Matagot",
-  "Matagot",
-  "Funforge",
-  "Gigamic",
-  "Hurrican",
-  "La Boîte de Jeu",
-  "Lui-même",
-  "Lumberjacks Studio",
-  "Origames",
-  "Oya",
-  "Pixie Games",
-  "Sit Down!",
-  "Sweet Games",
-  "Sylex",
-  "Tiki Editions",
-]);
+const EDITEURS_FRANCOPHONES_CANONICAL: Record<string, string> = {
+  asmodee: "Asmodee",
+  iello: "Iello",
+  "days of wonder": "Days of Wonder",
+  "repos production": "Repos Production",
+  "space cowboys": "Space Cowboys",
+  "catch up games": "Catch Up Games",
+  "studio h": "Studio H",
+  libellud: "Libellud",
+  bombyx: "Bombyx",
+  "blam!": "Blam!",
+  "blue cocker games": "Blue Cocker Games",
+  "cocktail games": "Cocktail Games",
+  "don't panic games": "Don't Panic Games",
+  "édition du matagot": "Édition du Matagot",
+  matagot: "Matagot",
+  funforge: "Funforge",
+  gigamic: "Gigamic",
+  hurrican: "Hurrican",
+  "la boîte de jeu": "La Boîte de Jeu",
+  "lui-même": "Lui-même",
+  "lumberjacks studio": "Lumberjacks Studio",
+  origames: "Origames",
+  oya: "Oya",
+  "pixie games": "Pixie Games",
+  "sit down!": "Sit Down!",
+  "sweet games": "Sweet Games",
+  sylex: "Sylex",
+  "tiki editions": "Tiki Editions",
+  ystari: "Ystari Games",
+  "ystari games": "Ystari Games",
+  "ferti games": "Ferti Games",
+  "haba": "HABA",
+  "purple brain creations": "Purple Brain Creations",
+};
 
 function pickEditeurFrancophone(editeurs: string[]): string | null {
   for (const ed of editeurs) {
-    if (EDITEURS_FRANCOPHONES.has(ed)) return ed;
+    const canon = EDITEURS_FRANCOPHONES_CANONICAL[ed.toLowerCase().trim()];
+    if (canon) return canon;
   }
   return null;
 }
 
-function pickFrenchName(primary: string, alternates: string[]): string {
-  const frenchHints = [
-    /^L(?:es?|a)\s+/i,
-    /^Un[e]?\s+/i,
-    /[àâäçéèêëîïôöùûüÿœæ]/i,
-  ];
+const OVERRIDES_NOMS: Record<string, string> = {};
+const FR_LIST_FILE = path.join(ROOT, "data", "listes", "edition-francaise.json");
+
+function loadOverrides(): void {
+  if (existsSync(OVERRIDES_FILE)) {
+    try {
+      const raw = JSON.parse(readFileSync(OVERRIDES_FILE, "utf8")) as { overrides?: Record<string, string> };
+      Object.assign(OVERRIDES_NOMS, raw.overrides ?? {});
+    } catch (err) {
+      console.warn(`⚠️  ${OVERRIDES_FILE} : ${(err as Error).message}`);
+    }
+  }
+  if (existsSync(FR_LIST_FILE)) {
+    try {
+      const raw = JSON.parse(readFileSync(FR_LIST_FILE, "utf8")) as {
+        jeux?: Array<{ bggId: number; nomFrancais?: string }>;
+      };
+      for (const j of raw.jeux ?? []) {
+        if (j.nomFrancais && !OVERRIDES_NOMS[String(j.bggId)]) {
+          OVERRIDES_NOMS[String(j.bggId)] = j.nomFrancais;
+        }
+      }
+    } catch (err) {
+      console.warn(`⚠️  ${FR_LIST_FILE} : ${(err as Error).message}`);
+    }
+  }
+}
+
+const FRENCH_WORD_RE =
+  /\b(le|la|les|l'|un|une|du|des|de|au|aux|et|ou|avec|sans|pour|dans|sur|par|chez|jeu|jeux|cartes?|dés?|royaume|île|loups|garous|seigneur|aventur(?:e|iers?)|détective|petits?|grands?|nouveau|nouvelle|version|édition)\b/i;
+const FRENCH_ONLY_CHARS_RE = /[œæ]/i;
+
+function pickFrenchName(bggId: number, primary: string, alternates: string[]): string {
+  const override = OVERRIDES_NOMS[String(bggId)];
+  if (override) return override;
+
   for (const alt of alternates) {
-    if (frenchHints.some((re) => re.test(alt))) return alt;
+    if (FRENCH_WORD_RE.test(alt) || FRENCH_ONLY_CHARS_RE.test(alt)) return alt;
   }
   return primary;
 }
@@ -136,7 +173,7 @@ async function downloadImage(url: string, slug: string): Promise<string | null> 
 }
 
 function toJeuJson(raw: BggGameRaw): JeuJson {
-  const nom = pickFrenchName(raw.nomPrimaire, raw.nomsAlternatifs);
+  const nom = pickFrenchName(raw.bggId, raw.nomPrimaire, raw.nomsAlternatifs);
   const nomOriginal = nom === raw.nomPrimaire ? null : raw.nomPrimaire;
   const slug = toSlug(nom);
   return {
@@ -196,16 +233,20 @@ async function fetchOne(bggId: number, options: { downloadImage?: boolean }): Pr
 async function readIds(listPath: string): Promise<number[]> {
   const content = await readFile(listPath, "utf8");
   const parsed = JSON.parse(content);
-  if (Array.isArray(parsed)) {
-    return parsed
-      .map((x) => (typeof x === "number" ? x : typeof x === "object" && x !== null ? Number((x as { bggId?: unknown }).bggId) : NaN))
-      .filter((n) => Number.isFinite(n));
+  const items = Array.isArray(parsed) ? parsed : Array.isArray(parsed?.jeux) ? parsed.jeux : null;
+  if (!items) {
+    throw new Error(`List file ${listPath} must contain a JSON array or an object with a "jeux" array`);
   }
-  throw new Error(`List file ${listPath} must contain a JSON array`);
+  return items
+    .map((x: unknown) =>
+      typeof x === "number" ? x : typeof x === "object" && x !== null ? Number((x as { bggId?: unknown }).bggId) : NaN,
+    )
+    .filter((n: number) => Number.isFinite(n));
 }
 
 async function main(): Promise<void> {
   loadEnvLocal(ROOT);
+  loadOverrides();
   await mkdir(JEUX_DIR, { recursive: true });
   await mkdir(IMAGES_DIR, { recursive: true });
 

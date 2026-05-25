@@ -4,6 +4,7 @@
     {
       "bggId": 9209,
       "nom": "Ticket to Ride",
+      "nomFrancais": "Les Aventuriers du Rail",
       "anneeSortie": 2004,
       "bggRank": 261,
       "axes": [
@@ -103,6 +104,7 @@
     {
       "bggId": 205398,
       "nom": "Citadels",
+      "nomFrancais": "Citadelles",
       "anneeSortie": 2016,
       "bggRank": 564,
       "axes": [
@@ -130,6 +132,7 @@
     {
       "bggId": 25821,
       "nom": "The Werewolves of Miller's Hollow",
+      "nomFrancais": "Les Loups-Garous de Thiercelieux",
       "anneeSortie": 2001,
       "bggRank": 1524,
       "axes": [
@@ -157,6 +160,7 @@
     {
       "bggId": 432,
       "nom": "Take 5",
+      "nomFrancais": "6 nimmt!",
       "anneeSortie": 1994,
       "bggRank": 676,
       "axes": [
@@ -184,6 +188,7 @@
     {
       "bggId": 2511,
       "nom": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+      "nomFrancais": "Sherlock Holmes Détective Conseil",
       "anneeSortie": 1981,
       "bggRank": 200,
       "axes": [
@@ -193,6 +198,7 @@
     {
       "bggId": 213460,
       "nom": "Unlock!: Escape Adventures",
+      "nomFrancais": "Unlock!",
       "anneeSortie": 2017,
       "bggRank": 698,
       "axes": [
@@ -202,6 +208,7 @@
     {
       "bggId": 203420,
       "nom": "EXIT: The Game – The Abandoned Cabin",
+      "nomFrancais": "Exit: Le Jeu",
       "anneeSortie": 2016,
       "bggRank": 412,
       "axes": [
@@ -238,6 +245,7 @@
     {
       "bggId": 284083,
       "nom": "The Crew: The Quest for Planet Nine",
+      "nomFrancais": "The Crew",
       "anneeSortie": 2019,
       "bggRank": 93,
       "axes": [
@@ -364,6 +372,7 @@
     {
       "bggId": 233078,
       "nom": "Twilight Imperium: Fourth Edition",
+      "nomFrancais": "Twilight Imperium: Quatrième Édition",
       "anneeSortie": 2017,
       "bggRank": 7,
       "axes": [
@@ -391,6 +400,7 @@
     {
       "bggId": 102794,
       "nom": "Caverna: The Cave Farmers",
+      "nomFrancais": "Caverna",
       "anneeSortie": 2013,
       "bggRank": 62,
       "axes": [
@@ -427,6 +437,7 @@
     {
       "bggId": 96848,
       "nom": "Mage Knight Board Game",
+      "nomFrancais": "Mage Knight",
       "anneeSortie": 2011,
       "bggRank": 39,
       "axes": [
@@ -445,6 +456,7 @@
     {
       "bggId": 182028,
       "nom": "Through the Ages: A New Story of Civilization",
+      "nomFrancais": "Through the Ages: Une Nouvelle Histoire",
       "anneeSortie": 2015,
       "bggRank": 18,
       "axes": [
@@ -454,6 +466,7 @@
     {
       "bggId": 2651,
       "nom": "Power Grid",
+      "nomFrancais": "Power Grid / Mégawatts",
       "anneeSortie": 2004,
       "bggRank": 73,
       "axes": [
@@ -517,6 +530,7 @@
     {
       "bggId": 233867,
       "nom": "Welcome To...",
+      "nomFrancais": "Welcome to...",
       "anneeSortie": 2018,
       "bggRank": 213,
       "axes": [
@@ -526,6 +540,7 @@
     {
       "bggId": 303672,
       "nom": "Trek 12: Himalaya",
+      "nomFrancais": "Trek 12",
       "anneeSortie": 2020,
       "bggRank": 2212,
       "axes": [
@@ -598,6 +613,7 @@
     {
       "bggId": 319966,
       "nom": "The King Is Dead: Second Edition",
+      "nomFrancais": "Le Roi est Mort, Vive le Roi !",
       "anneeSortie": 2020,
       "bggRank": 371,
       "axes": [
@@ -688,6 +704,7 @@
     {
       "bggId": 157354,
       "nom": "Five Tribes: The Djinns of Naqala",
+      "nomFrancais": "Five Tribes",
       "anneeSortie": 2014,
       "bggRank": 96,
       "axes": [

@@ -186,13 +186,21 @@ function buildNouveautes(rows: CsvRow[]): CsvRow[] {
 interface ListItem {
   bggId: number;
   nom: string;
+  nomFrancais?: string;
   anneeSortie: number | null;
   bggRank: number | null;
   axes?: string[];
 }
 
-function rowToItem(r: CsvRow, axes?: string[]): ListItem {
-  return { bggId: r.id, nom: r.name, anneeSortie: r.yearpublished, bggRank: r.rank, ...(axes ? { axes } : {}) };
+function rowToItem(r: CsvRow, axes?: string[], nomFrancais?: string): ListItem {
+  return {
+    bggId: r.id,
+    nom: r.name,
+    ...(nomFrancais && nomFrancais !== r.name ? { nomFrancais } : {}),
+    anneeSortie: r.yearpublished,
+    bggRank: r.rank,
+    ...(axes ? { axes } : {}),
+  };
 }
 
 async function ensureDir(dir: string): Promise<void> {
@@ -240,7 +248,7 @@ async function main(): Promise<void> {
 
   const topBgg = buildTopBgg(rows).map((r) => rowToItem(r));
   const nouveautes = buildNouveautes(rows).map((r) => rowToItem(r));
-  const francophones: ListItem[] = matched.map((m) => rowToItem(m.row!, [m.entry.axe]));
+  const francophones: ListItem[] = matched.map((m) => rowToItem(m.row!, [m.entry.axe], m.entry.nom));
 
   await writeFile(
     path.join(LISTES_DIR, "top-bgg.json"),
