@@ -1,0 +1,132 @@
+{
+  "slug": "les-loups-garous-de-thiercelieux",
+  "bggId": 25821,
+  "nom": "Les Loups-Garous de Thiercelieux",
+  "nomOriginal": "The Werewolves of Miller's Hollow",
+  "anneeSortie": 2001,
+  "joueursMin": 8,
+  "joueursMax": 18,
+  "joueursRecommandes": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "dureeMin": 30,
+  "dureeMax": 30,
+  "ageMin": 10,
+  "poidsRegles": 1.3114,
+  "designers": [
+    "Philippe des Pallières",
+    "Hervé Marly"
+  ],
+  "artistes": [
+    "Philippe des Pallières",
+    "Hervé Marly",
+    "Alexios Tjoyas"
+  ],
+  "editeurs": [
+    "Lui-même",
+    "999 Games",
+    "ADC Blackfire Entertainment",
+    "asmodee",
+    "Asterion Press",
+    "Crómola",
+    "förlAgo AB",
+    "Gémklub",
+    "Granna",
+    "Hobby Japan",
+    "Lex Games",
+    "Morapiaf",
+    "Rebel Sp. z o.o.",
+    "Swan Panasia Co., Ltd.",
+    "Zygomatic"
+  ],
+  "editeurFrancophone": "Lui-même",
+  "categoriesBGG": [
+    {
+      "id": 1023,
+      "value": "Bluffing"
+    },
+    {
+      "id": 1039,
+      "value": "Deduction"
+    },
+    {
+      "id": 1024,
+      "value": "Horror"
+    },
+    {
+      "id": 1040,
+      "value": "Murder / Mystery"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2891,
+      "value": "Hidden Roles"
+    },
+    {
+      "id": 2685,
+      "value": "Player Elimination"
+    },
+    {
+      "id": 2028,
+      "value": "Role Playing"
+    },
+    {
+      "id": 2019,
+      "value": "Team-Based Game"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2017,
+      "value": "Voting"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 62254,
+      "value": "Creatures: Werewolves"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 2989,
+      "value": "Game: Werewolf / Mafia"
+    }
+  ],
+  "bggRank": 1533,
+  "bggRating": 6.67373,
+  "image": "/jeux/images/les-loups-garous-de-thiercelieux.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/rZ0tOafAt1oue_7NKqELsg__original/img/Mxx1Abak0zV1FhoDr5HOnMirFAM=/0x0/filters:format(jpeg)/pic7203269.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Werewolves of Miller's Hollow is a game that takes place in a small village which is haunted by werewolves. Each player is secretly assigned a role - Werewolf, Ordinary Townsfolk, or special character such as The Sheriff, The Hunter, the Witch, the Little Girl, The Fortune Teller and so on... There is also a Moderator player who controls the flow of the game. The game alternates between night and day phases. At night, the Werewolves secretly choose a Villager to kill. During the day, the Villager who was killed is revealed and is out of the game. The remaining Villagers (normal and special villagers alike) then deliberate and vote on a player they suspect is a Werewolf, helped (or hindered) by the clues the special characters add to the general deliberation. The chosen player is \"lynched\", reveals their role, and is out of the game. Werewolf is a social game that requires no equipment to play, and can accommodate almost any large group of players.\n\nThe Werewolves of Miller's Hollow/les Loups-Garous de Thiercelieux/Die Werw&ouml;lfe von D&uuml;sterwald is a published version arranged by Hervé Marly and Philippe des Pallières and published by Lui-même, 2001 for 8-23 players. This has been nominated for the 2003 Spiel des Jahres award.\n\nWerewolves of Miller's Hollow is a separate game from Werewolf, and was split from that entry at the request of asmodee.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:38.327Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

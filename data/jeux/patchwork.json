@@ -1,0 +1,198 @@
+{
+  "slug": "patchwork",
+  "bggId": 163412,
+  "nom": "Patchwork",
+  "nomOriginal": null,
+  "anneeSortie": 2014,
+  "joueursMin": 2,
+  "joueursMax": 2,
+  "joueursRecommandes": [
+    2
+  ],
+  "dureeMin": 15,
+  "dureeMax": 30,
+  "ageMin": 8,
+  "poidsRegles": 1.5971,
+  "designers": [
+    "Uwe Rosenberg"
+  ],
+  "artistes": [
+    "Carrie Cantwell",
+    "Klemens Franz",
+    "Maya Hanisch",
+    "Rex Lee",
+    "Jolanta Lendzioszek",
+    "Cecilia Mok",
+    "Gru Tsow"
+  ],
+  "editeurs": [
+    "Lookout Games",
+    "999 Games",
+    "asmodee",
+    "Brain Games",
+    "Compaya.hu: Gamer Café Kft.",
+    "CrowD Games",
+    "Dragonfly Publishing",
+    "Funforge",
+    "Galápagos Jogos",
+    "GeGe Co. Ltd.",
+    "GoKids 玩樂小子",
+    "Hobby Japan",
+    "Kaissa Chess & Games",
+    "Kilogames",
+    "Korea Boardgames",
+    "Lacerta",
+    "Lautapelit.fi",
+    "Liam Games",
+    "Lord of Boards",
+    "Ludicus Games",
+    "Ludofy Creative",
+    "Maldito Games",
+    "Mayfair Games",
+    "MINDOK",
+    "NeoTroy Games",
+    "Rebel Sp. z o.o.",
+    "Tower Tactic Games",
+    "uplay.it edizioni"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1028,
+      "value": "Puzzle"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2978,
+      "value": "Grid Coverage"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2813,
+      "value": "Rondel"
+    },
+    {
+      "id": 2940,
+      "value": "Square Grid"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2826,
+      "value": "Turn Order: Stat-Based"
+    },
+    {
+      "id": 2663,
+      "value": "Turn Order: Time Track"
+    },
+    {
+      "id": 2874,
+      "value": "Victory Points as a Resource"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 57182,
+      "value": "Theme: Sewing / Knitting / Cloth-Making"
+    },
+    {
+      "id": 26432,
+      "value": "Category: Combinatorial"
+    },
+    {
+      "id": 78574,
+      "value": "Components: 9 x 9 Grids"
+    },
+    {
+      "id": 24571,
+      "value": "Components: Polyominoes"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 54158,
+      "value": "Game: Patchwork"
+    },
+    {
+      "id": 6364,
+      "value": "Holidays: Christmas"
+    },
+    {
+      "id": 19023,
+      "value": "Holidays: Halloween"
+    },
+    {
+      "id": 68085,
+      "value": "Holidays: Valentine&#039;s Day"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 61979,
+      "value": "Players: Two-Player Only Games"
+    },
+    {
+      "id": 33361,
+      "value": "Series: Fur Zwei Spieler (Lookout Games)"
+    },
+    {
+      "id": 109936,
+      "value": "Theme: Austronesian peoples"
+    }
+  ],
+  "bggRank": 146,
+  "bggRating": 7.57906,
+  "image": "/jeux/images/patchwork.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/xNSaIHCKr_cc7Q2rQSSJPQ__original/img/HJJdVosBV35kj8pQ6wmQMiJRhVA=/0x0/filters:format(jpeg)/pic9273518.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Patchwork, two players compete to build the most aesthetic (and high-scoring) patchwork quilt on a personal 9x9 game board. To start play, lay out all of the patches at random in a circle and place a marker directly clockwise of the 2-1 patch. Each player takes five buttons &mdash; the currency/points in the game &mdash; and someone is chosen as the start player.\n\nOn a turn, a player either purchases one of the three patches standing clockwise of the spool or passes. To purchase a patch, you pay the cost in buttons shown on the patch, move the spool to that patch's location in the circle, add the patch to your game board, then advance your time token on the time track a number of spaces equal to the time shown on the patch. You're free to place the patch anywhere on your board that doesn't overlap other patches, but you probably want to fit things together as tightly as possible. If your time token is behind or on top of the other player's time token, then you take another turn; otherwise the opponent now goes. Instead of purchasing a patch, you can choose to pass; to do this, you move your time token to the space immediately in front of the opponent's time token, then take one button from the bank for each space you moved.\n\nIn addition to a button cost and time cost, each patch also features 0-3 buttons, and when you move your time token past a button on the time track, you earn \"button income\": sum the number of buttons depicted on your personal game board, then take this many buttons from the bank.\n\nWhat's more, the time track depicts five 1x1 patches on it, and during set-up you place five actual 1x1 patches on these spaces. Whoever first passes a patch on the time track claims this patch and immediately places it on his game board.\n\nAdditionally, the first player to completely fill in a 7x7 square on his game board earns a bonus tile worth 7 extra points at the end of the game. (Of course, this doesn't happen in every game.)\n\nWhen a player takes an action that moves his time token to the central square of the time track, he takes one final button income from the bank. Once both players are in the center, the game ends and scoring takes place. Each player scores one point per button in his possession, then loses two points for each empty square on his game board. Scores can be negative. The player with the most points wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:52.309Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

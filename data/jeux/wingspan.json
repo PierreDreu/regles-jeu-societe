@@ -1,0 +1,234 @@
+{
+  "slug": "wingspan",
+  "bggId": 266192,
+  "nom": "Wingspan",
+  "nomOriginal": null,
+  "anneeSortie": 2019,
+  "joueursMin": 1,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 40,
+  "dureeMax": 70,
+  "ageMin": 10,
+  "poidsRegles": 2.4796,
+  "designers": [
+    "Elizabeth Hargrave"
+  ],
+  "artistes": [
+    "Ana Maria Martinez Jaramillo",
+    "Natalia Rojas",
+    "Greg May",
+    "Beth Sobel"
+  ],
+  "editeurs": [
+    "Stonemaier Games",
+    "999 Games",
+    "Angry Lion Games",
+    "Arclight Games",
+    "asmodee",
+    "Automa Factory",
+    "Bluebird Games",
+    "Brain Games",
+    "Delta Vision Publishing",
+    "Divercentro",
+    "Feuerland Spiele",
+    "Ghenos Games",
+    "Grok Games",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Lavka Games",
+    "Ludofy Creative",
+    "Maldito Games",
+    "Matagot",
+    "MINDOK",
+    "MIPL",
+    "NeoTroy Games",
+    "Rebel Sp. z o.o.",
+    "Regatul Jocurilor",
+    "Siam Board Games",
+    "Surfin&#039; Meeple China",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1089,
+      "value": "Animals"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1094,
+      "value": "Educational"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2689,
+      "value": "Action Queue"
+    },
+    {
+      "id": 2072,
+      "value": "Dice Rolling"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2846,
+      "value": "Once-Per-Game Abilities"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2828,
+      "value": "Turn Order: Progressive"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 45672,
+      "value": "Animals: Birds"
+    },
+    {
+      "id": 7657,
+      "value": "Animals: Crows / Ravens / Magpies"
+    },
+    {
+      "id": 7306,
+      "value": "Animals: Ducks"
+    },
+    {
+      "id": 63073,
+      "value": "Animals: Eagles"
+    },
+    {
+      "id": 18887,
+      "value": "Animals: Geese"
+    },
+    {
+      "id": 18588,
+      "value": "Animals: Owls"
+    },
+    {
+      "id": 17963,
+      "value": "Animals: Turkeys"
+    },
+    {
+      "id": 66553,
+      "value": "Components: Control Boards"
+    },
+    {
+      "id": 65328,
+      "value": "Components: Dice with Icons"
+    },
+    {
+      "id": 66772,
+      "value": "Components: Drop Tower"
+    },
+    {
+      "id": 48877,
+      "value": "Components: Game Trayz Inside"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 73596,
+      "value": "Digital Implementations: TableTop Simulator Mod (TTS)"
+    },
+    {
+      "id": 70948,
+      "value": "Digital Implementations: Tabletopia"
+    },
+    {
+      "id": 58267,
+      "value": "Game: Wingspan"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 72487,
+      "value": "Organizations: Automa Factory"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 59442,
+      "value": "Theme: Biology"
+    },
+    {
+      "id": 68335,
+      "value": "Theme: Ecology"
+    },
+    {
+      "id": 48871,
+      "value": "Theme: Nature"
+    }
+  ],
+  "bggRank": 38,
+  "bggRating": 7.99858,
+  "image": "/jeux/images/wingspan.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Wingspan is&nbsp;a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features 180 birds illustrated by Natalia Rojas and Ana Maria Martinez.\n\nYou are bird enthusiasts&mdash;researchers, bird watchers, ornithologists, and collectors&mdash;seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats  focus on several key aspects of growth:\n\n\n     Gain food tokens via custom dice in a birdfeeder dice tower\n     Lay eggs using egg miniatures in a variety of colors\n     Draw from hundreds of unique bird cards and play them\n\n\nThe winner is the player with the most points after 4 rounds.\n\n&mdash;description from the publisher\n\nFrom the 7th printing on, the base game box includes Wingspan: Swift-Start Promo Pack.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:53.198Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

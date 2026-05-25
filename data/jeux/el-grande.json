@@ -1,0 +1,149 @@
+{
+  "slug": "el-grande",
+  "bggId": 93,
+  "nom": "El Grande",
+  "nomOriginal": null,
+  "anneeSortie": 1995,
+  "joueursMin": 2,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 12,
+  "poidsRegles": 2.9328,
+  "designers": [
+    "Wolfgang Kramer",
+    "Richard Ulrich"
+  ],
+  "artistes": [
+    "Doris Matthäus",
+    "Stefan Sonnberger",
+    "Franz-Georg Stämmele"
+  ],
+  "editeurs": [
+    "Hans im Glück",
+    "999 Games",
+    "Användbart Litet Företag",
+    "Descartes Editeur",
+    "Devir",
+    "Feelindigo",
+    "Filosofia Éditions",
+    "Gabinete Lúdico",
+    "Game Harbor",
+    "Gémklub",
+    "Giochi Uniti",
+    "Lautapelit.fi",
+    "Lucky Duck Games",
+    "MINDOK",
+    "Möbius Games",
+    "Rio Grande Games"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1035,
+      "value": "Medieval"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2838,
+      "value": "Action Drafting"
+    },
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2012,
+      "value": "Auction / Bidding"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2926,
+      "value": "Selection Order Bid"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2827,
+      "value": "Turn Order: Auction"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 64960,
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "id": 109935,
+      "value": "Containers: Tin/Metal Box"
+    },
+    {
+      "id": 10310,
+      "value": "Country: Spain"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 70354,
+      "value": "Digital Implementations: Yucata"
+    },
+    {
+      "id": 9959,
+      "value": "Game: El Grande"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    }
+  ],
+  "bggRank": 103,
+  "bggRating": 7.77138,
+  "image": "/jeux/images/el-grande.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__original/img/E_QazS4f8ffj6oBcUl3C_VROCEw=/0x0/filters:format(jpeg)/pic7906240.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In this award-winning game, players take on the roles of Grandes in medieval Spain.  The king's power is flagging, and these powerful lords are vying for control of the various regions.  To that end, you draft caballeros (knights) into your court and subsequently move them onto the board to help seize control of regions.  After every third round, the regions are scored, and after the ninth round, the player with the most points is the winner.\n\nIn each of the nine rounds, you select one of your 13 power cards to determine turn order as well as the number of caballeros you get to move from the provinces (general supply) into your court (personal supply).\n\nA turn then consists of selecting one of five action cards which allow variations to the rules and additional scoring opportunities in addition to determining how many caballeros to move from your court to one or more of the regions on the board (or into the castillo - a secretive tower). Normally, you may only place your caballeros into regions adjacent to the one containing the king. The one hard and fast rule in El Grande is that nothing may move into or out of the king's region. One of the five action cards that is always available each round allows you to move the king to a new region. The other four action cards vary from round to round.\n\nThe goal is to have a caballero majority in as many regions (and the castillo) as possible during a scoring round. Following the scoring of the castillo, you place any cubes you had there into the region you secretly indicated on your region dial. Each region is then scored individually according to a table printed in that region. Two-point bonuses are awarded for having sole majority in the region containing your Grande and in the region containing the king.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:23.053Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

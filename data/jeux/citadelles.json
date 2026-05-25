@@ -1,0 +1,156 @@
+{
+  "slug": "citadelles",
+  "bggId": 205398,
+  "nom": "Citadelles",
+  "nomOriginal": "Citadels",
+  "anneeSortie": 2016,
+  "joueursMin": 2,
+  "joueursMax": 8,
+  "joueursRecommandes": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "dureeMin": 30,
+  "dureeMax": 60,
+  "ageMin": 10,
+  "poidsRegles": 2.0489,
+  "designers": [
+    "Bruno Faidutti"
+  ],
+  "artistes": [
+    "Andrew Bosley",
+    "Jeff Brown (II)",
+    "James Combridge",
+    "Amit Dutta",
+    "Simon Eckert",
+    "Tyler Edlin",
+    "Felipe Escobar",
+    "Marko Fiedler",
+    "Tomasz Jedruszek",
+    "Yogesh C. Joshi",
+    "Alex Kim",
+    "William Koh",
+    "Pavel Kolomeyets",
+    "Yong Yi Lee",
+    "Mateusz Lenart",
+    "Ward Lindhout",
+    "Eddie Mendoza",
+    "Mark Molnar",
+    "Veli Nyström",
+    "Fernando Olmedo",
+    "Meg Owenson",
+    "Gracjana Zielińska"
+  ],
+  "editeurs": [
+    "Windrider Games",
+    "999 Games",
+    "Arclight Games",
+    "CoolPlay",
+    "Delta Vision Publishing",
+    "Edge Entertainment",
+    "EDGE Studio",
+    "Fantasmagoria",
+    "Galakta",
+    "Galápagos Jogos",
+    "Hans im Glück",
+    "Hobby World",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "MINDOK",
+    "Rebel Sp. z o.o.",
+    "Swan Panasia Co., Ltd.",
+    "Z-Man Games",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1023,
+      "value": "Bluffing"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1029,
+      "value": "City Building"
+    },
+    {
+      "id": 1035,
+      "value": "Medieval"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2838,
+      "value": "Action Drafting"
+    },
+    {
+      "id": 2984,
+      "value": "Closed Drafting"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2836,
+      "value": "Lose a Turn"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2833,
+      "value": "Turn Order: Role Order"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 99205,
+      "value": "Game: Citadels"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    }
+  ],
+  "bggRank": 565,
+  "bggRating": 7.23026,
+  "image": "/jeux/images/citadelles.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/sHd0jkZZLDgixHjAXtn7kA__original/img/9n76iqzSN06hlbX4DuuPD6fSkHQ=/0x0/filters:format(jpeg)/pic3119514.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Citadels, players take on new roles each round to represent characters they hire in order to help them acquire gold and erect buildings. The game ends at the close of a round in which a player erects their seventh building. Players then tally their points, and the player with the highest score wins.\n\nPlayers start the game with a number of building cards in their hand; buildings come in five colors, with the purple buildings typically having a special ability and the other colored buildings providing a benefit when you play particular characters. At the start of each round, the player who was king the previous round discards one of the eight character cards at random, chooses one, then passes the cards to the next player, etc. until each player has secretly chosen a character. Each character has a special ability, and the usefulness of any character depends upon your situation, and that of your opponents. The characters then carry out their actions in numerical order: the assassin eliminating another character for the round, the thief stealing all gold from another character, the wizard swapping building cards with another player, the warlord optionally destroys a building in play, and so on.\n\nOn a turn, a player earns two or more gold (or draws two building cards then discards one), then optionally constructs one building (or up to three if playing the architect this round). Buildings cost gold equal to the number of symbols on them, and each building is worth a certain number of points. In addition to points from buildings, at the end of the game a player scores bonus points for having eight buildings or buildings of all five colors.\n\nThe 2016 edition of Citadels includes twenty-seven characters &mdash; eight from the original Citadels, ten from the Dark City expansion, and nine new ones &mdash; along with thirty unique building districts, and the rulebook includes six preset lists of characters and districts beyond the starter list, each crafted to encourage a different style and intensity of gameplay.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:35.680Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

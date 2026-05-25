@@ -1,0 +1,203 @@
+{
+  "slug": "frosthaven",
+  "bggId": 295770,
+  "nom": "Frosthaven",
+  "nomOriginal": null,
+  "anneeSortie": 2022,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 90,
+  "dureeMax": 180,
+  "ageMin": 14,
+  "poidsRegles": 4.4149,
+  "designers": [
+    "Isaac Childres"
+  ],
+  "artistes": [
+    "Francesca Baerald",
+    "David Demaret",
+    "Alexandr Elichev",
+    "Josh T. McDowell"
+  ],
+  "editeurs": [
+    "Cephalofair Games",
+    "Albi",
+    "Albi Polska",
+    "CMON Global Limited",
+    "Delta Vision Publishing",
+    "Feuerland Spiele",
+    "Galápagos Jogos",
+    "GoKids 玩樂小子",
+    "Korea Boardgames"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1022,
+      "value": "Adventure"
+    },
+    {
+      "id": 1020,
+      "value": "Exploration"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1046,
+      "value": "Fighting"
+    },
+    {
+      "id": 1047,
+      "value": "Miniatures"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2018,
+      "value": "Campaign / Battle Card Driven"
+    },
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 3004,
+      "value": "Deck Construction"
+    },
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2824,
+      "value": "Legacy Game"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2851,
+      "value": "Narrative Choice / Paragraph"
+    },
+    {
+      "id": 2846,
+      "value": "Once-Per-Game Abilities"
+    },
+    {
+      "id": 2822,
+      "value": "Scenario / Mission / Campaign Game"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 59218,
+      "value": "Category: Dungeon Crawler"
+    },
+    {
+      "id": 25158,
+      "value": "Components: Miniatures"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 66335,
+      "value": "Components: Standees"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 73596,
+      "value": "Digital Implementations: TableTop Simulator Mod (TTS)"
+    },
+    {
+      "id": 45610,
+      "value": "Game: Gloomhaven"
+    },
+    {
+      "id": 24281,
+      "value": "Mechanism: Campaign Games"
+    },
+    {
+      "id": 25404,
+      "value": "Mechanism: Legacy"
+    },
+    {
+      "id": 75241,
+      "value": "Misc: Forteller Audio Narration"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    }
+  ],
+  "bggRank": 21,
+  "bggRating": 8.73561,
+  "image": "/jeux/images/frosthaven.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__original/img/Tk7wFDJuaU8RPjNkmyC3AWYOPpU=/0x0/filters:format(png)/pic5092291.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Frosthaven is the story of a small outpost far to the north of the capital city of White Oak.  It's an outpost barely surviving the harsh weather let alone invasions from forces both known and unknown. However, a group of mercenaries, at the end of their rope, will help bring this settlement back from the edge of destruction. Not only will they have to deal with the harsh elements, but with other, far more dangerous threats out in the unforgiving cold, as well. There are: Algox, the bigger, more yeti-like cousins of the Inox, attacking from the mountains; Lurkers flooding in from the northern sea; and rumors have it that there are machines that wander the frozen wastes of their own free will. The party of mercenaries must face all of these perils, and perhaps in doing so, make peace with these new races so they can work together against even more sinister forces.\n\nFrosthaven is a standalone adventure from the designer and publisher of Gloomhaven that features sixteen new characters, three new races, more than twenty new enemies, more than one hundred new items, and a new, 100-scenario campaign.  Characters and items from Gloomhaven will be usable in Frosthaven, and vice versa.\n\nIn addition to using the well-known combat mechanisms of Gloomhaven, Frosthaven features other elements, such as mysteries to solve, a seasonal event system to live through, and player control over how the ramshackle village expands, with each new building offering new ways to progress.\n\nFrosthaven has a whole new set of items but there is a mechanism for bringing items over from 'Gloomhaven'. However, as Frosthaven's outpost is a remote location, these products may be imported but are not present as standard items. Resources are much more valuable and you have to build items through a crafting system rather than just buying them.\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:58.934Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

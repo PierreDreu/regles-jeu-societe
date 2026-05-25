@@ -1,0 +1,174 @@
+{
+  "slug": "caverna",
+  "bggId": 102794,
+  "nom": "Caverna",
+  "nomOriginal": "Caverna: The Cave Farmers",
+  "anneeSortie": 2013,
+  "joueursMin": 1,
+  "joueursMax": 7,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 30,
+  "dureeMax": 210,
+  "ageMin": 12,
+  "poidsRegles": 3.7764,
+  "designers": [
+    "Uwe Rosenberg"
+  ],
+  "artistes": [
+    "Javier González Cava",
+    "Klemens Franz"
+  ],
+  "editeurs": [
+    "Lookout Games",
+    "999 Games",
+    "CrowD Games",
+    "Devir",
+    "Filosofia Éditions",
+    "Funforge",
+    "Galápagos Jogos",
+    "Gemenot",
+    "Hobby Japan",
+    "HomoLudicus",
+    "Korea Boardgames",
+    "Lacerta",
+    "Ludofy Creative",
+    "Mayfair Games",
+    "MINDOK",
+    "Swan Panasia Co., Ltd.",
+    "uplay.it edizioni"
+  ],
+  "editeurFrancophone": "Funforge",
+  "categoriesBGG": [
+    {
+      "id": 1089,
+      "value": "Animals"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1013,
+      "value": "Farming"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2903,
+      "value": "Automatic Resource Growth"
+    },
+    {
+      "id": 2914,
+      "value": "Increase Value of Unchosen Resources"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2829,
+      "value": "Turn Order: Claim Action"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 7530,
+      "value": "Animals: Cattle / Cows"
+    },
+    {
+      "id": 7349,
+      "value": "Animals: Dogs"
+    },
+    {
+      "id": 7542,
+      "value": "Animals: Donkeys"
+    },
+    {
+      "id": 7481,
+      "value": "Animals: Sheep"
+    },
+    {
+      "id": 110270,
+      "value": "Animals: Wild boar"
+    },
+    {
+      "id": 73592,
+      "value": "Components: Gems/Crystals"
+    },
+    {
+      "id": 64990,
+      "value": "Components: Meeples (Animal) / Animeeples"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 43538,
+      "value": "Game: Caverna (Uwe Rosenberg)"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 3866,
+      "value": "Series: Harvest (Uwe Rosenberg)"
+    },
+    {
+      "id": 21425,
+      "value": "Theme: Mining"
+    }
+  ],
+  "bggRank": 62,
+  "bggRating": 7.92114,
+  "image": "/jeux/images/caverna.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__original/img/oNM6bkDbjww-7nKZX-WYYmPxRws=/0x0/filters:format(jpeg)/pic5598833.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Following along the same lines as its predecessor (Agricola), Caverna: The Cave Farmers is a worker-placement game at heart, with a focus on farming. In the game, you are the bearded leader of a small dwarf family that lives in a little cave in the mountains. You begin the game with a farmer and his spouse, and each member of the farming family represents an action that the player can take each turn. Together, you cultivate the forest in front of your cave and dig deeper into the mountain. You furnish the caves as dwellings for your offspring as well as working spaces for small enterprises.\n\nIt's up to you how much ore you want to mine. You will need it to forge weapons that allow you to go on expeditions to gain bonus items and actions. While digging through the mountain, you may come across water sources and find ore and ruby mines that help you increase your wealth. Right in front of your cave, you can increase your wealth even further with agriculture: You can cut down the forest to sow fields and fence in pastures to hold your animals. You can also expand your family while running your ever-growing farm. In the end, the player with the most efficiently developed home board wins.\n\nYou can also play the solo variant of this game to familiarize yourself with the 48 different furnishing tiles for your cave.\n\nCaverna: The Cave Farmers, which has a playing time of roughly 30 minutes per player, is a complete redesign of Agricola that substitutes the card decks from the former game with a set of buildings while adding the ability to purchase weapons and send your farmers on quests to gain further resources. Designer Uwe Rosenberg says that the game includes parts of Agricola, but also has new ideas, especially the cave part of your game board, where you can build mines and search for rubies. The game also includes two new animals: dogs and donkeys.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:04.220Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

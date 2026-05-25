@@ -1,0 +1,251 @@
+{
+  "slug": "catan",
+  "bggId": 13,
+  "nom": "Catan",
+  "nomOriginal": null,
+  "anneeSortie": 1995,
+  "joueursMin": 3,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 10,
+  "poidsRegles": 2.2822,
+  "designers": [
+    "Klaus Teuber"
+  ],
+  "artistes": [
+    "Volkan Baga",
+    "Tanja Donner",
+    "Pete Fenlon",
+    "Jason Hawkins",
+    "Eric Hibbeler",
+    "Michaela Kienle",
+    "Andreas Klober",
+    "Harald Lieske",
+    "Michael Menzel",
+    "Marion Pott",
+    "Quentin Regnes",
+    "Andreas Resch",
+    "Matt Schwabel",
+    "Franz Vohwinkel",
+    "Stephen Graham Walsh"
+  ],
+  "editeurs": [
+    "KOSMOS",
+    "64 Ounce Games",
+    "999 Games",
+    "Albi",
+    "Astrel Games",
+    "BGA Plus",
+    "Brädspel.se",
+    "Brain Games",
+    "Broadway Toys LTD",
+    "Capcom Co., Ltd.",
+    "Catan Studio",
+    "Competo / Marektoy",
+    "danspil",
+    "Descartes Editeur",
+    "Devir",
+    "Dexy Co",
+    "Enigma (Bergsala Enigma)",
+    "Eurogames",
+    "Filosofia Éditions",
+    "Galakta",
+    "Giochi Uniti",
+    "GP Games",
+    "Grow Jogos e Brinquedos",
+    "HaKubia",
+    "Hanayama",
+    "Hobby World",
+    "Ideal Board Games",
+    "Igroljub",
+    "IntelliGames.BG",
+    "Ísöld ehf.",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "L&M Games",
+    "Laser plus",
+    "Lautapelit.fi",
+    "Logojogos",
+    "Mayfair Games",
+    "MIPL",
+    "NeoTroy Games",
+    "Ninive Games",
+    "Paper Iyagi",
+    "Piatnik Distribution",
+    "Rozum",
+    "Smart Ltd",
+    "Spilbræt.dk",
+    "Stupor Mundi",
+    "Super Impulse",
+    "Swan Panasia Co., Ltd.",
+    "Tilsit",
+    "Top Toys",
+    "TRY SOFT",
+    "Vennerød Forlag AS"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1026,
+      "value": "Negotiation"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2956,
+      "value": "Chaining"
+    },
+    {
+      "id": 2072,
+      "value": "Dice Rolling"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2987,
+      "value": "Hidden Victory Points"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2900,
+      "value": "Market"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 2081,
+      "value": "Network and Route Building"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2909,
+      "value": "Random Production"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2008,
+      "value": "Trading"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 7481,
+      "value": "Animals: Sheep"
+    },
+    {
+      "id": 67874,
+      "value": "Components: Hexagonal Tiles"
+    },
+    {
+      "id": 106452,
+      "value": "Components: HexHex3 Grids"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 76458,
+      "value": "Digital Implementations: BrettspielWelt"
+    },
+    {
+      "id": 111292,
+      "value": "Digital Implementations: Screentop.gg"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 3,
+      "value": "Game: Catan"
+    },
+    {
+      "id": 79690,
+      "value": "Islands: Fictional"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 11505,
+      "value": "Promotional: Board Games"
+    },
+    {
+      "id": 66787,
+      "value": "Series: World&#039;s Smallest (Super Impulse)"
+    },
+    {
+      "id": 21622,
+      "value": "Theme: Colonial"
+    }
+  ],
+  "bggRank": 618,
+  "bggRating": 7.09052,
+  "image": "/jeux/images/catan.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__original/img/oRc0AomWA9ZtFqQDZiZbIyKE1j0=/0x0/filters:format(png)/pic9156909.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "In CATAN (formerly The Settlers of Catan), players try to be the dominant force on the island of Catan by building settlements, cities and roads. On each turn dice are rolled to determine which resources the island produces. Players build structures by 'spending' resources (sheep, wheat, wood, brick and ore) which are represented by the relevant resource cards; each land type, with the exception of the unproductive desert, produces a specific resource: hills produce brick, forests produce wood, mountains produce ore, fields produce wheat, and pastures produce sheep.\n\nSet-up includes randomly placing large hexagonal tiles (each depicting one of the five resource-producing terrain types--or the desert) in a honeycomb shape and surrounding them with water tiles, some of which contain ports of exchange. A number disk, the value of which will correspond to the roll of two 6-sided dice, are placed on each terrain tile. Each player is given two settlements (think: houses) and roads (sticks) which are placed on intersections and borders of the terrain tiles. Players collect a hand of resource cards based on which terrain tiles their last-placed settlement is adjacent to. A robber pawn is placed on the desert tile.\n\nA turn consists of rolling the dice, collecting resource cards based on this dice roll and the position of settlements (or upgraded cities&mdash;think: hotels), turning in resource cards (if possible and desired) for improvements, trading cards at a port, possibly playing a development card, or trading resource cards with other players. If the dice roll is a 7, the active player moves the robber to a new terrain tile and steals a resource card from another player who has a settlement adjacent to that tile.\n\nPoints are accumulated by building settlements and cities, having the longest road or the largest army (from some of the development cards), and gathering certain development cards that simply award victory points. When a player has gathered 10 points (some of which may be held in secret), s/he announces this and claims the win.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:26.163Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,252 @@
+{
+  "slug": "scythe",
+  "bggId": 169786,
+  "nom": "Scythe",
+  "nomOriginal": null,
+  "anneeSortie": 2016,
+  "joueursMin": 1,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 115,
+  "dureeMax": 115,
+  "ageMin": 14,
+  "poidsRegles": 3.4531,
+  "designers": [
+    "Jamey Stegmaier"
+  ],
+  "artistes": [
+    "Jakub Rozalski"
+  ],
+  "editeurs": [
+    "Stonemaier Games",
+    "Albi",
+    "Angry Lion Games",
+    "Arclight Games",
+    "CrowD Games",
+    "Delta Vision Publishing",
+    "Feuerland Spiele",
+    "Fire on Board Jogos",
+    "Galápagos Jogos",
+    "Geekach LLC",
+    "Ghenos Games",
+    "Korea Boardgames",
+    "Ludofy Creative",
+    "Maldito Games",
+    "Matagot",
+    "Morning",
+    "PHALANX",
+    "Planeta Igor",
+    "Playfun Games",
+    "Surfin&#039; Meeple China"
+  ],
+  "editeurFrancophone": "Matagot",
+  "categoriesBGG": [
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1046,
+      "value": "Fighting"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2857,
+      "value": "Card Play Conflict Resolution"
+    },
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2864,
+      "value": "Force Commitment"
+    },
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2886,
+      "value": "King of the Hill"
+    },
+    {
+      "id": 2947,
+      "value": "Movement Points"
+    },
+    {
+      "id": 2851,
+      "value": "Narrative Choice / Paragraph"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2849,
+      "value": "Tech Trees / Tech Tracks"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    },
+    {
+      "id": 2874,
+      "value": "Victory Points as a Resource"
+    },
+    {
+      "id": 2974,
+      "value": "Zone of Control"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 106514,
+      "value": "Category: Autonomous simulation"
+    },
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 79006,
+      "value": "Components:  Meeples"
+    },
+    {
+      "id": 66553,
+      "value": "Components: Control Boards"
+    },
+    {
+      "id": 64960,
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "id": 25158,
+      "value": "Components: Miniatures"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 50153,
+      "value": "Continents: Europe"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 73776,
+      "value": "Decades: The 1920&#039;s"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 73596,
+      "value": "Digital Implementations: TableTop Simulator Mod (TTS)"
+    },
+    {
+      "id": 70948,
+      "value": "Digital Implementations: Tabletopia"
+    },
+    {
+      "id": 38432,
+      "value": "Game: Scythe"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 72487,
+      "value": "Organizations: Automa Factory"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 26464,
+      "value": "Theme: Alternate History"
+    },
+    {
+      "id": 37870,
+      "value": "Theme: Dieselpunk"
+    },
+    {
+      "id": 63004,
+      "value": "Theme: Mech Warfare"
+    }
+  ],
+  "bggRank": 26,
+  "bggRating": 8.10061,
+  "image": "/jeux/images/scythe.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__original/img/HlDb9F365w0tSP8uD1vf1pfniQE=/0x0/filters:format(jpeg)/pic3163924.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "It is a time of unrest in 1920s Europa. The ashes from the first great war still darken the snow. The capitalistic city-state known simply as &ldquo;The Factory&rdquo;, which fueled the war with heavily armored mechs, has closed its doors, drawing the attention of several nearby countries.\n\nScythe is an engine-building game set in a 1920s era, alternate-history. It is a time of farming and war, broken hearts and rusted gears, innovation and valor. In Scythe, each player controls one of five factions of Eastern Europe, all of which are attempting to earn their fortunes and claim their stakes in the land around the mysterious Factory. Players conquer territory, enlist new recruits, reap resources, gain villagers, build structures, and activate monstrous mechs.\n\nEach player begins the game with different resources (power, coins, combat acumen, and popularity), a different starting location, and a hidden goal. Starting positions are specially calibrated to contribute to each faction&rsquo;s uniqueness and the asymmetrical nature of the game (each faction always starts in the same place). Scythe uses a streamlined action-selection mechanism (no rounds or phases) to keep gameplay moving at a brisk pace and reduce downtime between turns. While there is plenty of direct conflict for players who seek it, there is no player elimination.\n\nScythe gives players almost complete control over their fate. Other than each player&rsquo;s individual hidden objective card, the only elements of luck or variability are &ldquo;encounter&rdquo; cards that players will draw as they interact with the citizens of newly explored lands. Each encounter card provides the player with several options, allowing them to mitigate the luck of the draw through their selection. Combat is also driven by choices, not luck or randomness. Every part of Scythe has an aspect of engine-building to it. Players can upgrade actions to become more efficient, build structures that improve their position on the map, enlist new recruits to enhance character abilities, activate mechs to deter opponents from invading, and expand their borders to reap greater types and quantities of resources. These engine-building aspects create a sense of momentum and progress throughout the game. The order in which players improve their engines adds to the unique feel of each game, even if having played one faction multiple times.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:56.030Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "dune-imperium",
+  "bggId": 316554,
+  "nom": "Dune: Imperium",
+  "nomOriginal": null,
+  "anneeSortie": 2020,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 14,
+  "poidsRegles": 3.0773,
+  "designers": [
+    "Paul Dennen"
+  ],
+  "artistes": [
+    "Clay Brooks",
+    "Brett Nienburg",
+    "Raul Ramos",
+    "Nate Storm"
+  ],
+  "editeurs": [
+    "Dire Wolf",
+    "Arclight Games",
+    "Broadway Toys LTD",
+    "Galápagos Jogos",
+    "Geekach LLC",
+    "Lavka Games",
+    "Lucky Duck Games",
+    "MIPL",
+    "Reflexshop",
+    "Rexhry",
+    "sternenschimmermeer",
+    "Tabletop KZ",
+    "YingDi (旅法师营地)"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1064,
+      "value": "Movies / TV / Radio theme"
+    },
+    {
+      "id": 1093,
+      "value": "Novel-based"
+    },
+    {
+      "id": 1001,
+      "value": "Political"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2857,
+      "value": "Card Play Conflict Resolution"
+    },
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2901,
+      "value": "Delayed Purchase"
+    },
+    {
+      "id": 2864,
+      "value": "Force Commitment"
+    },
+    {
+      "id": 2914,
+      "value": "Increase Value of Unchosen Resources"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2911,
+      "value": "Ownership"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2828,
+      "value": "Turn Order: Progressive"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 5838,
+      "value": "Books: Dune"
+    },
+    {
+      "id": 79006,
+      "value": "Components:  Meeples"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 112176,
+      "value": "Digital Implementations: Dire Wolf Game Room"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 79009,
+      "value": "Game: Dune: Imperium"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    }
+  ],
+  "bggRank": 6,
+  "bggRating": 8.41173,
+  "image": "/jeux/images/dune-imperium.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__original/img/mZzaBAEEJpMlHWWmC0R6Su0OibQ=/0x0/filters:format(jpeg)/pic5666597.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Dune: Imperium is a game that uses deck building to add a hidden information angle to traditional worker placement. It finds inspiration in elements and characters from the Dune legacy, both the new film from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.\n\nAs a leader of one of the Great Houses of the Landsraad, raise your banner and marshal your forces and spies. War is coming, and at the center of the conflict is Arrakis &ndash; Dune, the desert planet.\n\nYou start with a unique leader card, as well as a deck identical to those of your opponents.  As you acquire cards and build your deck, your choices will define your strengths and weaknesses. Cards allow you to send your Agents to certain spaces on the game board, so how your deck evolves affects your strategy. You might become more powerful militarily, able to deploy more troops than your opponents. Or you might acquire cards that give you an edge with the four political factions represented in the game: the Emperor, the Spacing Guild, the Bene Gesserit, and the Fremen.\n\nUnlike many deck building games, you don&rsquo;t play your entire hand in one turn. Instead, you draw a hand of cards at the start of every round and alternate with other players, taking one Agent turn at a time (playing one card to send one of your Agents to the game board). When it&rsquo;s your turn and you have no more Agents to place, you&rsquo;ll take a Reveal turn, revealing the rest of your cards, which will provide Persuasion and Swords. Persuasion is used to acquire more cards, and Swords help your troops fight for the current round&rsquo;s rewards as shown on the revealed Conflict card.\n\nDefeat your rivals in combat, shrewdly navigate the political factions, and acquire precious cards. The Spice must flow to lead your House to victory!\n\nSome important links: The Official FAQ, the Unofficial FAQ, and an Automa (solo and 2p) Overview",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:02.451Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

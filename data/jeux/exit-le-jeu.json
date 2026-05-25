@@ -1,0 +1,112 @@
+{
+  "slug": "exit-le-jeu",
+  "bggId": 203420,
+  "nom": "Exit: Le Jeu",
+  "nomOriginal": "EXIT: The Game – The Abandoned Cabin",
+  "anneeSortie": 2016,
+  "joueursMin": 1,
+  "joueursMax": 6,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 12,
+  "poidsRegles": 2.5377,
+  "designers": [
+    "Inka Brand",
+    "Markus Brand"
+  ],
+  "artistes": [
+    "Inka Brand",
+    "Markus Brand",
+    "Silvia Christoph",
+    "Michaela Kienle",
+    "Sensit Communication GmbH",
+    "Franz Vohwinkel"
+  ],
+  "editeurs": [
+    "KOSMOS",
+    "999 Games",
+    "Brädspel.se",
+    "Brain Games",
+    "Broadway Toys LTD",
+    "Devir",
+    "Dino Toys s. r. o.",
+    "Galakta",
+    "Giochi Uniti",
+    "Group SNE",
+    "HaKubia",
+    "IELLO",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Piatnik Distribution",
+    "Spilbræt.dk",
+    "Thames & Kosmos",
+    "Zvezda"
+  ],
+  "editeurFrancophone": "Iello",
+  "categoriesBGG": [
+    {
+      "id": 1039,
+      "value": "Deduction"
+    },
+    {
+      "id": 1028,
+      "value": "Puzzle"
+    },
+    {
+      "id": 1037,
+      "value": "Real-time"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 36900,
+      "value": "Category: Escape Room Games"
+    },
+    {
+      "id": 72224,
+      "value": "Misc: Limited Replayability"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 36963,
+      "value": "Series: Exit: The Game"
+    },
+    {
+      "id": 14661,
+      "value": "Theme: Mystery / Crime"
+    }
+  ],
+  "bggRank": 412,
+  "bggRating": 7.40253,
+  "image": "/jeux/images/exit-le-jeu.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/r7cZVZMpP28w3-JQ-EYY7g__original/img/t--VcMKvWX2__eZYvZ7d9V13nvw=/0x0/filters:format(jpeg)/pic3332426.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Everyone meant to use the cabin only as a shelter for the night, but come the morning the door has been secured by a combination lock, with no one knowing the combination of numbers that will let them leave. The windows are barred as well. An enigmatic spinning code dial and a mysterious book is all that you have to go on. Can you escape from this abandoned cottage?\n\nIn Exit: The Game &ndash; The Abandoned Cabin, players must use their team spirit, creativity, and powers of deduction to crack codes, solve puzzles, collect objects, and earn their freedom bit by bit.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:45.302Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

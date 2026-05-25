@@ -1,0 +1,144 @@
+{
+  "slug": "heat-pedal-to-the-metal",
+  "bggId": 366013,
+  "nom": "Heat: Pedal to the Metal",
+  "nomOriginal": null,
+  "anneeSortie": 2022,
+  "joueursMin": 1,
+  "joueursMax": 6,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "dureeMin": 30,
+  "dureeMax": 60,
+  "ageMin": 10,
+  "poidsRegles": 2.2024,
+  "designers": [
+    "Asger Aleksandrov Granerud",
+    "Daniel Skjold Pedersen"
+  ],
+  "artistes": [
+    "Vincent Dutrait"
+  ],
+  "editeurs": [
+    "Days of Wonder",
+    "ADC Blackfire Entertainment",
+    "CoolPlay",
+    "Galápagos Jogos",
+    "Gémklub",
+    "GoKids 玩樂小子",
+    "Hobby World",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lord of Boards"
+  ],
+  "editeurFrancophone": "Days of Wonder",
+  "categoriesBGG": [
+    {
+      "id": 1031,
+      "value": "Racing"
+    },
+    {
+      "id": 1038,
+      "value": "Sports"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2887,
+      "value": "Catch the Leader"
+    },
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2953,
+      "value": "Programmed Movement"
+    },
+    {
+      "id": 2661,
+      "value": "Push Your Luck"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2070,
+      "value": "Simulation"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2939,
+      "value": "Track Movement"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 108938,
+      "value": "Game: Heat – Pedal to the Metal"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 6206,
+      "value": "Sports: Auto Racing"
+    },
+    {
+      "id": 72934,
+      "value": "Sports: Formula 1"
+    },
+    {
+      "id": 71573,
+      "value": "Theme: Retro"
+    }
+  ],
+  "bggRank": 47,
+  "bggRating": 7.99659,
+  "image": "/jeux/images/heat-pedal-to-the-metal.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!\n\nDrivers can compete in a single race or use the \"Championship System\" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:01:05.734Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

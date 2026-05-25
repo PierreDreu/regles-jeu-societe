@@ -1,0 +1,131 @@
+{
+  "slug": "quoridor",
+  "bggId": 624,
+  "nom": "Quoridor",
+  "nomOriginal": null,
+  "anneeSortie": 1997,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    4
+  ],
+  "dureeMin": 15,
+  "dureeMax": 15,
+  "ageMin": 8,
+  "poidsRegles": 1.8241,
+  "designers": [
+    "Mirko Marchesi"
+  ],
+  "artistes": [
+    "Mirko Marchesi"
+  ],
+  "editeurs": [
+    "Gigamic",
+    "Broadway Toys LTD",
+    "Family Games, Inc.",
+    "FoxMind Israel",
+    "Fundex",
+    "Games Hub",
+    "Ghenos Games",
+    "Grow Jogos e Brinquedos",
+    "Hachette Boardgames UK",
+    "Korea Boardgames",
+    "Lanlalen",
+    "Lifestyle Boardgames Ltd",
+    "Ludens Spirit",
+    "Marks & Spencer",
+    "Mitra",
+    "Oficina do Aprendiz",
+    "Smart Chick",
+    "SuperHeated Neurons"
+  ],
+  "editeurFrancophone": "Gigamic",
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    },
+    {
+      "id": 1041,
+      "value": "Children&#039;s Game"
+    },
+    {
+      "id": 1059,
+      "value": "Maze"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2883,
+      "value": "Connections"
+    },
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2940,
+      "value": "Square Grid"
+    },
+    {
+      "id": 2974,
+      "value": "Zone of Control"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 26432,
+      "value": "Category: Combinatorial"
+    },
+    {
+      "id": 78574,
+      "value": "Components: 9 x 9 Grids"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 5881,
+      "value": "Game: Blockade"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 19100,
+      "value": "Series: Classic (Gigamic)"
+    }
+  ],
+  "bggRank": 1687,
+  "bggRating": 6.64632,
+  "image": "/jeux/images/quoridor.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__original/img/LUcYakoNVnYxjmpYRFA6HUpHWo4=/0x0/filters:format(jpeg)/pic3488232.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "The abstract strategy game Quoridor is surprisingly deep for its simple rules. The object of the game is to advance your pawn to the opposite edge of the board. On your turn you may either move your pawn or place a wall. You may hinder your opponent with wall placement, but not completely block them off. Meanwhile, they are trying to do the same to you. The first pawn to reach the opposite side wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:49.683Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

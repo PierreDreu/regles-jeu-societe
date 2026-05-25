@@ -1,0 +1,260 @@
+{
+  "slug": "everdell",
+  "bggId": 199792,
+  "nom": "Everdell",
+  "nomOriginal": null,
+  "anneeSortie": 2018,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 40,
+  "dureeMax": 80,
+  "ageMin": 10,
+  "poidsRegles": 2.8336,
+  "designers": [
+    "James A. Wilson"
+  ],
+  "artistes": [
+    "Andrew Bosley",
+    "Cody Jones",
+    "Dann May"
+  ],
+  "editeurs": [
+    "Starling Games (II)",
+    "Abraxas",
+    "Arclight Games",
+    "CMON Global Limited",
+    "Fantasmagoria",
+    "Galápagos Jogos",
+    "Gameology (Gameology Romania)",
+    "Gémklub",
+    "Hobby World",
+    "Kaissa Chess & Games",
+    "Kutugo",
+    "Maldito Games",
+    "Matagot",
+    "MIPL",
+    "Pegasus Spiele",
+    "Rebel Sp. z o.o.",
+    "Rexhry",
+    "Spilbræt.dk",
+    "Tabletop Tycoon Inc.",
+    "Tycoon Games",
+    "White Goblin Games",
+    "YOKA Games",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": "Matagot",
+  "categoriesBGG": [
+    {
+      "id": 1089,
+      "value": "Animals"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1029,
+      "value": "City Building"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2911,
+      "value": "Ownership"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 18983,
+      "value": "Animals: Badgers"
+    },
+    {
+      "id": 19070,
+      "value": "Animals: Bats"
+    },
+    {
+      "id": 45672,
+      "value": "Animals: Birds"
+    },
+    {
+      "id": 7544,
+      "value": "Animals: Foxes"
+    },
+    {
+      "id": 7760,
+      "value": "Animals: Hedgehogs / Porcupines"
+    },
+    {
+      "id": 21462,
+      "value": "Animals: Lizards"
+    },
+    {
+      "id": 7269,
+      "value": "Animals: Mice"
+    },
+    {
+      "id": 7835,
+      "value": "Animals: Moles"
+    },
+    {
+      "id": 18588,
+      "value": "Animals: Owls"
+    },
+    {
+      "id": 17168,
+      "value": "Animals: Skunks"
+    },
+    {
+      "id": 7668,
+      "value": "Animals: Squirrels / Chipmunks"
+    },
+    {
+      "id": 7366,
+      "value": "Animals: Turtles"
+    },
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 5607,
+      "value": "Components: 3-Dimensional (3D)"
+    },
+    {
+      "id": 64990,
+      "value": "Components: Meeples (Animal) / Animeeples"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 112176,
+      "value": "Digital Implementations: Dire Wolf Game Room"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 73596,
+      "value": "Digital Implementations: TableTop Simulator Mod (TTS)"
+    },
+    {
+      "id": 70948,
+      "value": "Digital Implementations: Tabletopia"
+    },
+    {
+      "id": 57493,
+      "value": "Game: Everdell"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 65774,
+      "value": "Theme: Anthropomorphic Animals"
+    },
+    {
+      "id": 48871,
+      "value": "Theme: Nature"
+    },
+    {
+      "id": 57181,
+      "value": "Theme: Trees and Forests"
+    }
+  ],
+  "bggRank": 43,
+  "bggRating": 7.9808,
+  "image": "/jeux/images/everdell.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__original/img/HQ1ti16wT9lqja5_h3gUfHUIcVI=/0x0/filters:format(png)/pic3918905.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host&mdash;you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?\n\nEverdell is a game of dynamic tableau building and worker placement.\n\nOn their turn a player can take one of three actions:\n\na) Place a Worker: Each player has a collection of Worker pieces. These are placed on the board locations, events, and on Destination cards. Workers perform various actions to further the development of a player's tableau: gathering resources, drawing cards, and taking other special actions.\n\nb) Play a Card: Each player is building and populating a city; a tableau of up to 15 Construction and Critter cards. There are five types of cards: Travelers, Production, Destination, Governance, and Prosperity. Cards generate resources (twigs, resin, pebbles, and berries), grant abilities, and ultimately score points. The interactions of the cards reveal numerous strategies and a near infinite variety of working cities.\n\nc) Prepare for the next Season: Workers are returned to the players supply and new workers are added. The game is played from Winter through to the onset of the following winter, at which point the player with the city with the most points wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:48.881Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

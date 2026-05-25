@@ -1,0 +1,212 @@
+{
+  "slug": "7-wonders",
+  "bggId": 68448,
+  "nom": "7 Wonders",
+  "nomOriginal": null,
+  "anneeSortie": 2010,
+  "joueursMin": 2,
+  "joueursMax": 7,
+  "joueursRecommandes": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "dureeMin": 30,
+  "dureeMax": 30,
+  "ageMin": 10,
+  "poidsRegles": 2.3144,
+  "designers": [
+    "Antoine Bauza"
+  ],
+  "artistes": [
+    "Dimitri Chappuis",
+    "Miguel Coimbra",
+    "Etienne Hebinger",
+    "Cyril Nouvel"
+  ],
+  "editeurs": [
+    "Repos Production",
+    "ADC Blackfire Entertainment",
+    "Asterion Press",
+    "Galápagos Jogos",
+    "Gémklub",
+    "Hobby Japan",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "NeoTroy Games",
+    "Rebel Sp. z o.o.",
+    "Siam Board Games"
+  ],
+  "editeurFrancophone": "Repos Production",
+  "categoriesBGG": [
+    {
+      "id": 1050,
+      "value": "Ancient"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1029,
+      "value": "City Building"
+    },
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2984,
+      "value": "Closed Drafting"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2981,
+      "value": "Melding and Splaying"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 3104,
+      "value": "Neighbor Scope"
+    },
+    {
+      "id": 2846,
+      "value": "Once-Per-Game Abilities"
+    },
+    {
+      "id": 2823,
+      "value": "Score-and-Reset Game"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2849,
+      "value": "Tech Trees / Tech Tracks"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 27524,
+      "value": "Ancient: Babylon"
+    },
+    {
+      "id": 72535,
+      "value": "Ancient: Egypt"
+    },
+    {
+      "id": 52373,
+      "value": "Ancient: Greece"
+    },
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 117160,
+      "value": "Constructions: Lighthouses"
+    },
+    {
+      "id": 77012,
+      "value": "Constructions: Pyramids"
+    },
+    {
+      "id": 111038,
+      "value": "Constructions: The Hanging Gardens of Babylon"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 76458,
+      "value": "Digital Implementations: BrettspielWelt"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 17552,
+      "value": "Game: 7 Wonders"
+    },
+    {
+      "id": 71181,
+      "value": "Mechanism: Artificial Player"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    }
+  ],
+  "bggRank": 117,
+  "bggRating": 7.66236,
+  "image": "/jeux/images/7-wonders.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__original/img/jt70jJDZ1y1FWJs4ZQf5FI8APVY=/0x0/filters:format(jpeg)/pic7149798.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.\n\n7 Wonders lasts three ages. In each age, players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with other players in various ways. (Players have individual boards with special powers on which to organize their cards, and the boards are double-sided). Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play from that age. After three ages, the game ends.\n\nIn essence, 7 Wonders is a card development game. Some cards have immediate effects, while others provide bonuses or upgrades later in the game. Some cards provide discounts on future purchases. Some provide military strength to overpower your neighbors and others give nothing but victory points. Each card is played immediately after being drafted, so you'll know which cards your neighbor is receiving and how her choices might affect what you've already built up. Cards are passed left-right-left over the three ages, so you need to keep an eye on the neighbors in both directions.\n\nThough the box of earlier editions is listed as being for 3&ndash;7 players, there is an official 2-player variant included in the instructions.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:28.021Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

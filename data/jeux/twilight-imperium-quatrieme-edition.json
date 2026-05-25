@@ -1,0 +1,193 @@
+{
+  "slug": "twilight-imperium-quatrieme-edition",
+  "bggId": 233078,
+  "nom": "Twilight Imperium: Quatrième Édition",
+  "nomOriginal": "Twilight Imperium: Fourth Edition",
+  "anneeSortie": 2017,
+  "joueursMin": 3,
+  "joueursMax": 6,
+  "joueursRecommandes": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "dureeMin": 240,
+  "dureeMax": 480,
+  "ageMin": 14,
+  "poidsRegles": 4.3534,
+  "designers": [
+    "Dane Beltrami",
+    "Corey Konieczka",
+    "Christian T. Petersen"
+  ],
+  "artistes": [
+    "Scott Schomburg"
+  ],
+  "editeurs": [
+    "Fantasy Flight Games",
+    "ADC Blackfire Entertainment",
+    "Arclight Games",
+    "Asterion Press",
+    "Delta Vision Publishing",
+    "Edge Entertainment",
+    "Galakta",
+    "Galápagos Jogos",
+    "Geekach LLC",
+    "Hobby World",
+    "Playfun Games",
+    "sternenschimmermeer"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1020,
+      "value": "Exploration"
+    },
+    {
+      "id": 1026,
+      "value": "Negotiation"
+    },
+    {
+      "id": 1001,
+      "value": "Political"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    },
+    {
+      "id": 1113,
+      "value": "Space Exploration"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    },
+    {
+      "id": 1019,
+      "value": "Wargame"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2838,
+      "value": "Action Drafting"
+    },
+    {
+      "id": 2021,
+      "value": "Area-Impulse"
+    },
+    {
+      "id": 2072,
+      "value": "Dice Rolling"
+    },
+    {
+      "id": 2843,
+      "value": "Follow"
+    },
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2914,
+      "value": "Increase Value of Unchosen Resources"
+    },
+    {
+      "id": 2886,
+      "value": "King of the Hill"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 2947,
+      "value": "Movement Points"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2849,
+      "value": "Tech Trees / Tech Tracks"
+    },
+    {
+      "id": 2008,
+      "value": "Trading"
+    },
+    {
+      "id": 2079,
+      "value": "Variable Phase Order"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    },
+    {
+      "id": 2017,
+      "value": "Voting"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 67874,
+      "value": "Components: Hexagonal Tiles"
+    },
+    {
+      "id": 64949,
+      "value": "Components: Map (Interplanetary or Interstellar scale)"
+    },
+    {
+      "id": 25158,
+      "value": "Components: Miniatures"
+    },
+    {
+      "id": 29,
+      "value": "Game: Twilight Imperium"
+    },
+    {
+      "id": 12210,
+      "value": "Mechanism: 4X"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    }
+  ],
+  "bggRank": 7,
+  "bggRating": 8.56354,
+  "image": "/jeux/images/twilight-imperium-quatrieme-edition.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__original/img/kVpZ0Maa_LeQGWxOqsYKP3N4KUY=/0x0/filters:format(jpeg)/pic3727516.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Twilight Imperium (Fourth Edition) is a game of galactic conquest in which three to six players each take on the role of one of seventeen factions vying for galactic domination through military might, political maneuvering, and economic bargaining. Every faction offers a completely different play experience, from the wormhole-hopping Ghosts of Creuss to the Emirates of Hacan, masters of trade and economics. These seventeen races are offered many paths to victory, but only one may sit upon the throne of Mecatol Rex as the new masters of the galaxy.\n\nNo two games of Twilight Imperium are ever identical. At the start of each galactic age, the game board is uniquely and strategically constructed from among 51 galaxy tiles that feature everything from lush new planets and supernovas to asteroid fields and gravity rifts. Players are dealt a hand of these tiles and take turns creating the galaxy around Mecatol Rex, the capital planet seated in the center of the board. An ion storm may block your race from progressing through the galaxy while a fortuitously placed gravity rift may protect you from your closest foes. The galaxy is yours to both craft and dominate.\n\nA round of Twilight Imperium begins with players selecting one of eight strategy cards that both determine player order and give their owner a unique strategic action for that round. These may do anything from providing additional command tokens to allowing a player to control trade throughout the galaxy. After these strategies are selected, players take turns moving their fleets from system to system, claiming new planets for their empires, and engaging in warfare and trade with other factions. At the end of a turn, players gather in a grand council to pass new laws and agendas, shaking up the game in unpredictable ways.\n\nAfter every player has passed their turn, players move up the victory track by checking to see whether they have completed any objectives throughout the turn and scoring them. Objectives are determined by setting up ten public objective cards at the start of each game, then gradually revealing them over the course of the game. Each player also chooses between two random secret objectives at the start of the game, achievement of which provides victory points--only for the holder of that objective. These objectives can be anything from researching new technologies to taking your neighbor's home system. At the end of every turn, a player can claim one public objective and one secret objective. As play continues, more of these objectives are revealed and more secret objectives are dealt out, giving players dynamically changing goals throughout the game. Play continues until a player reaches ten victory points.\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:01.559Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

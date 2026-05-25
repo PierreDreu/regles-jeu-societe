@@ -1,0 +1,239 @@
+{
+  "slug": "pandemic",
+  "bggId": 30549,
+  "nom": "Pandemic",
+  "nomOriginal": null,
+  "anneeSortie": 2008,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 45,
+  "dureeMax": 45,
+  "ageMin": 8,
+  "poidsRegles": 2.3942,
+  "designers": [
+    "Matt Leacock"
+  ],
+  "artistes": [
+    "Josh Cappel",
+    "Christian Hanisch",
+    "Régis Moulun",
+    "Chris Quilliams",
+    "Tom Thiel"
+  ],
+  "editeurs": [
+    "Z-Man Games",
+    "(Unknown)",
+    "ADC Blackfire Entertainment",
+    "Albi",
+    "Asterion Press",
+    "Boardgame Space",
+    "Brain Games",
+    "CoolPlay",
+    "Devir",
+    "Enigma (Bergsala Enigma)",
+    "Filosofia Éditions",
+    "Galápagos Jogos",
+    "Game Harbor",
+    "Gémklub",
+    "HaKubia",
+    "Hobby Japan",
+    "HomoLudicus",
+    "Jolly Thinkers",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lacerta",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "MINDOK",
+    "NeoTroy Games",
+    "Nordic Games ehf",
+    "Paladium Games",
+    "Pegasus Spiele",
+    "Quined White Goblin Games",
+    "Rebel Sp. z o.o.",
+    "Siam Board Games",
+    "Stratelibri",
+    "Wargames Club Publishing",
+    "Zhiyanjia",
+    "Взрослые дети",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 2145,
+      "value": "Medical"
+    },
+    {
+      "id": 1097,
+      "value": "Travel"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2001,
+      "value": "Action Points"
+    },
+    {
+      "id": 2956,
+      "value": "Chaining"
+    },
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 2850,
+      "value": "Events"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2078,
+      "value": "Point to Point Movement"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2070,
+      "value": "Simulation"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2008,
+      "value": "Trading"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 64952,
+      "value": "Components: Map (Global Scale)"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 67583,
+      "value": "Containers: Unique Shape"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 3430,
+      "value": "Game: Pandemic"
+    },
+    {
+      "id": 61854,
+      "value": "Medical: Diseases"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 63526,
+      "value": "Occupation: Dispatcher"
+    },
+    {
+      "id": 63524,
+      "value": "Occupation: Medic / Doctor / Nurses"
+    },
+    {
+      "id": 63525,
+      "value": "Occupation: Researcher / Scientist"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 62881,
+      "value": "Region: The World"
+    },
+    {
+      "id": 66167,
+      "value": "Theme: Science"
+    }
+  ],
+  "bggRank": 171,
+  "bggRating": 7.51334,
+  "image": "/jeux/images/pandemic.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__original/img/IsrvRLpUV1TEyZsO5rC-btXaPz0=/0x0/filters:format(jpeg)/pic1534148.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Pandemic, several virulent diseases have broken out simultaneously all over the world! The players are disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand.\n\nThe game board depicts several major population centers on Earth. On each turn, a player can use up to four actions to travel between cities, treat infected populaces, discover a cure, or build a research station. A deck of cards provides the players with these abilities, but sprinkled throughout this deck are Epidemic! cards that accelerate and intensify the diseases' activity. A second, separate deck of cards controls the \"normal\" spread of the infections.\n\nTaking a unique role within the team, players must plan their strategy to mesh with their specialists' strengths in order to conquer the diseases. For example, the Operations Expert can build research stations which are needed to find cures for the diseases and which allow for greater mobility between cities; the Scientist needs only four cards of a particular disease to cure it instead of the normal five&mdash;but the diseases are spreading quickly and time is running out. If one or more diseases spreads beyond recovery or if too much time elapses, the players all lose. If they cure the four diseases, they all win!\n\nThe 2013 edition of Pandemic includes two new characters&mdash;the Contingency Planner and the Quarantine Specialist&mdash;not available in earlier editions of the game.\n\nPandemic is the first game in the Pandemic series.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:33.925Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

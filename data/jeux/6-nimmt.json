@@ -1,0 +1,177 @@
+{
+  "slug": "6-nimmt",
+  "bggId": 432,
+  "nom": "6 nimmt!",
+  "nomOriginal": "Take 5",
+  "anneeSortie": 1994,
+  "joueursMin": 2,
+  "joueursMax": 10,
+  "joueursRecommandes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "dureeMin": 45,
+  "dureeMax": 45,
+  "ageMin": 8,
+  "poidsRegles": 1.1888,
+  "designers": [
+    "Wolfgang Kramer"
+  ],
+  "artistes": [
+    "Timur Baskakov",
+    "Design Edge",
+    "Oliver Freudenreich",
+    "Bill Herrin",
+    "Gatis Sluka",
+    "Franz Vohwinkel"
+  ],
+  "editeurs": [
+    "AMIGO",
+    "999 Games",
+    "Albi",
+    "asmodee",
+    "Brain Games",
+    "Broadway Toys LTD",
+    "Bureau de Juegos",
+    "Buró",
+    "Carletto",
+    "Copag Cards (Copag)",
+    "Dal Negro",
+    "Dr. Wood Challenge Centre",
+    "Endless Games (I)",
+    "Fractal Juegos",
+    "G3",
+    "Gigamic",
+    "Giochi Uniti",
+    "Hasbro",
+    "Kaissa Chess & Games",
+    "Kärnan",
+    "Kikigagne?",
+    "Korea Boardgames",
+    "Land of Beautiful Mind (سرزمین ذهن زیبا)",
+    "Lanlalen",
+    "Last Level",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "Mar Lúdico",
+    "Max Bersinger",
+    "Mayfair Games",
+    "Mercurio",
+    "Midgaard Games",
+    "MIPL",
+    "Möbius Games",
+    "Nelospelit",
+    "Pando Games",
+    "Paper Iyagi",
+    "Piatnik",
+    "Piatnik Distribution",
+    "Rebel Sp. z o.o.",
+    "Shafir Games (המשחקים של חיים שפיר)",
+    "Swan Panasia Co., Ltd.",
+    "Tempo Games (I)",
+    "U.S. Games Systems, Inc.",
+    "VR Distribution"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1098,
+      "value": "Number"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 3101,
+      "value": "Ordering"
+    },
+    {
+      "id": 2661,
+      "value": "Push Your Luck"
+    },
+    {
+      "id": 2823,
+      "value": "Score-and-Reset Game"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 7530,
+      "value": "Animals: Cattle / Cows"
+    },
+    {
+      "id": 109935,
+      "value": "Containers: Tin/Metal Box"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 76458,
+      "value": "Digital Implementations: BrettspielWelt"
+    },
+    {
+      "id": 5012,
+      "value": "Game: 6 nimmt!"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 66890,
+      "value": "Misc: Lowest Score Wins"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    },
+    {
+      "id": 115268,
+      "value": "Series: Beveled Boxes (Gigamic)"
+    }
+  ],
+  "bggRank": 676,
+  "bggRating": 6.9842,
+  "image": "/jeux/images/6-nimmt.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/WuOY1XAIJQ-RGAmT_apW_w__original/img/06TSBC2s-cwbxfPmy_pf7n5p-jM=/0x0/filters:format(jpeg)/pic8632998.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Take 5, a.k.a. 6 nimmt!, Category 5 and many other names, you want to score as few points as possible.\n\nTo play the game, you shuffle the 104 number cards, lay out four cards face-up to start the four rows, then deal ten cards to each player. Each turn, players simultaneously choose and reveal a card from their hand, then add the cards to the rows, with cards being placed in ascending order based on their number; specifically, each card is placed in the row that ends with the highest number that's below the card's number. When the sixth card is placed in a row, the owner of that card claims the other five cards and the sixth card becomes the first card in its row.\n\nIn addition to a number from 1 to 104, each card has a point value. After finishing ten rounds, players tally their score and see whether the game ends. (Category 5 ends when a player has a score greater than 74, for example, while 6 nimmt! ends when someone tops 66.) When this happens, the player with the fewest points wins!\n\n6 nimmt! works with 2-10 players, and the dynamics of gameplay change the more players that you have. One variant for the game has you use only the lowest 34 cards, 44 cards, 54 cards, etc. (instead of all 104 cards) when you have three, four, five, etc. players. This change allows you to know exactly which cards are in play, thereby allowing you to track which cards have been played and know what to expect so that you can (theoretically) make better choices as to which card to play when.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:40.937Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

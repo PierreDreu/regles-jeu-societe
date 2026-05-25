@@ -1,0 +1,149 @@
+{
+  "slug": "sherlock-holmes-detective-conseil",
+  "bggId": 2511,
+  "nom": "Sherlock Holmes Détective Conseil",
+  "nomOriginal": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+  "anneeSortie": 1981,
+  "joueursMin": 1,
+  "joueursMax": 8,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 13,
+  "poidsRegles": 2.6652,
+  "designers": [
+    "Raymond Edwards",
+    "Suzanne Goldberg",
+    "Gary Grady"
+  ],
+  "artistes": [
+    "Bernard Bittler",
+    "Arnaud Demaegd",
+    "Nils Gulliksson",
+    "Neriac",
+    "Pascal Quidault",
+    "Stefan Thulin"
+  ],
+  "editeurs": [
+    "Sleuth Publications",
+    "Space Cowboys",
+    "Angry Lion Games",
+    "Asterion Press",
+    "Äventyrsspel",
+    "Ben Sanders Co.",
+    "Casper",
+    "Chessex",
+    "CrowD Games",
+    "Descartes Editeur",
+    "Edge Entertainment",
+    "Galápagos Jogos",
+    "International Team (I)",
+    "Kaissa Chess & Games",
+    "KOSMOS",
+    "Lord of Boards",
+    "Rawstone",
+    "Ystari Games",
+    "二見書房 ( Futami Shobo Publishing Co., Ltd. )"
+  ],
+  "editeurFrancophone": "Space Cowboys",
+  "categoriesBGG": [
+    {
+      "id": 1039,
+      "value": "Deduction"
+    },
+    {
+      "id": 1040,
+      "value": "Murder / Mystery"
+    },
+    {
+      "id": 1093,
+      "value": "Novel-based"
+    },
+    {
+      "id": 2710,
+      "value": "Post-Napoleonic"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 3002,
+      "value": "Deduction"
+    },
+    {
+      "id": 2851,
+      "value": "Narrative Choice / Paragraph"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2027,
+      "value": "Storytelling"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 28631,
+      "value": "Books: Mystery Novels"
+    },
+    {
+      "id": 7510,
+      "value": "Books: Sherlock Holmes"
+    },
+    {
+      "id": 17446,
+      "value": "Cities: London (England, UK)"
+    },
+    {
+      "id": 67953,
+      "value": "Components: Map (City Scale)"
+    },
+    {
+      "id": 14759,
+      "value": "Country: England"
+    },
+    {
+      "id": 46472,
+      "value": "Game: Sherlock Holmes Consulting Detective"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 72224,
+      "value": "Misc: Limited Replayability"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    }
+  ],
+  "bggRank": 200,
+  "bggRating": 7.60308,
+  "image": "/jeux/images/sherlock-holmes-detective-conseil.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__original/img/iu21NR45DwHyFY-UPW0m7hwY_vw=/0x0/filters:format(jpeg)/pic3514298.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Have you ever had the desire to walk the streets of Victorian London with Sherlock Holmes in search of Professor Moriarty? To search the docks for the giant rat of Sumatra? To walk up Baker Street as the fog is rolling in and hear Holmes cry out, \"Come, Watson, come! The game is afoot!\"? Now you can! You can enter the opium den beneath the Bar of Gold, but beware, that may be Colonel Sebastian Moran lurking around the corner. You can capture the mystery and excitement of Holmes' London in this challenging and informative game. You, the player, will match your deductive abilities against your opponents and the master sleuth himself, Sherlock Holmes.\n\nIn Sherlock Holmes Consulting Detective, you are presented with a mystery to solve, and it is then up to you to trace the threads of evidence through the byways and mansions of nineteenth century London. You will interview suspects, search the newspapers for clues, and put together the facts to reach a solution.\n\nWhy were two lions murdered in Hyde Park? Who is responsible for the missing paintings from the National Gallery? Who murdered Oswald Mason and why? These are just a few of the cases that will challenge your ingenuity and deductive abilities.\n\nThis is not a board game: No dice, no luck, but a challenge to your mental ability. The game has been thoroughly researched for Holmesian and Victorian accuracy so as to capture a feeling of that bygone era.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:43.553Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "brass-lancashire",
+  "bggId": 28720,
+  "nom": "Brass: Lancashire",
+  "nomOriginal": null,
+  "anneeSortie": 2007,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 14,
+  "poidsRegles": 3.8436,
+  "designers": [
+    "Martin Wallace"
+  ],
+  "artistes": [
+    "Gavan Brown",
+    "Lina Cossette",
+    "Peter Dennis",
+    "David Forest",
+    "Eckhard Freytag",
+    "Damien Mammoliti",
+    "Mr. Cuddington"
+  ],
+  "editeurs": [
+    "Roxley",
+    "Warfrog Games",
+    "Arclight Games",
+    "BoardM Factory",
+    "Conclave Editora",
+    "CrowD Games",
+    "Dexker Games",
+    "Eagle-Gryphon Games",
+    "FRED Distribution, Inc.",
+    "Funforge",
+    "Ghenos Games",
+    "Giant Roc",
+    "Maldito Games",
+    "Pegasus Spiele",
+    "PHALANX",
+    "Rebel Sp. z o.o.",
+    "Wargames Club Publishing",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": "Funforge",
+  "categoriesBGG": [
+    {
+      "id": 2726,
+      "value": "Age of Reason"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1094,
+      "value": "Educational"
+    },
+    {
+      "id": 1088,
+      "value": "Industry / Manufacturing"
+    },
+    {
+      "id": 2710,
+      "value": "Post-Napoleonic"
+    },
+    {
+      "id": 1011,
+      "value": "Transportation"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2956,
+      "value": "Chaining"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2904,
+      "value": "Loans"
+    },
+    {
+      "id": 2900,
+      "value": "Market"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2081,
+      "value": "Network and Route Building"
+    },
+    {
+      "id": 2911,
+      "value": "Ownership"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2849,
+      "value": "Tech Trees / Tech Tracks"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2826,
+      "value": "Turn Order: Stat-Based"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 18587,
+      "value": "Cities: Manchester (England, UK)"
+    },
+    {
+      "id": 81601,
+      "value": "Components: Map (Regional scale)"
+    },
+    {
+      "id": 14759,
+      "value": "Country: England"
+    },
+    {
+      "id": 22135,
+      "value": "Crowdfunding: Spieleschmiede"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 57499,
+      "value": "Game: Brass"
+    },
+    {
+      "id": 50152,
+      "value": "History: Industrial Revolution"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 66445,
+      "value": "Theme: Canals"
+    }
+  ],
+  "bggRank": 22,
+  "bggRating": 8.19882,
+  "image": "/jeux/images/brass-lancashire.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__original/img/3ffdJj5Pz6HQrg09Kh8ecTen-TY=/0x0/filters:format(jpeg)/pic3469216.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Brass: Lancashire &mdash; first published as Brass &mdash; is an economic strategy game that tells the story of competing cotton entrepreneurs in Lancashire during the industrial revolution. You must develop, build and establish your industries and network so that you can capitalize on demand for iron, coal and cotton. The game is played over two halves: the canal phase and the rail phase. To win the game, score the most victory points (VPs), which are counted at the end of each phase. VPs are gained from your canals, rails, and established (flipped) industry tiles. Each round, players take turns according to the turn order track, receiving two actions to perform any of the following:\n\n\n    Build an industry tile\n    Build a rail or canal\n    Develop an industry\n    Sell cotton\n    Take a loan\n\n\nAt the end of your turn, you replace the two cards you played with two more from the deck. Turn order is determined by how much money a player spent on the previous turn, the lowest spender going first. This turn order mechanism opens some strategic options for players going later in the turn order, allowing for the possibility of back-to-back turns.\n\nAfter all the cards have been played the first time (with the deck size being adjusted for the number of players), the canal phase ends and a scoring round commences. After scoring, all canals and all of the lowest level industries are removed from the game, after which new cards are dealt and the rail phase begins. During this phase, players may now occupy more than one location in a city and double-connection builds (though expensive) are possible. At the end of the rail phase, another scoring round takes place, then a winner is crowned.\n\nThe cards limit where you can build your industries, sell cotton or build connections (though any card can be used to 'develop'). This leads to a strategic timing/storing of cards. Resources are common so that if you build a rail line (which requires coal) you have to use the coal from the nearest source, which may be an opponent's coal mine, which in turn gets that coal mine closer to scoring (i.e., being utilized).\n\nBrass: Lancashire, the 2018 edition from Roxley Games, reboots the original Warfrog Games edition of Brass with new artwork and components, as well as a few rules changes:\n\n\n     The virtual link rules between Birkenhead have been made optional.\n     The three-player experience has been brought closer to the ideal experience of four players by shortening each half of the game by one round and tuning the deck and distant market tiles slightly to ensure a consistent experience.\n     Two-player rules have been created and are playable without the need of an alternate board.\n     The level 1 cotton mill is now worth 5 VP to make it slightly less terrible.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:00.665Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "race-for-the-galaxy",
+  "bggId": 28143,
+  "nom": "Race for the Galaxy",
+  "nomOriginal": null,
+  "anneeSortie": 2007,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 30,
+  "dureeMax": 60,
+  "ageMin": 12,
+  "poidsRegles": 2.9933,
+  "designers": [
+    "Thomas Lehmann"
+  ],
+  "artistes": [
+    "Martin Hoffmann",
+    "Claus Stephan"
+  ],
+  "editeurs": [
+    "Rio Grande Games",
+    "ABACUSSPIELE",
+    "Albi",
+    "Ediciones MasQueOca",
+    "Feelindigo",
+    "Gabinete Lúdico",
+    "Galápagos Jogos",
+    "Gamesinitaly",
+    "Ghenos Games",
+    "Giochix.it",
+    "Hobby Japan",
+    "Hobby World",
+    "Korea Boardgames",
+    "Matagot",
+    "Pegasus Spiele",
+    "Rebel Sp. z o.o.",
+    "Smart Ltd",
+    "Wargames Club Publishing",
+    "YOKA Games",
+    "Ystari Games"
+  ],
+  "editeurFrancophone": "Matagot",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    },
+    {
+      "id": 1113,
+      "value": "Space Exploration"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2843,
+      "value": "Follow"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2900,
+      "value": "Market"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2079,
+      "value": "Variable Phase Order"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 4571,
+      "value": "Game: Race for the Galaxy"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    }
+  ],
+  "bggRank": 94,
+  "bggRating": 7.73631,
+  "image": "/jeux/images/race-for-the-galaxy.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__original/img/Vh-DCkTPa8OU45LaJdUywwhiYqE=/0x0/filters:format(jpeg)/pic5261714.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Race for the Galaxy, players build galactic civilizations by playing cards representing worlds or technical and social developments.\n\nEach round, players secretly and simultaneously select an action card corresponding to one phase of a round. These phases let players draw cards, play cards, add goods to worlds, or consume goods for VP chips. Only the phases chosen will occur that round. Every player may act in a phase that occurs, but the players who chose that phase get a bonus.\n\nGame end is triggered either when a player has built a civilization of 12 cards or when the pool of VP chips is exhausted. Each player then totals the victory points in their tableau plus any VP chips earned during play.\n\nDetailed Overview\nRace for the Galaxy tells a story of galactic discovery and expansion through a single deck of cards. Every card in the deck represents either a world that you might settle or a development that you might implement. Cards placed into your tableau represent your current achievements -- worlds you have colonized, technology you now wield -- while cards in your hand represent the options currently available to you.\n\nTo play a card, discard the number of cards equal to its cost, representing other opportunities you must forgo to concentrate on your current course. Once in your tableau, a card provides special powers during the game and, at the end, its listed number of victory points. Many worlds, once placed, also produce goods that can be traded for more cards or consumed for VP chips.\n\nRace for the Galaxy is played in rounds. In each round, you and your opponents secretly select an action phase for the upcoming turn. You can choose to:\n&bull; Place a world in your tableau with settle or a development with develop.\n&bull; Produce goods on worlds with produce.\n&bull; Consume goods for VPs with consume.\n&bull; Add cards to your hand with explore or by trading a good.\n\nEach round, only those phases that are selected will occur -- but they'll occur for everyone. Selecting a phase both ensures that it occurs that round and gains the selecting player a bonus.\n\nRound follows round until someone builds their tableau to twelve cards, or until the last VP chip is claimed. The victor is the player with the most VPs.\n\n2018 UPDATE\nThe second edition of the game is improved for CVD (color blindness) and includes 5 revised cards from the original version and 6 New Worlds promo homeworlds. The promo homeworlds and first edition compatible Revised Cards are both available for purchase through the BGG store.\n\nUPC 655132003018",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:12.201Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

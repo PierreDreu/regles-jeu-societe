@@ -1,0 +1,170 @@
+{
+  "slug": "codenames",
+  "bggId": 178900,
+  "nom": "Codenames",
+  "nomOriginal": null,
+  "anneeSortie": 2015,
+  "joueursMin": 2,
+  "joueursMax": 8,
+  "joueursRecommandes": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "dureeMin": 15,
+  "dureeMax": 15,
+  "ageMin": 10,
+  "poidsRegles": 1.2549,
+  "designers": [
+    "Vlaada Chvátil"
+  ],
+  "artistes": [
+    "Vlaada Chvátil",
+    "Stéphane Gantiez",
+    "Dávid Jablonovský",
+    "Tomáš Kučerovský",
+    "Filip Murmak",
+    "František Sedláček"
+  ],
+  "editeurs": [
+    "Czech Games Edition (CGE)",
+    "asmodee",
+    "Boardgame Space",
+    "Brädspel.se",
+    "Brain Games",
+    "Broadway Toys LTD",
+    "Cranio Creations",
+    "Cuaca Cerah Games",
+    "Devir",
+    "DiceTree Games",
+    "Enigma (Bergsala Enigma)",
+    "Fantasmagoria",
+    "Feelindigo",
+    "GaGa Games",
+    "Gaming Library",
+    "Gémklub",
+    "Goblin Gaming",
+    "Golden Egg Games",
+    "HeidelBÄR Games",
+    "Heidelberger Spieleverlag",
+    "Hobby Japan",
+    "IELLO",
+    "Kaissa Chess & Games",
+    "Land of Beautiful Mind (سرزمین ذهن زیبا)",
+    "Lautapelit.fi",
+    "Lex Games",
+    "Liam Games",
+    "MINDOK",
+    "MIPL",
+    "More Fun Co., Ltd.",
+    "Nordic Games ehf",
+    "One Moment Games",
+    "Ponva d.o.o.",
+    "Pridemage Games",
+    "Rebel Sp. z o.o.",
+    "TWOPLUS Games",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1039,
+      "value": "Deduction"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    },
+    {
+      "id": 1081,
+      "value": "Spies / Secret Agents"
+    },
+    {
+      "id": 1025,
+      "value": "Word Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 3002,
+      "value": "Deduction"
+    },
+    {
+      "id": 2047,
+      "value": "Memory"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2019,
+      "value": "Team-Based Game"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 39749,
+      "value": "Components: 5 x 5 Grids"
+    },
+    {
+      "id": 75031,
+      "value": "Components: Sand Timers"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 81575,
+      "value": "Digital Implementations: VASSAL"
+    },
+    {
+      "id": 37062,
+      "value": "Game: Codenames"
+    },
+    {
+      "id": 66334,
+      "value": "Mechanism: Give a Clue / Get a Clue"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 62861,
+      "value": "Word Games: Guess the Word"
+    }
+  ],
+  "bggRank": 162,
+  "bggRating": 7.52474,
+  "image": "/jeux/images/codenames.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__original/img/Id-jjIer_61ZbvI2_RVRCeBZFY4=/0x0/filters:format(jpeg)/pic8907965.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames &mdash; single-word labels like \"disease\", \"Germany\", and \"carrot\". Yes, carrot. It's a legitimate codename. Each spymaster wants their team to identify their agents first...without uncovering the assassin by mistake.\n\nIn Codenames, two teams compete to see who can make contact with all of their agents first. Lay out 25 cards, each bearing a single word. The spymasters look at a card showing the identity of each card, then take turns clueing their teammates. A clue consists of a single word and a number, with the number suggesting how many cards in play have some association to the given clue word. The teammates then identify one agent they think is on their team; if they're correct, they can keep guessing up to one more than the stated number of times; if the agent belongs to the opposing team or is an innocent bystander, the team's turn ends; and if they fingered the assassin, they lose the game.\n\nSpymasters continue giving clues until one team has identified all of their agents or the assassin has removed one team from play.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:30.925Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

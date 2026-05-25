@@ -1,0 +1,253 @@
+{
+  "slug": "root",
+  "bggId": 237182,
+  "nom": "Root",
+  "nomOriginal": null,
+  "anneeSortie": 2018,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 90,
+  "ageMin": 14,
+  "poidsRegles": 3.8398,
+  "designers": [
+    "Cole Wehrle"
+  ],
+  "artistes": [
+    "Kyle Ferrin"
+  ],
+  "editeurs": [
+    "Leder Games",
+    "2Tomatoes Games",
+    "Arclight Games",
+    "CMON Global Limited",
+    "CrowD Games",
+    "Delta Vision Publishing",
+    "Fox in the Box",
+    "Kilogames",
+    "Korea Boardgames",
+    "MeepleBR",
+    "MS Edizioni",
+    "Portal Games",
+    "Quality Beast",
+    "Spielworxx",
+    "Tower Tactic Games",
+    "YOKA Games"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1089,
+      "value": "Animals"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1026,
+      "value": "Negotiation"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    },
+    {
+      "id": 1019,
+      "value": "Wargame"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2001,
+      "value": "Action Points"
+    },
+    {
+      "id": 2689,
+      "value": "Action Queue"
+    },
+    {
+      "id": 2839,
+      "value": "Action Retrieval"
+    },
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2046,
+      "value": "Area Movement"
+    },
+    {
+      "id": 2072,
+      "value": "Dice Rolling"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2915,
+      "value": "Negotiation"
+    },
+    {
+      "id": 2078,
+      "value": "Point to Point Movement"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2884,
+      "value": "Sudden Death Ending"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 14694,
+      "value": "Animals: Beavers"
+    },
+    {
+      "id": 45672,
+      "value": "Animals: Birds"
+    },
+    {
+      "id": 7334,
+      "value": "Animals: Cats"
+    },
+    {
+      "id": 7544,
+      "value": "Animals: Foxes"
+    },
+    {
+      "id": 7269,
+      "value": "Animals: Mice"
+    },
+    {
+      "id": 6507,
+      "value": "Animals: Rabbits / Hares"
+    },
+    {
+      "id": 58093,
+      "value": "Animals: Raccoons"
+    },
+    {
+      "id": 66553,
+      "value": "Components: Control Boards"
+    },
+    {
+      "id": 64960,
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "id": 64990,
+      "value": "Components: Meeples (Animal) / Animeeples"
+    },
+    {
+      "id": 66140,
+      "value": "Components: Polyhedral (not D6) dice"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 77267,
+      "value": "Crowdfunding: Modian"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 112176,
+      "value": "Digital Implementations: Dire Wolf Game Room"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 55566,
+      "value": "Game: Root"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 65154,
+      "value": "Theme: Animal Battles"
+    },
+    {
+      "id": 65774,
+      "value": "Theme: Anthropomorphic Animals"
+    },
+    {
+      "id": 48871,
+      "value": "Theme: Nature"
+    },
+    {
+      "id": 106812,
+      "value": "War Level of Command: Grand Strategy"
+    }
+  ],
+  "bggRank": 34,
+  "bggRating": 8.07151,
+  "image": "/jeux/images/root.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__original/img/E0s2LvtFA1L5YKk-_44D4u2VD2s=/0x0/filters:format(jpeg)/pic4254509.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Root is a game of adventure and war in which 2 to 4 (1 to 6 with the 'Riverfolk' expansion, 2-6 with the 'Underworld', or 'Marauder' expansions) players battle for control of a vast wilderness. Like Vast: The Crystal Caverns, each player in Root has unique capabilities and a different victory condition. Now, with the aid of gorgeous, multi-use cards, a truly asymmetric design has never been more accessible.\n\nThe nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance&rsquo;s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.\n\nMeanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander who they hope will lead their faction to resume their ancient birthright. The stage is set for a contest that will decide the fate of the great woodland. It is up to the players to decide which group will ultimately take root.\n\nIn Root, players drive the narrative, and the differences between each role create an unparalleled level of interaction and replayability. Leder Games invites you and your family to explore the fantastic world of Root!\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:59.580Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

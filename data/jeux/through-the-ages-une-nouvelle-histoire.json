@@ -1,0 +1,149 @@
+{
+  "slug": "through-the-ages-une-nouvelle-histoire",
+  "bggId": 182028,
+  "nom": "Through the Ages: Une Nouvelle Histoire",
+  "nomOriginal": "Through the Ages: A New Story of Civilization",
+  "anneeSortie": 2015,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 120,
+  "dureeMax": 120,
+  "ageMin": 14,
+  "poidsRegles": 4.4425,
+  "designers": [
+    "Vlaada Chvátil"
+  ],
+  "artistes": [
+    "Filip Murmak",
+    "Radim Pech",
+    "Jakub Politzer",
+    "Milan Vavroň"
+  ],
+  "editeurs": [
+    "Czech Games Edition (CGE)",
+    "Cranio Creations",
+    "Devir",
+    "DiceTree Games",
+    "Eagle-Gryphon Games",
+    "Feelindigo",
+    "GaGa Games",
+    "Gémklub",
+    "HaKubia",
+    "HeidelBÄR Games",
+    "Heidelberger Spieleverlag",
+    "IELLO",
+    "MINDOK",
+    "New Games Order, LLC",
+    "One Moment Games",
+    "Rebel Sp. z o.o."
+  ],
+  "editeurFrancophone": "Iello",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2001,
+      "value": "Action Points"
+    },
+    {
+      "id": 2012,
+      "value": "Auction / Bidding"
+    },
+    {
+      "id": 2924,
+      "value": "Auction: Dutch"
+    },
+    {
+      "id": 2850,
+      "value": "Events"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2685,
+      "value": "Player Elimination"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 57498,
+      "value": "Game: Through the Ages"
+    },
+    {
+      "id": 76973,
+      "value": "Historical Figures: Various"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 21622,
+      "value": "Theme: Colonial"
+    }
+  ],
+  "bggRank": 18,
+  "bggRating": 8.2472,
+  "image": "/jeux/images/through-the-ages-une-nouvelle-histoire.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__original/img/1jawNpljTXwnT4km_2CjGwoUPR8=/0x0/filters:format(jpeg)/pic2663291.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Through the Ages: A New Story of Civilization is the new edition of Through the Ages: A Story of Civilization, with many changes small and large to the game's cards over its three ages and extensive changes to how military works.\n\nThrough the Ages (TTA) is a civilization building game. Each player attempts to build the best civilization through careful resource management, and by: discovering new technologies, electing competent leaders, building wonders and maintaining a strong military. Weakness in any area can be exploited by your opponents. The game takes place throughout the ages, beginning in the age of antiquity and ending in the modern age.\n\nOne of the primary mechanisms in TTA is card drafting. Technologies, wonders, and leaders come into play and become easier to draft the longer they are in play. In order to use a technology you will need enough science to discover it, enough food to create a population to man it and enough resources (ore) to build the building to use it. While balancing the resources needed to advance your technology you also need to build a military. Military is 'built' in the same manner as civilian buildings. Players that have a weak military will be preyed upon by other players. There is no map in the game so you cannot lose territory, but players with a stronger military will steal resources, science, kill leaders, take population or culture. It is very difficult to win with a strong military, but it is very easy to lose because of a weak one.\n\nVictory is achieved by the player whose nation has the most culture at the end of the modern age.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:15.045Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

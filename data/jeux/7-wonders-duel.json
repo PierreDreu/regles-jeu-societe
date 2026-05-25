@@ -1,0 +1,210 @@
+{
+  "slug": "7-wonders-duel",
+  "bggId": 173346,
+  "nom": "7 Wonders Duel",
+  "nomOriginal": null,
+  "anneeSortie": 2015,
+  "joueursMin": 2,
+  "joueursMax": 2,
+  "joueursRecommandes": [
+    2
+  ],
+  "dureeMin": 30,
+  "dureeMax": 30,
+  "ageMin": 10,
+  "poidsRegles": 2.2272,
+  "designers": [
+    "Antoine Bauza",
+    "Bruno Cathala"
+  ],
+  "artistes": [
+    "Miguel Coimbra"
+  ],
+  "editeurs": [
+    "Repos Production",
+    "ADC Blackfire Entertainment",
+    "asmodee",
+    "Asterion Press",
+    "Boardgame Space",
+    "CoolPlay",
+    "Galápagos Jogos",
+    "Gémklub",
+    "Hobby Japan",
+    "KADABRA",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "Ludicus Games",
+    "Ponva d.o.o.",
+    "Pridemage Games",
+    "Rebel Sp. z o.o.",
+    "Siam Board Games",
+    "Sombreros Production",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": "Repos Production",
+  "categoriesBGG": [
+    {
+      "id": 1050,
+      "value": "Ancient"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1029,
+      "value": "City Building"
+    },
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2981,
+      "value": "Melding and Splaying"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2846,
+      "value": "Once-Per-Game Abilities"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2823,
+      "value": "Score-and-Reset Game"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2884,
+      "value": "Sudden Death Ending"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2849,
+      "value": "Tech Trees / Tech Tracks"
+    },
+    {
+      "id": 2939,
+      "value": "Track Movement"
+    },
+    {
+      "id": 2888,
+      "value": "Tug of War"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 27524,
+      "value": "Ancient: Babylon"
+    },
+    {
+      "id": 72535,
+      "value": "Ancient: Egypt"
+    },
+    {
+      "id": 52373,
+      "value": "Ancient: Greece"
+    },
+    {
+      "id": 5606,
+      "value": "Ancient: Rome"
+    },
+    {
+      "id": 117160,
+      "value": "Constructions: Lighthouses"
+    },
+    {
+      "id": 77012,
+      "value": "Constructions: Pyramids"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 17552,
+      "value": "Game: 7 Wonders"
+    },
+    {
+      "id": 39540,
+      "value": "Game: 7 Wonders Duel"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 61979,
+      "value": "Players: Two-Player Only Games"
+    },
+    {
+      "id": 62276,
+      "value": "Versions & Editions: Two-Player Versions of More-Player Games"
+    }
+  ],
+  "bggRank": 24,
+  "bggRating": 8.07687,
+  "image": "/jeux/images/7-wonders-duel.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In many ways 7 Wonders Duel resembles its parent game 7 Wonders. Over three ages, players acquire cards that provide resources or advance their military or scientific development in order to develop a civilization and complete wonders. What's different about 7 Wonders Duel is that, as the title suggests, the game is solely for two players.\n\nPlayers do not draft cards simultaneously from decks of cards, but from a display of face-down and face-up cards arranged at the start of a round. A player can take a card only if it's not covered by any others, so timing comes into play, as it can with bonus moves that allow the player to take a second card immediately. As in the original game, each acquired card can be built, discarded for coins, or used to construct a wonder. Each player also starts with four wonder cards, and the construction of a wonder provides its owner with a special ability. Only seven wonders can be built, though, so one player will end up short.\n\nPlayers can purchase resources at any time from the bank, or they can gain cards during the game that provide them with resources for future building; as they are acquired, the cost for those resources increases for the opponent, representing the owner's dominance in this area.\n\nYou can win 7 Wonders Duel in one of three ways: each time you acquire a military card, you advance the military marker toward your opponent's capital (also giving you a bonus at certain positions). If you reach the opponent's capital, you win the game immediately. Or if you acquire six of seven different scientific symbols, you achieve scientific dominance and win immediately. If none of these situations occurs, then the player with the most points at the end of the game wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:28.938Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

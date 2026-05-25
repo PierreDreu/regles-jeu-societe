@@ -1,0 +1,150 @@
+{
+  "slug": "azul",
+  "bggId": 230802,
+  "nom": "Azul",
+  "nomOriginal": null,
+  "anneeSortie": 2017,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 30,
+  "dureeMax": 45,
+  "ageMin": 8,
+  "poidsRegles": 1.7737,
+  "designers": [
+    "Michael Kiesling"
+  ],
+  "artistes": [
+    "Philippe Guérin",
+    "Chris Quilliams"
+  ],
+  "editeurs": [
+    "Next Move Games",
+    "Plan B Games",
+    "Belleville (Бельвіль)",
+    "Broadway Toys LTD",
+    "Divercentro",
+    "Galápagos Jogos",
+    "Gémklub",
+    "Ghenos Games",
+    "Green Elephant Games",
+    "Hobby Japan",
+    "KADABRA",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lacerta",
+    "Maldón",
+    "MINDOK",
+    "MIPL",
+    "Orangutan Games",
+    "Pegasus Spiele",
+    "Rebel Sp. z o.o.",
+    "Tower Tactic Games",
+    "TWOPLUS Games",
+    "Zvezda"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    },
+    {
+      "id": 1070,
+      "value": "Renaissance"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2956,
+      "value": "Chaining"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2978,
+      "value": "Grid Coverage"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2048,
+      "value": "Pattern Building"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2940,
+      "value": "Square Grid"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2829,
+      "value": "Turn Order: Claim Action"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 39749,
+      "value": "Components: 5 x 5 Grids"
+    },
+    {
+      "id": 5614,
+      "value": "Country: Portugal"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 57039,
+      "value": "Game: Azul"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    },
+    {
+      "id": 56419,
+      "value": "Theme: Art"
+    },
+    {
+      "id": 62270,
+      "value": "Versions & Editions: Travel Versions of Non-Travel Games"
+    }
+  ],
+  "bggRank": 99,
+  "bggRating": 7.71465,
+  "image": "/jeux/images/azul.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__original/img/AkbtYVc6xXJF3c9EUrakklcclKw=/0x0/filters:format(png)/pic6973671.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.\n\nIn the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:32.945Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

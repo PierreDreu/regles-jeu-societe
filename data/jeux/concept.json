@@ -1,0 +1,109 @@
+{
+  "slug": "concept",
+  "bggId": 147151,
+  "nom": "Concept",
+  "nomOriginal": null,
+  "anneeSortie": 2013,
+  "joueursMin": 4,
+  "joueursMax": 12,
+  "joueursRecommandes": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "dureeMin": 40,
+  "dureeMax": 40,
+  "ageMin": 10,
+  "poidsRegles": 1.3754,
+  "designers": [
+    "Gaëtan Beaujannot",
+    "Alain Rivollet"
+  ],
+  "artistes": [
+    "Éric Azagury",
+    "Cédric Chevalier"
+  ],
+  "editeurs": [
+    "Repos Production",
+    "ADC Blackfire Entertainment",
+    "asmodee",
+    "Asterion Press",
+    "Galápagos Jogos",
+    "Gémklub",
+    "Hobby Japan",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "Rebel Sp. z o.o.",
+    "Rozum",
+    "Sombreros Production"
+  ],
+  "editeurFrancophone": "Repos Production",
+  "categoriesBGG": [
+    {
+      "id": 1039,
+      "value": "Deduction"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    },
+    {
+      "id": 1025,
+      "value": "Word Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2019,
+      "value": "Team-Based Game"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 66334,
+      "value": "Mechanism: Give a Clue / Get a Clue"
+    },
+    {
+      "id": 19528,
+      "value": "Organizations: Forgenext"
+    }
+  ],
+  "bggRank": 1137,
+  "bggRating": 6.74048,
+  "image": "/jeux/images/concept.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/hHFs0_KRoW_FJ0cMIVgZcw__original/img/vbR7Wrdlq4fPcwUE1Ck9CowlJHY=/0x0/filters:format(jpeg)/pic4991925.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Concept, your goal is to guess words through the association of icons. A team of two players &ndash; neighbors at the table &ndash; choose a word or phrase that the other players need to guess. Acting together, this team places pieces judiciously on the available icons on the game board.\n\nTo get others to guess \"milk\", for example, the team might place the question mark icon (which signifies the main concept) on the liquid icon, then cubes of this color on the icons for \"food/drink\" and \"white\". For a more complicated concept, such as \"Leonardo DiCaprio\", the team can use the main concept and its matching cubes to clue players into the hidden phrase being an actor or director, while then using sub-concept icons and their matching cubes to gives clues to particular movies in which DiCaprio starred, such as Titanic or Inception.\n\nThe first player to discover the word or phrase receives 2 victory points, the team receives points as well, and the player who ends up with the most points wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:36.550Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

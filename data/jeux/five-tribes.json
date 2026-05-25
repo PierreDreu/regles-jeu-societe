@@ -1,0 +1,152 @@
+{
+  "slug": "five-tribes",
+  "bggId": 157354,
+  "nom": "Five Tribes",
+  "nomOriginal": "Five Tribes: The Djinns of Naqala",
+  "anneeSortie": 2014,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 40,
+  "dureeMax": 80,
+  "ageMin": 13,
+  "poidsRegles": 2.839,
+  "designers": [
+    "Bruno Cathala"
+  ],
+  "artistes": [
+    "Clément Masson"
+  ],
+  "editeurs": [
+    "Days of Wonder",
+    "Arclight Games",
+    "Asterion Press",
+    "CrowD Games",
+    "Galápagos Jogos",
+    "Gémklub",
+    "Korea Boardgames",
+    "Lord of Boards",
+    "Maldito Games",
+    "Rebel Sp. z o.o."
+  ],
+  "editeurFrancophone": "Days of Wonder",
+  "categoriesBGG": [
+    {
+      "id": 1052,
+      "value": "Arabian"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1082,
+      "value": "Mythology"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2012,
+      "value": "Auction / Bidding"
+    },
+    {
+      "id": 2922,
+      "value": "Constrained Bidding"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2987,
+      "value": "Hidden Victory Points"
+    },
+    {
+      "id": 2955,
+      "value": "Mancala"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2940,
+      "value": "Square Grid"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2827,
+      "value": "Turn Order: Auction"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    },
+    {
+      "id": 2874,
+      "value": "Victory Points as a Resource"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 6480,
+      "value": "Animals: Camels"
+    },
+    {
+      "id": 64990,
+      "value": "Components: Meeples (Animal) / Animeeples"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 57506,
+      "value": "Game: Five Tribes"
+    },
+    {
+      "id": 62885,
+      "value": "Mythology: Arabian"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 59608,
+      "value": "Region: Middle East"
+    }
+  ],
+  "bggRank": 97,
+  "bggRating": 7.76426,
+  "image": "/jeux/images/five-tribes.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__original/img/PS9HXrThM8Pepbd-cuA1tX8KCYU=/0x0/filters:format(jpeg)/pic2055255.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Crossing into the Land of 1001 Nights, your caravan arrives at the fabled Sultanate of Naqala. The old sultan just died and control of Naqala is up for grabs! The oracles foretold of strangers who would maneuver the Five Tribes to gain influence over the legendary city-state. Will you fulfill the prophecy? Invoke the old Djinns and move the Tribes into position at the right time, and the Sultanate may become yours!\n\nDesigned by Bruno Cathala, Five Tribes builds on a long tradition of German-style games that feature wooden meeples. Here, in a unique twist on the now-standard \"worker placement\" genre, the game begins with the meeples already in place &ndash; and players must cleverly maneuver them over the villages, markets, oases, and sacred places tiles that make up Naqala. How, when, and where you dis-place these Five Tribes of Assassins, Elders, Builders, Merchants, and Viziers determine your victory or failure.\n\nAs befitting a Days of Wonder game, the rules are straightforward and easy to learn. But devising a winning strategy will take a more calculated approach than our standard fare. You need to carefully consider what moves can score you well and put your opponents at a disadvantage. You need to weigh many different pathways to victory, including the summoning of powerful Djinns that may help your cause as you attempt to control this legendary Sultanate.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:01:16.547Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

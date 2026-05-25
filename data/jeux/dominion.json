@@ -1,0 +1,149 @@
+{
+  "slug": "dominion",
+  "bggId": 36218,
+  "nom": "Dominion",
+  "nomOriginal": null,
+  "anneeSortie": 2008,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 30,
+  "dureeMax": 30,
+  "ageMin": 13,
+  "poidsRegles": 2.3445,
+  "designers": [
+    "Donald X. Vaccarino"
+  ],
+  "artistes": [
+    "Matthias Catrein",
+    "Julien Delval",
+    "Tomasz Jedruszek",
+    "Ryan Laukat",
+    "Harald Lieske",
+    "Michael Menzel",
+    "Marcel-André Casasola Merkle",
+    "Claus Stephan",
+    "Christof Tisch"
+  ],
+  "editeurs": [
+    "Rio Grande Games",
+    "999 Games",
+    "Albi",
+    "Bard Centrum Gier",
+    "Conclave Editora",
+    "cutia.ro",
+    "Devir",
+    "Filosofia Éditions",
+    "Games Factory Publishing",
+    "Gémklub",
+    "Hans im Glück",
+    "Hobby Japan",
+    "Hobby World",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Martinex",
+    "Runadrake",
+    "Smart Ltd",
+    "Stupor Mundi",
+    "Swan Panasia Co., Ltd.",
+    "Vennerød Forlag AS",
+    "Ystari Games"
+  ],
+  "editeurFrancophone": "Ystari Games",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1035,
+      "value": "Medieval"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2901,
+      "value": "Delayed Purchase"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 28659,
+      "value": "Crowdfunding: Wspieram"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 81575,
+      "value": "Digital Implementations: VASSAL"
+    },
+    {
+      "id": 2580,
+      "value": "Game: Dominion"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    }
+  ],
+  "bggRank": 145,
+  "bggRating": 7.59785,
+  "image": "/jeux/images/dominion.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__original/img/96COuakNiLRrjDLc1sM4Zxsw4WE=/0x0/filters:format(jpeg)/pic394356.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "\"You are a monarch, like your parents before you, a ruler of a small pleasant kingdom of rivers and evergreens. Unlike your parents, however, you have hopes and dreams! You want a bigger and more pleasant kingdom, with more rivers and a wider variety of trees. You want a Dominion! In all directions lie fiefs, freeholds, and feodums. All are small bits of land, controlled by petty lords and verging on anarchy. You will bring civilization to these people, uniting them under your banner.\n\nBut wait! It must be something in the air; several other monarchs have had the exact same idea. You must race to get as much of the unclaimed land as possible, fending them off along the way. To do this you will hire minions, construct buildings, spruce up your castle, and fill the coffers of your treasury. Your parents wouldn't be proud, but your grandparents, on your mother's side, would be delighted.\"\n\n&mdash;description from the back of the box\n\nIn Dominion, each player starts with an identical, very small deck of cards.  In the center of the table is a selection of other cards the players can \"buy\" as they can afford them.  Through their selection of cards to buy, and how they play their hands as they draw them, the players construct their deck on the fly, striving for the most efficient path to the precious victory points by game end.\n\nDominion is not a Collectible Card Game (CCG), but the play of the game is similar to the construction and play of a CCG deck. The game comes with 500 cards. You select 10 of the 25 Kingdom card types to include in any given play&mdash;leading to immense variety.\n\n&mdash;user summary\n\nPart of the Dominion series.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:23.919Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

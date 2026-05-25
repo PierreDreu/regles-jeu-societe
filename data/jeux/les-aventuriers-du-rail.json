@@ -1,0 +1,161 @@
+{
+  "slug": "les-aventuriers-du-rail",
+  "bggId": 9209,
+  "nom": "Les Aventuriers du Rail",
+  "nomOriginal": "Ticket to Ride",
+  "anneeSortie": 2004,
+  "joueursMin": 2,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 30,
+  "dureeMax": 60,
+  "ageMin": 8,
+  "poidsRegles": 1.8196,
+  "designers": [
+    "Alan R. Moon"
+  ],
+  "artistes": [
+    "Cyrille Daujean",
+    "Julien Delval",
+    "Fajareka Setiawan",
+    "Régis Torres"
+  ],
+  "editeurs": [
+    "Days of Wonder",
+    "ADC Blackfire Entertainment",
+    "asmodee",
+    "Asterion Press",
+    "Bandai Co., Ltd.",
+    "Boardgame Space",
+    "Edge Entertainment",
+    "Enigma (Bergsala Enigma)",
+    "Galápagos Jogos",
+    "Giochi Uniti",
+    "Happy Baobab",
+    "Hobby Japan",
+    "Hobby World",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Rebel Sp. z o.o.",
+    "Siam Board Games",
+    "Swan Panasia Co., Ltd."
+  ],
+  "editeurFrancophone": "Days of Wonder",
+  "categoriesBGG": [
+    {
+      "id": 1034,
+      "value": "Trains"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2883,
+      "value": "Connections"
+    },
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2081,
+      "value": "Network and Route Building"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2661,
+      "value": "Push Your Luck"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 64960,
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "id": 61646,
+      "value": "Continents: North America"
+    },
+    {
+      "id": 14835,
+      "value": "Country: USA"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 17,
+      "value": "Game: Ticket to Ride (Official)"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 114241,
+      "value": "Theme: Trains"
+    }
+  ],
+  "bggRank": 260,
+  "bggRating": 7.38567,
+  "image": "/jeux/images/les-aventuriers-du-rail.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__original/img/rWF8r4JXXCQQ7QhiWHhmT-rQ3Pc=/0x0/filters:format(jpeg)/pic8937637.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "With elegantly simple gameplay, Ticket to Ride can be learned in under 15 minutes. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets &ndash; goal cards that connect distant cities; and to the player who builds the longest continuous route.\n\n\"The rules are simple enough to write on a train ticket &ndash; each turn you either draw more cards, claim a route, or get additional Destination Tickets,\" says Ticket to Ride author, Alan R. Moon. \"The tension comes from being forced to balance greed &ndash; adding more cards to your hand, and fear &ndash; losing a critical route to a competitor.\"\n\nTicket to Ride continues in the tradition of Days of Wonder's big format board games featuring high-quality illustrations and components including: an oversize board map of North America, 225 custom-molded train cars, 144 illustrated cards, and wooden scoring markers.\n\nSince its introduction and numerous subsequent awards, Ticket to Ride has become the BoardGameGeek epitome of a \"gateway game\" -- simple enough to be taught in a few minutes, and with enough action and tension to keep new players involved and in the game for the duration.\n\nPart of the Ticket to Ride series.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:25.129Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

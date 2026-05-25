@@ -1,0 +1,232 @@
+{
+  "slug": "ark-nova",
+  "bggId": 342942,
+  "nom": "Ark Nova",
+  "nomOriginal": null,
+  "anneeSortie": 2021,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3
+  ],
+  "dureeMin": 90,
+  "dureeMax": 150,
+  "ageMin": 14,
+  "poidsRegles": 3.7969,
+  "designers": [
+    "Mathias Wigge"
+  ],
+  "artistes": [
+    "Steffen Bieker",
+    "Loïc Billiau",
+    "Dennis Lohausen"
+  ],
+  "editeurs": [
+    "Feuerland Spiele",
+    "Capstone Games",
+    "CMON Global Limited",
+    "Cranio Creations",
+    "Game Harbor",
+    "Gémklub",
+    "Grok Games",
+    "IGAMES",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Ludofy Creative",
+    "Maldito Games",
+    "MINDOK",
+    "MIPL",
+    "Portal Games",
+    "Regatul Jocurilor",
+    "Super Meeple",
+    "テンデイズゲームズ (TendaysGames)",
+    "Tower Tactic Games",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1089,
+      "value": "Animals"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1084,
+      "value": "Environmental"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2850,
+      "value": "Events"
+    },
+    {
+      "id": 2978,
+      "value": "Grid Coverage"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2914,
+      "value": "Increase Value of Unchosen Resources"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2939,
+      "value": "Track Movement"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 110926,
+      "value": "Animals: Okapi"
+    },
+    {
+      "id": 67874,
+      "value": "Components: Hexagonal Tiles"
+    },
+    {
+      "id": 27383,
+      "value": "Continents: Africa"
+    },
+    {
+      "id": 9470,
+      "value": "Continents: Asia"
+    },
+    {
+      "id": 50153,
+      "value": "Continents: Europe"
+    },
+    {
+      "id": 61646,
+      "value": "Continents: North America"
+    },
+    {
+      "id": 61645,
+      "value": "Continents: South America"
+    },
+    {
+      "id": 10167,
+      "value": "Country: Australia"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 73596,
+      "value": "Digital Implementations: TableTop Simulator Mod (TTS)"
+    },
+    {
+      "id": 76649,
+      "value": "Game: Ark Nova"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 59442,
+      "value": "Theme: Biology"
+    },
+    {
+      "id": 68335,
+      "value": "Theme: Ecology"
+    },
+    {
+      "id": 66167,
+      "value": "Theme: Science"
+    },
+    {
+      "id": 76846,
+      "value": "Theme: Zoos, Aquaria, Safari Parks"
+    }
+  ],
+  "bggRank": 2,
+  "bggRating": 8.54057,
+  "image": "/jeux/images/ark-nova.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__original/img/g4S18szTdrXCdIwVKzMKrZrYAcM=/0x0/filters:format(jpeg)/pic6293412.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Ark Nova, you will plan and design a modern, scientifically managed zoo. With the ultimate goal of owning the most successful zoological establishment, you will build enclosures, accommodate animals, and support conservation projects all over the world. Specialists and unique buildings will help you in achieving this goal.\n\nEach player has a set of five action cards to manage their gameplay, and the power of an action is determined by the slot the card currently occupies. The cards in question are:\n\n\n    CARDS: Allows you to gain new zoo cards (animals, sponsors, and conservation project cards).\n    BUILD: Allows you to build standard or special enclosures, kiosks, and pavilions.\n    ANIMALS: Allows you to accommodate animals in your zoo.\n    ASSOCIATION: Allows your association workers to carry out different tasks.\n    SPONSORS: Allows you to play a sponsor card in your zoo or to raise money.\n\n\n255 cards featuring animals, specialists, special enclosures, and conservation projects, each with a special ability, are at the heart of Ark Nova. Use them to increase the appeal and scientific reputation of your zoo and collect conservation points.\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:54.961Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

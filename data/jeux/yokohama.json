@@ -1,0 +1,144 @@
+{
+  "slug": "yokohama",
+  "bggId": 196340,
+  "nom": "Yokohama",
+  "nomOriginal": null,
+  "anneeSortie": 2016,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 90,
+  "dureeMax": 90,
+  "ageMin": 14,
+  "poidsRegles": 3.2725,
+  "designers": [
+    "Hisashi Hayashi"
+  ],
+  "artistes": [
+    "The Creation Studio",
+    "Adam P. McIver",
+    "Ryo Nyamo"
+  ],
+  "editeurs": [
+    "OKAZU Brand",
+    "Synapses Games",
+    "2Tomatoes Games",
+    "BoardM Factory",
+    "Cranio Creations",
+    "Delta Vision Publishing",
+    "Dexker Games",
+    "dlp games",
+    "Elznir Games",
+    "Galápagos Jogos",
+    "Hobby World",
+    "Kronos Games (Krogam)",
+    "Lucky Duck Games",
+    "Maldito Games",
+    "MTS Games",
+    "Pendragon Game Studio",
+    "Playfun Games",
+    "Tasty Minstrel Games",
+    "White Goblin Games",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1021,
+      "value": "Economic"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 2081,
+      "value": "Network and Route Building"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    },
+    {
+      "id": 2933,
+      "value": "Worker Placement, Different Worker Types"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 67409,
+      "value": "Cities: Yokohama (Japan)"
+    },
+    {
+      "id": 10634,
+      "value": "Country: Japan"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 56991,
+      "value": "Game: Yokohama"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 67862,
+      "value": "Occupation: Merchant"
+    },
+    {
+      "id": 19528,
+      "value": "Organizations: Forgenext"
+    }
+  ],
+  "bggRank": 156,
+  "bggRating": 7.78959,
+  "image": "/jeux/images/yokohama.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/3edsEXwH21uaO8HXXdD1Dg__original/img/O-03BIpt7yhPbsffYjDwZc68zbQ=/0x0/filters:format(png)/pic7745916.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Once Yokohama was just a fishing village, but now at the beginning of the Meiji era it's becoming a harbor open to foreign countries and one of the leading trade cities of Japan. As a result, many Japanese products such as copper and raw silk are collected in Yokohama for export to other countries. At the same time, the city is starting to incorporate foreign technology and culture, with even the streets becoming more modernized. In the shadow of this development was the presence of many Yokohama merchants.\n\nIn YOKOHAMA, each player is a merchant in the Meiji period, trying to gain fame from a successful business, and to do so they need to build a store, broaden their sales channels, learn a variety of techniques, and (of course) respond to trade orders from abroad.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:01:15.658Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

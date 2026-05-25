@@ -1,0 +1,145 @@
+{
+  "slug": "akropolis",
+  "bggId": 357563,
+  "nom": "Akropolis",
+  "nomOriginal": null,
+  "anneeSortie": 2022,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 20,
+  "dureeMax": 30,
+  "ageMin": 8,
+  "poidsRegles": 1.8007,
+  "designers": [
+    "Jules Messaud"
+  ],
+  "artistes": [
+    "Pauline Detraz"
+  ],
+  "editeurs": [
+    "Gigamic",
+    "BGA Plus",
+    "Brain Games",
+    "CMON Global Limited",
+    "Engames",
+    "Fox Mind Israel",
+    "Gémklub",
+    "Geronimo Games",
+    "Ghenos Games",
+    "Hachette Boardgames Benelux",
+    "Hachette Boardgames UK",
+    "Hachette Boardgames USA",
+    "Happy Color",
+    "Kaissa Chess & Games",
+    "Kobold Spieleverlag",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "Lucky Duck Games",
+    "M&V Games Distribution",
+    "Maldón",
+    "MEBO Games",
+    "PaperGames (III)",
+    "SuperHeated Neurons",
+    "TLAMA games",
+    "WoodCat",
+    "YOKA Games"
+  ],
+  "editeurFrancophone": "Gigamic",
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    },
+    {
+      "id": 1050,
+      "value": "Ancient"
+    },
+    {
+      "id": 1029,
+      "value": "City Building"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2924,
+      "value": "Auction: Dutch"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 3001,
+      "value": "Layering"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2048,
+      "value": "Pattern Building"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2828,
+      "value": "Turn Order: Progressive"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 52373,
+      "value": "Ancient: Greece"
+    },
+    {
+      "id": 22135,
+      "value": "Crowdfunding: Spieleschmiede"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    },
+    {
+      "id": 65763,
+      "value": "Players: Expansions Adding Cooperative Play"
+    }
+  ],
+  "bggRank": 450,
+  "bggRating": 7.44566,
+  "image": "/jeux/images/akropolis.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__original/img/GpSyHl2wwgLJ6JHJAjPbEQk4MNU=/0x0/filters:format(jpeg)/pic6705097.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "The most talented architects in ancient Greece stand ready to achieve this goal. Build housing, temples, markets, gardens and barracks, so you can grow your city and ensure it triumphs over the others. Raise its prestige with harmonious planning that conforms to specific rules, and enhance it by building plazas.\n\nStone is an essential resource, so make sure you do not neglect it. You&rsquo;ll need enough quarries so you can build higher up, making your city stretch towards the sky.\n\n\n     Choose a tile from the construction site\n     Arrange it in your city to unlock each district's full potential\n     Build on higher levels, increase the value of your districts and win the game\n\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:01:08.667Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "star-realms",
+  "bggId": 147020,
+  "nom": "Star Realms",
+  "nomOriginal": null,
+  "anneeSortie": 2014,
+  "joueursMin": 2,
+  "joueursMax": 2,
+  "joueursRecommandes": [
+    2
+  ],
+  "dureeMin": 20,
+  "dureeMax": 20,
+  "ageMin": 12,
+  "poidsRegles": 1.9139,
+  "designers": [
+    "Robert Dougherty",
+    "Darwin Kastle"
+  ],
+  "artistes": [
+    "Randy Delven",
+    "Kalissa Fitzgerald",
+    "Vito Gesualdi",
+    "Graphics Manufacture",
+    "Cody Jones",
+    "Andres Martinez"
+  ],
+  "editeurs": [
+    "Wise Wizard Games",
+    "ADC Blackfire Entertainment",
+    "ADC Blackfire Entertainment GmbH",
+    "Broadway Toys LTD",
+    "Devir",
+    "Games Factory",
+    "Hobby World",
+    "IELLO",
+    "IUVI Games",
+    "Lord of Boards",
+    "NeoTroy Games"
+  ],
+  "editeurFrancophone": "Iello",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1046,
+      "value": "Fighting"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2901,
+      "value": "Delayed Purchase"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2685,
+      "value": "Player Elimination"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 61206,
+      "value": "Category: Two-Player Fighting Games"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 25246,
+      "value": "Game: Star Realms"
+    },
+    {
+      "id": 109863,
+      "value": "Mechanism: Pure Deckbuilding"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 61979,
+      "value": "Players: Two-Player Only Games"
+    }
+  ],
+  "bggRank": 174,
+  "bggRating": 7.55154,
+  "image": "/jeux/images/star-realms.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/EsJqPL5CB_TMt0MYL-lnVg__original/img/QXgamCDRuBoRJyU1PQjeh58Pvr8=/0x0/filters:format(jpeg)/pic1903816.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Star Realms is a spaceship combat deck-building game by Magic Hall of Famers Darwin Kastle (The Battle for Hill 218) and Rob Dougherty (Ascension Co-designer). It combines the fun of a deck-building game with the speed and interactivity of Trading Card Game style combat. In Star Realms, players make use of Ships and Bases to generate Trade to acquire new Ships and Bases or to generate Combat to attack their opponent to reduce their Authority or destroy their Bases. When you reduce your opponent&rsquo;s Authority to zero, you win!\n\nThe Ships and Bases in Star Realms come in four factions. You may acquire and use cards of any faction, but many cards have powerful Ally abilities that reward you for using cards of the same faction together. As you acquire cards using Trade, you put them into your discard pile, to be later shuffled into your personal deck. When you play a Ship, you do what it says and then place it into your discard pile at the end of your turn. When you play a Base, you place it face up in front of you and may use its abilities once every turn. In addition to Combat being the way you reduce your opponent&rsquo;s Authority to zero and win the game, it&rsquo;s also useful for destroying your opponent&rsquo;s Bases. Some Bases are designated as Outposts. Your opponent&rsquo;s Outposts must be destroyed before you can use Combat to attack your opponent&rsquo;s Authority directly.\n\nStar Realms is easy to learn, especially if you&rsquo;re familiar with deck-building games, but takes time to master. Each time you play, the game is filled with various strategic decision points. Should I take the best card for me or the best card for my opponent? Should I focus on taking cards of a particular faction or on taking the best card available? Should I be focusing on acquiring more Trade or more Combat? Should I attack my opponent&rsquo;s Base or their Authority? These are just some of the many choices you&rsquo;ll be faced with. New players needn&rsquo;t agonize over these choices just to play, but as they become more advanced players, they will find this depth of strategy leads to great replayability.\n\nThe Star Realms set contains everything you need for two players. Including multiple copies (one copy for every two players) of the game and/or its standalone expansions, Star Realms: Colony Wars and Star Realms: Frontiers, allows up to six players to play a variety of multiplayer formats, including free-for-all and team play.\n\nThis is the first game of the Star Realms series.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:30.037Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

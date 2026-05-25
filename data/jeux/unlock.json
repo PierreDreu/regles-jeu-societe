@@ -1,0 +1,109 @@
+{
+  "slug": "unlock",
+  "bggId": 213460,
+  "nom": "Unlock!",
+  "nomOriginal": "Unlock!: Escape Adventures",
+  "anneeSortie": 2017,
+  "joueursMin": 2,
+  "joueursMax": 6,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 45,
+  "dureeMax": 75,
+  "ageMin": 10,
+  "poidsRegles": 2.1215,
+  "designers": [
+    "Alice Carroll",
+    "Thomas Cauët",
+    "Cyril Demaegd"
+  ],
+  "artistes": [
+    "Florian de Gesincourt",
+    "Arnaud Demaegd",
+    "Legruth",
+    "Pierre Santamaria"
+  ],
+  "editeurs": [
+    "Space Cowboys",
+    "ADC Blackfire Entertainment",
+    "asmodee",
+    "Asterion Press",
+    "Gémklub",
+    "JD Éditions",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lifestyle Boardgames Ltd",
+    "Meanbook Games",
+    "Morapiaf",
+    "Rebel Sp. z o.o.",
+    "Siam Board Games"
+  ],
+  "editeurFrancophone": "Space Cowboys",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1028,
+      "value": "Puzzle"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 2882,
+      "value": "Elapsed Real Time Ending"
+    },
+    {
+      "id": 2822,
+      "value": "Scenario / Mission / Campaign Game"
+    },
+    {
+      "id": 2027,
+      "value": "Storytelling"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 36900,
+      "value": "Category: Escape Room Games"
+    },
+    {
+      "id": 41489,
+      "value": "Components: Digital Hybrid – App/Website Required"
+    },
+    {
+      "id": 72224,
+      "value": "Misc: Limited Replayability"
+    },
+    {
+      "id": 39442,
+      "value": "Series: Unlock! (Space Cowboys)"
+    }
+  ],
+  "bggRank": 698,
+  "bggRating": 7.32496,
+  "image": "/jeux/images/unlock.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/h8K_nTemD6bmydT0akChZw__original/img/WSCTLAMnqYM_IEEO-EAVsOjkmAI=/0x0/filters:format(jpeg)/pic3348790.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Unlock! is a cooperative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles. Play Unlock! to embark on great adventures, while seated at a table using only cards and a companion app that can provide clues, check codes, monitor time remaining, etc.\n\nUnlock! Escape Adventures includes three separate scenarios for you to explore:\n\n\n     In The Formula, you enter a secret laboratory to recover a mysterious serum that has been developed by a scientist. Will you solve all the riddles and get out in less than an hour?\n     In Squeek & Sausage, you need to thwart the plans of the despicable Professor Noside!\n     In The Island of Doctor Goorse, you must visit the island of an eccentric antique collector billionaire and overcome its traps!\n\n\nAn included ten-card tutorial allows you to learn how to play without reading the game rules.\n\nNote: Unlock! requires a free application to be downloaded from the App Store or Google Play. Once downloaded, an internet connection is not required during game play.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:44.422Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

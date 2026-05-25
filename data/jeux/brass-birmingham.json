@@ -1,0 +1,230 @@
+{
+  "slug": "brass-birmingham",
+  "bggId": 224517,
+  "nom": "Brass: Birmingham",
+  "nomOriginal": null,
+  "anneeSortie": 2018,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 14,
+  "poidsRegles": 3.8613,
+  "designers": [
+    "Gavan Brown",
+    "Matt Tolman",
+    "Martin Wallace"
+  ],
+  "artistes": [
+    "Gavan Brown",
+    "Lina Cossette",
+    "David Forest",
+    "Gui Landgraf",
+    "Damien Mammoliti",
+    "Mr. Cuddington",
+    "Matt Tolman"
+  ],
+  "editeurs": [
+    "Roxley",
+    "Arclight Games",
+    "Board Game Rookie",
+    "BoardM Factory",
+    "CMON Global Limited",
+    "Conclave Editora",
+    "CoolPlay",
+    "CrowD Games",
+    "Dexker Games",
+    "Funforge",
+    "Gémklub",
+    "Ghenos Games",
+    "Giant Roc",
+    "Lanlalen",
+    "Lord of Boards",
+    "Maldito Games",
+    "PHALANX",
+    "Rebel Sp. z o.o.",
+    "TLAMA games",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": "Funforge",
+  "categoriesBGG": [
+    {
+      "id": 2726,
+      "value": "Age of Reason"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1088,
+      "value": "Industry / Manufacturing"
+    },
+    {
+      "id": 2710,
+      "value": "Post-Napoleonic"
+    },
+    {
+      "id": 1034,
+      "value": "Trains"
+    },
+    {
+      "id": 1011,
+      "value": "Transportation"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2956,
+      "value": "Chaining"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2904,
+      "value": "Loans"
+    },
+    {
+      "id": 2900,
+      "value": "Market"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2081,
+      "value": "Network and Route Building"
+    },
+    {
+      "id": 2911,
+      "value": "Ownership"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2849,
+      "value": "Tech Trees / Tech Tracks"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2826,
+      "value": "Turn Order: Stat-Based"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 17519,
+      "value": "Cities: Birmingham (England)"
+    },
+    {
+      "id": 81601,
+      "value": "Components: Map (Regional scale)"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 14759,
+      "value": "Country: England"
+    },
+    {
+      "id": 17056,
+      "value": "Country: United Kingdom"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 22135,
+      "value": "Crowdfunding: Spieleschmiede"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 70948,
+      "value": "Digital Implementations: Tabletopia"
+    },
+    {
+      "id": 81575,
+      "value": "Digital Implementations: VASSAL"
+    },
+    {
+      "id": 26397,
+      "value": "Food & Drink: Beer"
+    },
+    {
+      "id": 57499,
+      "value": "Game: Brass"
+    },
+    {
+      "id": 50152,
+      "value": "History: Industrial Revolution"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 81586,
+      "value": "Occupation: Engineer"
+    },
+    {
+      "id": 4705,
+      "value": "Organizations: The Game Artisans of Canada"
+    },
+    {
+      "id": 66445,
+      "value": "Theme: Canals"
+    }
+  ],
+  "bggRank": 1,
+  "bggRating": 8.56386,
+  "image": "/jeux/images/brass-birmingham.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__original/img/FpyxH41Y6_ROoePAilPNEhXnzO8=/0x0/filters:format(jpeg)/pic3490053.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Brass: Birmingham is an economic strategy game sequel to Martin Wallace's 2007 masterpiece, Brass. Brass: Birmingham tells the story of competing entrepreneurs in Birmingham during the industrial revolution between the years of 1770 and 1870.\n\nIt offers a very different story arc and experience from its predecessor. As in its predecessor, you must develop, build and establish your industries and network in an effort to exploit low or high market demands. The game is played over two halves: the canal era (years 1770-1830) and the rail era (years 1830-1870). To win the game, score the most VPs. VPs are counted at the end of each half for the canals, rails and established (flipped) industry tiles.\n\nEach round, players take turns according to the turn order track, receiving two actions to perform any of the following actions (found in the original game):\n\n1) Build - Pay required resources and place an industry tile.\n2) Network - Add a rail / canal link, expanding your network.\n3) Develop - Increase the VP value of an industry.\n4) Sell - Sell your cotton, manufactured goods and pottery.\n5) Loan - Take a &pound;30 loan and reduce your income.\n\nBrass: Birmingham also features a new sixth action:\n\n6) Scout - Discard three cards and take a wild location and wild industry card. (This action replaces Double Action Build in original Brass.)",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:59.801Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

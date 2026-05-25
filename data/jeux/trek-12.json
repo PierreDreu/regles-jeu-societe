@@ -1,0 +1,142 @@
+{
+  "slug": "trek-12",
+  "bggId": 303672,
+  "nom": "Trek 12",
+  "nomOriginal": "Trek 12: Himalaya",
+  "anneeSortie": 2020,
+  "joueursMin": 1,
+  "joueursMax": 50,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "dureeMin": 15,
+  "dureeMax": 30,
+  "ageMin": 8,
+  "poidsRegles": 1.4384,
+  "designers": [
+    "Bruno Cathala",
+    "Corentin Lebrat"
+  ],
+  "artistes": [
+    "Jonathan Aucomte",
+    "Olivier Derouetteau"
+  ],
+  "editeurs": [
+    "Lumberjacks Studio",
+    "Blackrock Games",
+    "Geronimo Games",
+    "Hachette Boardgames UK",
+    "Hobby Japan",
+    "Lifestyle Boardgames Ltd",
+    "Lotus Frog Games",
+    "Maldito Games",
+    "Pandasaurus Games",
+    "Rebel Sp. z o.o."
+  ],
+  "editeurFrancophone": "Lumberjacks Studio",
+  "categoriesBGG": [
+    {
+      "id": 1022,
+      "value": "Adventure"
+    },
+    {
+      "id": 1017,
+      "value": "Dice"
+    },
+    {
+      "id": 1104,
+      "value": "Math"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    },
+    {
+      "id": 1038,
+      "value": "Sports"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2999,
+      "value": "Bingo"
+    },
+    {
+      "id": 2956,
+      "value": "Chaining"
+    },
+    {
+      "id": 2072,
+      "value": "Dice Rolling"
+    },
+    {
+      "id": 2846,
+      "value": "Once-Per-Game Abilities"
+    },
+    {
+      "id": 2055,
+      "value": "Paper-and-Pencil"
+    },
+    {
+      "id": 2048,
+      "value": "Pattern Building"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 41222,
+      "value": "Mechanism: Roll-and-Write"
+    },
+    {
+      "id": 71313,
+      "value": "Mountain: Himalayas"
+    },
+    {
+      "id": 60659,
+      "value": "Series: Coffee Break Games (Lumberjacks Studio)"
+    },
+    {
+      "id": 6043,
+      "value": "Sports: Mountain Climbing"
+    }
+  ],
+  "bggRank": 2215,
+  "bggRating": 6.78382,
+  "image": "/jeux/images/trek-12.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/Dk-J77g7K25I1uepIUbLCg__original/img/fAp_kut60aWFl1QIkehGBJiLLmk=/0x0/filters:format(png)/pic6671262.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Trek 12 is a roll-and-write alpinism game, with progressive difficulty levels and more. To score points, you have to create chains of consecutive numbers from 0 to 12 and areas of a same number.\n\nA game is composed of 19 rolls of two six-sided dice, with one die having values from 1 to 6, and the other from 0 to 5. After each roll, the player must combine both die values to obtain the number to place. You can:\n\n\n     Add the values of the two dice\n     Subtract the value of one die from the other\n     Multiply the value of the two dice\n     Keep the higher value of the two dice\n     Keep the lower value of the two dice\n\n\nBe careful as you may choose each of these options at most four times during a game. After placing your first number on the game sheet, you must place each subsequent number in a space adjacent to one already filled. You try to make chains and develop areas. Players also have access to several bonus elements to earn during a game.\n\nAt the end of a game, numbers that belong to neither a chain nor an area give you minus points. The same applies if you have to place a number greater than 12...\n\nTrek 12 contains three different sheet pads to add narrative with three progressive difficulty levels.\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:39.017Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

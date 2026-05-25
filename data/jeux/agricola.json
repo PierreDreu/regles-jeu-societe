@@ -1,0 +1,173 @@
+{
+  "slug": "agricola",
+  "bggId": 31260,
+  "nom": "Agricola",
+  "nomOriginal": null,
+  "anneeSortie": 2007,
+  "joueursMin": 1,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 30,
+  "dureeMax": 150,
+  "ageMin": 12,
+  "poidsRegles": 3.6353,
+  "designers": [
+    "Uwe Rosenberg"
+  ],
+  "artistes": [
+    "Klemens Franz"
+  ],
+  "editeurs": [
+    "Lookout Games",
+    "999 Games",
+    "Brain Games",
+    "Compaya.hu: Gamer Café Kft.",
+    "Devir",
+    "Filosofia Éditions",
+    "Hobby Japan",
+    "Hobby World",
+    "HomoLudicus",
+    "Korea Boardgames",
+    "Lacerta",
+    "MINDOK",
+    "Smart Ltd",
+    "Stratelibri",
+    "Swan Panasia Co., Ltd.",
+    "Ystari Games",
+    "Z-Man Games"
+  ],
+  "editeurFrancophone": "Ystari Games",
+  "categoriesBGG": [
+    {
+      "id": 1089,
+      "value": "Animals"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1013,
+      "value": "Farming"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2903,
+      "value": "Automatic Resource Growth"
+    },
+    {
+      "id": 2984,
+      "value": "Closed Drafting"
+    },
+    {
+      "id": 2043,
+      "value": "Enclosure"
+    },
+    {
+      "id": 2914,
+      "value": "Increase Value of Unchosen Resources"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2829,
+      "value": "Turn Order: Claim Action"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 7530,
+      "value": "Animals: Cattle / Cows"
+    },
+    {
+      "id": 7523,
+      "value": "Animals: Horses"
+    },
+    {
+      "id": 7379,
+      "value": "Animals: Pigs"
+    },
+    {
+      "id": 7481,
+      "value": "Animals: Sheep"
+    },
+    {
+      "id": 64990,
+      "value": "Components: Meeples (Animal) / Animeeples"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 70361,
+      "value": "Digital Implementations: Boiteajeux"
+    },
+    {
+      "id": 3865,
+      "value": "Game: Agricola"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 69363,
+      "value": "Occupation: Farmer"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 3866,
+      "value": "Series: Harvest (Uwe Rosenberg)"
+    },
+    {
+      "id": 5841,
+      "value": "Theme: Food / Cooking"
+    }
+  ],
+  "bggRank": 64,
+  "bggRating": 7.85757,
+  "image": "/jeux/images/agricola.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/3L6ZtOll9W5O6-3-EwSMyw__original/img/V37KuMJlCzpxAilzN39BzeLvc9Q=/0x0/filters:format(jpeg)/pic1899157.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Agricola, you're a farmer in a wooden shack with your spouse and little else. At first, on a turn, your family gets to take only two actions, one for you and one for your spouse, as might be found among all the possibilities on a farm: plowing fields; collecting materials; building fences, and so on. There are numerous choices available, and while the game progresses you'll have more and more, as each round a new action card is flipped over, offering one more possible action. You might think about having kids in order to get more work accomplished but first you'll need to expand your house to make room - and what are you going to feed all the little rug rats?\n\nThe game supports many levels of complexity, mainly through the distribution of cards which represent Minor Improvements and Occupations. In the beginner's version (called the Family Variant in the U.S. release) these cards are not used at all. For advanced play, the U.S. release includes three levels of both types of cards; Basic (E-deck), Interactive (I-deck), and Complex (K-deck), and the rulebook encourages players to experiment with the various decks and mixtures thereof. Aftermarket decks such as the Z-Deck and the L-Deck also exist. Each player starts with a hand of 7 Occupation cards (of more than 160 total) and 7 Minor Improvement cards (of more than 140 total) that he/she may use during the game if they fit into his/her strategy.\n\nAgricola is a turn-based game, and the problem to be overcome is that each available action can be taken by only one player each round so it's important to be careful about your choices.  There are countless strategies, some of which depend on your hand of cards.\n\nThe winner is the player with the most Victory Points from the Improvements made on his farm.\n\n-description originally from BoardgameNews",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:03.363Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

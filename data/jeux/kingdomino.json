@@ -1,0 +1,161 @@
+{
+  "slug": "kingdomino",
+  "bggId": 204583,
+  "nom": "Kingdomino",
+  "nomOriginal": null,
+  "anneeSortie": 2016,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 15,
+  "dureeMax": 25,
+  "ageMin": 8,
+  "poidsRegles": 1.239,
+  "designers": [
+    "Bruno Cathala"
+  ],
+  "artistes": [
+    "Cyril Bouquet",
+    "Pauline Detraz",
+    "Hervine Galliou"
+  ],
+  "editeurs": [
+    "Blue Orange (EU)",
+    "Blue Orange Games",
+    "(Unknown)",
+    "Buró",
+    "Coiledspring Games",
+    "Fantasmagoria",
+    "Feelindigo",
+    "FoxGames",
+    "FoxMind Israel",
+    "Games Factory Publishing",
+    "Gémklub",
+    "Ghenos Games",
+    "Le Grand Massif",
+    "Happy Baobab",
+    "KADABRA",
+    "Kaissa Chess & Games",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "MEBO Games",
+    "MINDOK",
+    "MIPL",
+    "Oliphante",
+    "PaperGames (III)",
+    "Pegasus Spiele",
+    "Pridemage Games",
+    "Rebel Sp. z o.o.",
+    "Swan Panasia Co., Ltd.",
+    "テンデイズゲームズ (TendaysGames)",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    },
+    {
+      "id": 1035,
+      "value": "Medieval"
+    },
+    {
+      "id": 1028,
+      "value": "Puzzle"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2043,
+      "value": "Enclosure"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2829,
+      "value": "Turn Order: Claim Action"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 39749,
+      "value": "Components: 5 x 5 Grids"
+    },
+    {
+      "id": 111802,
+      "value": "Components: Non-Traditional Dominoes"
+    },
+    {
+      "id": 110262,
+      "value": "Components: Scoring pad"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 50195,
+      "value": "Game: Kingdomino"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 44423,
+      "value": "Series: Europe Collection (Blue Orange Games)"
+    }
+  ],
+  "bggRank": 329,
+  "bggRating": 7.28742,
+  "image": "/jeux/images/kingdomino.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__original/img/HT6NQPT0cSFcZXjSewtjTO_NBAE=/0x0/filters:format(png)/pic8443569.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Kingdomino, you are a lord seeking new lands in which to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, in order to spot the best plots, while competing with other lords to acquire them first.\n\nThe game uses tiles with two sections, similar to Dominoes. Each turn, each player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid (or failed to do so), and points are counted based on number of connecting tiles and valuable crown symbols.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:40.881Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

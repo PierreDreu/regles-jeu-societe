@@ -1,0 +1,137 @@
+{
+  "slug": "le-havre",
+  "bggId": 35677,
+  "nom": "Le Havre",
+  "nomOriginal": null,
+  "anneeSortie": 2008,
+  "joueursMin": 1,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 30,
+  "dureeMax": 150,
+  "ageMin": 12,
+  "poidsRegles": 3.7086,
+  "designers": [
+    "Uwe Rosenberg"
+  ],
+  "artistes": [
+    "Klemens Franz"
+  ],
+  "editeurs": [
+    "Lookout Games",
+    "999 Games",
+    "asmodee",
+    "CrowD Games",
+    "Filosofia Éditions",
+    "GoKids 玩樂小子",
+    "Hobby Japan",
+    "HomoLudicus",
+    "Korea Boardgames",
+    "Lacerta",
+    "Ludofy Creative",
+    "Maldito Games",
+    "Mayfair Games",
+    "MINDOK",
+    "Stratelibri",
+    "uplay.it edizioni",
+    "Ystari Games",
+    "Z-Man Games"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1029,
+      "value": "City Building"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1088,
+      "value": "Industry / Manufacturing"
+    },
+    {
+      "id": 1008,
+      "value": "Nautical"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2903,
+      "value": "Automatic Resource Growth"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2914,
+      "value": "Increase Value of Unchosen Resources"
+    },
+    {
+      "id": 2904,
+      "value": "Loans"
+    },
+    {
+      "id": 2911,
+      "value": "Ownership"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 64818,
+      "value": "Cities: Le Havre (France)"
+    },
+    {
+      "id": 11006,
+      "value": "Country: France"
+    },
+    {
+      "id": 10246,
+      "value": "Game: Le Havre"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 57887,
+      "value": "Region: Normandy (France)"
+    },
+    {
+      "id": 3866,
+      "value": "Series: Harvest (Uwe Rosenberg)"
+    }
+  ],
+  "bggRank": 81,
+  "bggRating": 7.83518,
+  "image": "/jeux/images/le-havre.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__original/img/tQFXv1w2R-J-1cjyaKG9LAS2UOs=/0x0/filters:format(jpeg)/pic6091101.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.\n\nAfter every seven turns, the round ends: players' cattle and grain may multiply through a Harvest, and players must feed their workers. After a fixed number of rounds, each player may carry out one final action, and then the game ends. Players add the value of their buildings and ships to their cash reserves. The player who has amassed the largest fortune is the winner.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:05.093Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

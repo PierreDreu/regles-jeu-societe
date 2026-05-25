@@ -1,0 +1,145 @@
+{
+  "slug": "welcome-to",
+  "bggId": 233867,
+  "nom": "Welcome to...",
+  "nomOriginal": "Welcome To...",
+  "anneeSortie": 2018,
+  "joueursMin": 1,
+  "joueursMax": 100,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "dureeMin": 25,
+  "dureeMax": 25,
+  "ageMin": 10,
+  "poidsRegles": 1.8424,
+  "designers": [
+    "Benoit Turpin"
+  ],
+  "artistes": [
+    "Anne Heidsieck"
+  ],
+  "editeurs": [
+    "Blue Cocker Games",
+    "Broadway Toys LTD",
+    "Deep Water Games",
+    "Dude Games",
+    "Engames",
+    "Fever Games",
+    "GateOnGames",
+    "Gémklub",
+    "Hid Konem (Хід Конем)",
+    "Jumping Turtle Games",
+    "Kaissa Chess & Games",
+    "Lautapelit.fi",
+    "Lifestyle Boardgames Ltd",
+    "Lord of Boards",
+    "Ludofy Creative",
+    "Pegasus Spiele",
+    "Rebel Sp. z o.o.",
+    "Rexhry",
+    "SD Games",
+    "sternenschimmermeer"
+  ],
+  "editeurFrancophone": "Blue Cocker Games",
+  "categoriesBGG": [
+    {
+      "id": 1029,
+      "value": "City Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2999,
+      "value": "Bingo"
+    },
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2055,
+      "value": "Paper-and-Pencil"
+    },
+    {
+      "id": 2048,
+      "value": "Pattern Building"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 18193,
+      "value": "Decades: The 1950&#039;s"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 66143,
+      "value": "Mechanism: Flip-and-Write"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 57257,
+      "value": "Series: Alexis Solo Mode"
+    },
+    {
+      "id": 52618,
+      "value": "Series: Welcome To ..."
+    },
+    {
+      "id": 66113,
+      "value": "Theme: Construction"
+    },
+    {
+      "id": 71573,
+      "value": "Theme: Retro"
+    }
+  ],
+  "bggRank": 213,
+  "bggRating": 7.50681,
+  "image": "/jeux/images/welcome-to.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__original/img/pb6XFQZFUNOr6OPysOHB3usVDFk=/0x0/filters:format(jpeg)/pic3761012.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.\n\nWelcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in Welcome To...!\n\nBecause of the communal actions, game play is simultaneous and thus supports large groups of players. With many varying strategies and completely randomized action sets, no two games will feel the same!",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:32.853Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

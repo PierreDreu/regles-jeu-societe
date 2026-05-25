@@ -1,0 +1,171 @@
+{
+  "slug": "pandemic-legacy-season-1",
+  "bggId": 161936,
+  "nom": "Pandemic Legacy: Season 1",
+  "nomOriginal": null,
+  "anneeSortie": 2015,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 60,
+  "ageMin": 13,
+  "poidsRegles": 2.8279,
+  "designers": [
+    "Rob Daviau",
+    "Matt Leacock"
+  ],
+  "artistes": [
+    "Chris Quilliams"
+  ],
+  "editeurs": [
+    "Z-Man Games",
+    "Asterion Press",
+    "Devir",
+    "Filosofia Éditions",
+    "Gémklub",
+    "Hobby Japan",
+    "Jolly Thinkers",
+    "Korea Boardgames",
+    "Lacerta",
+    "Lifestyle Boardgames Ltd",
+    "MINDOK",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1084,
+      "value": "Environmental"
+    },
+    {
+      "id": 2145,
+      "value": "Medical"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2001,
+      "value": "Action Points"
+    },
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2824,
+      "value": "Legacy Game"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2078,
+      "value": "Point to Point Movement"
+    },
+    {
+      "id": 2822,
+      "value": "Scenario / Mission / Campaign Game"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2008,
+      "value": "Trading"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 64952,
+      "value": "Components: Map (Global Scale)"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 3430,
+      "value": "Game: Pandemic"
+    },
+    {
+      "id": 24281,
+      "value": "Mechanism: Campaign Games"
+    },
+    {
+      "id": 25404,
+      "value": "Mechanism: Legacy"
+    },
+    {
+      "id": 61854,
+      "value": "Medical: Diseases"
+    },
+    {
+      "id": 72224,
+      "value": "Misc: Limited Replayability"
+    },
+    {
+      "id": 78680,
+      "value": "Misc: Made by Panda"
+    },
+    {
+      "id": 63526,
+      "value": "Occupation: Dispatcher"
+    },
+    {
+      "id": 63524,
+      "value": "Occupation: Medic / Doctor / Nurses"
+    },
+    {
+      "id": 63525,
+      "value": "Occupation: Researcher / Scientist"
+    },
+    {
+      "id": 62881,
+      "value": "Region: The World"
+    },
+    {
+      "id": 66167,
+      "value": "Theme: Science"
+    },
+    {
+      "id": 62899,
+      "value": "Versions & Editions: Legacy Versions of Non-Legacy Games"
+    }
+  ],
+  "bggRank": 3,
+  "bggRating": 8.50247,
+  "image": "/jeux/images/pandemic-legacy-season-1.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__original/img/PlzAH7swN1nsFxOXbfUvE3TkE5w=/0x0/filters:format(png)/pic2452831.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Pandemic Legacy is a co-operative campaign game, with an overarching story arc played through 12-24 sessions, depending on how well your group does at the game. At the beginning, the game starts in a very similar fashion as basic Pandemic, in which your team of disease-fighting specialists races against the clock to travel around the world, treating disease hot spots while researching cures for each of four plagues before they get out of hand.\n\nDuring a player's turn, they have four actions available, with which they may travel around in the world in various ways (sometimes needing to discard a card), build structures like research stations, treat diseases (removing one cube from the board; if all cubes of a color have been removed, the disease has been eradicated), trade cards with other players, or find a cure for a disease (requiring five cards of the same color to be discarded while at a research station). Each player has a unique role with special abilities to help them at these actions.\n\nAfter a player has taken their actions, they draw two cards. These cards can include epidemic cards, which will place new disease cubes on the board, and can lead to an outbreak, spreading disease cubes even further. Outbreaks additionally increase the panic level of a city, making that city more expensive to travel to.\n\nEach month in the game, you have two chances to achieve that month's objectives. If you succeed, you win and immediately move on to the next month. If you fail, you have a second chance, with more funding for beneficial event cards.\n\nDuring the campaign, new rules and components will be introduced. These will sometimes require you to permanently alter the components of the game; this includes writing on cards, ripping up cards, and placing permanent stickers on components. Your characters can gain new skills, or detrimental effects. A character can even be lost entirely, at which point it's no longer available for play.\n\nPart of the Pandemic series",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:34.817Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

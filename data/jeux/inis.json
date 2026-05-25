@@ -1,0 +1,167 @@
+{
+  "slug": "inis",
+  "bggId": 155821,
+  "nom": "Inis",
+  "nomOriginal": null,
+  "anneeSortie": 2016,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 90,
+  "ageMin": 14,
+  "poidsRegles": 2.9414,
+  "designers": [
+    "Christian Martinez"
+  ],
+  "artistes": [
+    "Dimitri Bielak",
+    "Jim FitzPatrick"
+  ],
+  "editeurs": [
+    "Matagot",
+    "Bureau de Juegos",
+    "Buró",
+    "Galakta",
+    "Gen-X Games",
+    "Giant Roc",
+    "GoKids 玩樂小子",
+    "Hid Konem (Хід Конем)",
+    "Hobby Japan",
+    "Kolossal Games",
+    "Lavka Games",
+    "Lord of Boards",
+    "Pegasus Spiele",
+    "Portal Games",
+    "Surfin&#039; Meeple",
+    "Surfin&#039; Meeple China"
+  ],
+  "editeurFrancophone": "Matagot",
+  "categoriesBGG": [
+    {
+      "id": 1050,
+      "value": "Ancient"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1020,
+      "value": "Exploration"
+    },
+    {
+      "id": 1082,
+      "value": "Mythology"
+    },
+    {
+      "id": 1019,
+      "value": "Wargame"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2838,
+      "value": "Action Drafting"
+    },
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2046,
+      "value": "Area Movement"
+    },
+    {
+      "id": 2018,
+      "value": "Campaign / Battle Card Driven"
+    },
+    {
+      "id": 2984,
+      "value": "Closed Drafting"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2837,
+      "value": "Interrupts"
+    },
+    {
+      "id": 2886,
+      "value": "King of the Hill"
+    },
+    {
+      "id": 2959,
+      "value": "Map Addition"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 25158,
+      "value": "Components: Miniatures"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 11546,
+      "value": "Country: Ireland"
+    },
+    {
+      "id": 22135,
+      "value": "Crowdfunding: Spieleschmiede"
+    },
+    {
+      "id": 111763,
+      "value": "Game: Inis"
+    },
+    {
+      "id": 62886,
+      "value": "Mythology: Celtic"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 75454,
+      "value": "Theme: Art style – Art Nouveau"
+    }
+  ],
+  "bggRank": 125,
+  "bggRating": 7.81484,
+  "image": "/jeux/images/inis.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/6QE8mnPFmauoj2THsyUYPA__original/img/6bZdn1SNbpIqU7n5pwtncvdNE_U=/0x0/filters:format(jpeg)/pic4739757.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Inis is a game deeply rooted in Celtic history and lore in which players win by being elected King of the Island (Inis). Players can try to achieve one of three different victory conditions:\n\n\n     Leadership: Be the leader &mdash; i.e., have more clan figures than any other player &mdash; of territories containing at least six opponents' clans.\n     Land: Have your clans present in at least six different territories.\n     Religion: Have your clans present in territories that collectively contain at least six sanctuaries.\n\n\nAt the start of each round, players draft a hand of four action cards during the Assembly. Action cards not played at the end of one season are not held for the next. Players also have access to leader cards for the territories that allow it and where they were elected leader during the assembly. Each Assembly reallocates those cards. Finally, they collect \"epic tales\" cards that depict the deeds of the ancient Irish gods and heroes, like Cuchulainn, the Dagda, Lugh and many others. These will be kept and used to inspire the clans and achieve extraordinary feats under the right circumstances. The cards provide a variety of actions: adding clans, moving clans, building/exploring, and special actions. Over the course of the game, players also earn deeds, that reduce by one the total for any Victory condition.\n\nCareful drafting, hand management, bluffing (especially once players understand the importance of passing their turn), good timing, and a precise understanding of the balance of power are the keys to victory. After a discovery game you'll be ready for a full and epic game, where an undisputed player will be king by the Assembly for their merit and wisdom.\n\nWhile Inis has \"dudes\" that are \"on a map\", it's a beginner's mistake to play this as a battle game because eliminating other clans reduces your chances of scoring a Leadership victory condition. Peace among different clans, with or without a clear territory leader, is the usual outcome of a clan's movement. Battles will occur, of course, as the Celtic clans can be unruly and a good player will listen to their clan's people (i.e., their hand of cards). That battle aspect is reflected in the clan's miniatures representing warriors. Woodsmen, shepherds and traders complete the set of twelve minis for each player; these occupations have no impact on the game, but give it flavor.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:57.694Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

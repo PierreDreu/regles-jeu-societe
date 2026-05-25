@@ -1,0 +1,226 @@
+{
+  "slug": "terraforming-mars",
+  "bggId": 167791,
+  "nom": "Terraforming Mars",
+  "nomOriginal": null,
+  "anneeSortie": 2016,
+  "joueursMin": 1,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 120,
+  "dureeMax": 120,
+  "ageMin": 12,
+  "poidsRegles": 3.2716,
+  "designers": [
+    "Jacob Fryxelius"
+  ],
+  "artistes": [
+    "Isaac Fryxelius",
+    "Daniel Fryxelius"
+  ],
+  "editeurs": [
+    "FryxGames",
+    "Arclight Games",
+    "Brädspel.se",
+    "Fantasmagoria",
+    "Ghenos Games",
+    "Golden Egg Games",
+    "Green Elephant Games",
+    "Intrafin Games",
+    "Kaissa Chess & Games",
+    "Kilogames",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Lavka Games",
+    "Lex Games",
+    "Maldito Games",
+    "MeepleBR",
+    "MINDOK",
+    "MIPL",
+    "MYBG Co., Ltd.",
+    "NeoTroy Games",
+    "Rebel Sp. z o.o.",
+    "Reflexshop",
+    "Schwerkraft-Verlag",
+    "Siam Board Games",
+    "Stronghold Games",
+    "Surfin&#039; Meeple China"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1084,
+      "value": "Environmental"
+    },
+    {
+      "id": 1088,
+      "value": "Industry / Manufacturing"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    },
+    {
+      "id": 1113,
+      "value": "Space Exploration"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2984,
+      "value": "Closed Drafting"
+    },
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2828,
+      "value": "Turn Order: Progressive"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 64952,
+      "value": "Components: Map (Global Scale)"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 107743,
+      "value": "Game: Terraforming Mars"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 81586,
+      "value": "Occupation: Engineer"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 46915,
+      "value": "Series: Terraforming Mars"
+    },
+    {
+      "id": 49694,
+      "value": "Setting: Future Timeline (Fryxgames)"
+    },
+    {
+      "id": 111131,
+      "value": "Space: Colonization / Extraterrestrial Colonisation"
+    },
+    {
+      "id": 19298,
+      "value": "Space: Earth&#039;s Solar System"
+    },
+    {
+      "id": 43631,
+      "value": "Space: Jupiter"
+    },
+    {
+      "id": 10169,
+      "value": "Space: Mars"
+    },
+    {
+      "id": 66167,
+      "value": "Theme: Science"
+    }
+  ],
+  "bggRank": 9,
+  "bggRating": 8.3363,
+  "image": "/jeux/images/terraforming-mars.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__original/img/thIqWDnH9utKuoKVEUqveDixprI=/0x0/filters:format(jpeg)/pic3536616.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In the 2400s, mankind begins to terraform the planet Mars. Giant corporations, sponsored by the World Government on Earth, initiate huge projects to raise the temperature, the oxygen level, and the ocean coverage until the environment is habitable. In Terraforming Mars, you play one of those corporations and work together in the terraforming process, but compete for getting victory points that are awarded not only for your contribution to the terraforming, but also for advancing human infrastructure throughout the solar system, and doing other commendable things.\n\nAs a player, you acquire unique project cards (from over two hundred different ones) by buying them to your hand. The cards can give you immediate bonuses, as well as increasing your production of different resources. Many cards also have requirements and they become playable when the temperature, oxygen, or ocean coverage increases enough. Buying cards is costly, so there is a balance between buying cards and actually playing them. Standard Projects are always available to complement your hand of cards. Your basic income, as well as your basic score, are based on your Terraform Rating. However, your income is boosted by your production, and VPs are also gained from many other sources.\n\nYou keep track of your production and resources on your player board.  The game uses six types of resources: MegaCredits, Steel, Titanium, Plants, Energy, and Heat. On the game board, you compete for the best places for your city tiles, ocean tiles, and greenery tiles. You also compete for different Milestones and Awards worth many VPs. Each round is called a generation and consists of the following phases:\n\n1) Player order shifts clockwise.\n2) Research phase: All players buy cards from four privately drawn.\n3) Action phase: Players take turns doing 1-2 actions from these options: Playing a card, claiming a Milestone, funding an Award, using a Standard project, converting plant into greenery tiles (and raising oxygen), converting heat into a temperature raise, and using the action of a card in play. The turn continues around the table (sometimes several laps) until all players have passed.\n4) Production phase: Players get resources according to their terraform rating and production parameters.\n\nWhen the three global parameters (temperature, oxygen, ocean) have all reached their required levels, the terraforming is complete, and the game ends after that generation. Combine your Terraform Rating and other VPs to determine the winning corporation!",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:54.090Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

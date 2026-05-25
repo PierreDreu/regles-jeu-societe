@@ -1,0 +1,103 @@
+{
+  "slug": "time-s-up",
+  "bggId": 1353,
+  "nom": "Time's Up!",
+  "nomOriginal": null,
+  "anneeSortie": 1999,
+  "joueursMin": 4,
+  "joueursMax": 18,
+  "joueursRecommandes": [
+    4,
+    6,
+    8,
+    9,
+    10,
+    12
+  ],
+  "dureeMin": 90,
+  "dureeMax": 90,
+  "ageMin": 12,
+  "poidsRegles": 1.2018,
+  "designers": [
+    "Peter Sarrett"
+  ],
+  "artistes": [
+    "John Vetter"
+  ],
+  "editeurs": [
+    "R&R Games",
+    "asmodee",
+    "Competo / Marektoy",
+    "Hobby World",
+    "Morapiaf",
+    "Piatnik",
+    "Pro Ludo",
+    "Rebel Sp. z o.o.",
+    "Repos Production",
+    "Tíkallinn"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1079,
+      "value": "Humor"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2073,
+      "value": "Acting"
+    },
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 2047,
+      "value": "Memory"
+    },
+    {
+      "id": 2019,
+      "value": "Team-Based Game"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 75031,
+      "value": "Components: Sand Timers"
+    },
+    {
+      "id": 8878,
+      "value": "Game: Time&#039;s Up!"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    },
+    {
+      "id": 6042,
+      "value": "Traditional Games: Charades"
+    }
+  ],
+  "bggRank": 787,
+  "bggRating": 7.27801,
+  "image": "/jeux/images/time-s-up.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/eXgj9wE-fRfd4ZfW6PcjIw__original/img/0MM3j-vUQmrabkHVSC0m49cH4TQ=/0x0/filters:format(jpeg)/pic3690440.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Time's Up! is a charades-based party game for teams of two or more players (and is best with teams of two). Before the game begins, each player looks at several cards featuring famous historical or fictional characters and chooses some of them. Each player's cards are shuffled to form a deck, and this deck of famous names is used for each of the game's three rounds.\n\nIn each round, team members take turns trying to get their teammates to guess as many names as possible in 30 seconds. In round 1, almost any kind of clue is allowed, and the cluegiver cannot pass on a card. In round 2, no more than one word can be used in each clue (but unlimited sounds and gestures are permitted); the cluegiver can pass on any card he likes, and the teammates can give only a single answer. In round 3, the cluegiver can use no words at all and can pass as often as he likes; again, teammates are allowed only a single guess. Give good physical clues in round 1, and they'll pay dividends down the road when you need to keep your mouth shut and gesture like a maniac before time's up!\n\nTime's Up! is based on the public domain game known as Celebrities.  Also known as Salad Bowl or Fish Bowl.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:39.208Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

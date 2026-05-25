@@ -1,0 +1,212 @@
+{
+  "slug": "lost-ruins-of-arnak",
+  "bggId": 312484,
+  "nom": "Lost Ruins of Arnak",
+  "nomOriginal": null,
+  "anneeSortie": 2020,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 30,
+  "dureeMax": 120,
+  "ageMin": 12,
+  "poidsRegles": 2.9314,
+  "designers": [
+    "Elwen",
+    "Mín"
+  ],
+  "artistes": [
+    "Ondřej Hrdina",
+    "Jiří Kůs",
+    "Filip Murmak",
+    "Jakub Politzer",
+    "František Sedláček",
+    "Milan Vavroň"
+  ],
+  "editeurs": [
+    "Czech Games Edition (CGE)",
+    "Brädspel.se",
+    "Cranio Creations",
+    "Devir",
+    "DiceTree Games",
+    "Fantasmagoria",
+    "GaGa Games",
+    "Games4you",
+    "Gémklub",
+    "Goblin Gaming",
+    "HeidelBÄR Games",
+    "Hobby Japan",
+    "IELLO",
+    "Kaissa Chess & Games",
+    "Lautapelit.fi",
+    "Lex Games",
+    "Lord of Boards",
+    "MINDOK",
+    "More Fun Co., Ltd.",
+    "One Moment Games",
+    "Rebel Sp. z o.o.",
+    "Spilbræt.dk",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": "Iello",
+  "categoriesBGG": [
+    {
+      "id": 1022,
+      "value": "Adventure"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1020,
+      "value": "Exploration"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2046,
+      "value": "Area Movement"
+    },
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2901,
+      "value": "Delayed Purchase"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2846,
+      "value": "Once-Per-Game Abilities"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2948,
+      "value": "Resource to Move"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2939,
+      "value": "Track Movement"
+    },
+    {
+      "id": 2828,
+      "value": "Turn Order: Progressive"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 73592,
+      "value": "Components: Gems/Crystals"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 62884,
+      "value": "Components: Official Music Soundtrack"
+    },
+    {
+      "id": 5615,
+      "value": "Creatures: Monsters"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 70354,
+      "value": "Digital Implementations: Yucata"
+    },
+    {
+      "id": 112522,
+      "value": "Game: Lost Ruins of Arnak"
+    },
+    {
+      "id": 79690,
+      "value": "Islands: Fictional"
+    },
+    {
+      "id": 69209,
+      "value": "Occupation: Adventurer / Explorer"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 21940,
+      "value": "Theme: Archaeology / Paleontology"
+    },
+    {
+      "id": 69032,
+      "value": "Theme: Temple"
+    },
+    {
+      "id": 18319,
+      "value": "Theme: Tropical"
+    },
+    {
+      "id": 51732,
+      "value": "Theme: Tropical Islands"
+    }
+  ],
+  "bggRank": 30,
+  "bggRating": 8.08217,
+  "image": null,
+  "imageUrlSource": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__original/img/CXqwimJPonWy1oyXEMgPN_ZVmUI=/0x0/filters:format(jpeg)/pic5674958.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "On an uninhabited island in uncharted seas, explorers have found traces of a great civilization. Now you will lead an expedition to explore the island, find lost artifacts, and face fearsome guardians, all in a quest to learn the island's secrets.\n\nLost Ruins of Arnak combines deck-building and worker placement in a game of exploration, resource management, and discovery. In addition to traditional deck-builder effects, cards can also be used to place workers, and new worker actions become available as players explore the island. Some of these actions require resources instead of workers, so building a solid resource base will be essential. You are limited to only one action per turn, so make your choice carefully... what action will benefit you most now? And what can you afford to do later... assuming someone else doesn't take the action first!?\n\nDecks are small, and randomness in the game is heavily mitigated by the wealth of tactical decisions offered on the game board. With a variety of worker actions, artifacts, and equipment cards, the set-up for each game will be unique, encouraging players to explore new strategies to meet the challenge.\n\nDiscover the Lost Ruins of Arnak!\n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:01:38.851Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

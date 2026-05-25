@@ -1,0 +1,134 @@
+{
+  "slug": "innovation",
+  "bggId": 63888,
+  "nom": "Innovation",
+  "nomOriginal": null,
+  "anneeSortie": 2010,
+  "joueursMin": 2,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    2,
+    3
+  ],
+  "dureeMin": 20,
+  "dureeMax": 60,
+  "ageMin": 12,
+  "poidsRegles": 2.7809,
+  "designers": [
+    "Carl Chudyk"
+  ],
+  "artistes": [
+    "Alanna Cervenak",
+    "Carl Chudyk",
+    "Cara Judd",
+    "Robin Olausson",
+    "Anders Olausson",
+    "Robert Simmons",
+    "Christophe Swal",
+    "Cyril Van Der Haegen"
+  ],
+  "editeurs": [
+    "Asmadi Games",
+    "4GAMES",
+    "Asterion Press",
+    "Games7Days",
+    "Grok Games",
+    "Hobby Japan",
+    "Hobby World",
+    "HomoLudicus",
+    "IELLO",
+    "Igrology",
+    "Lacerta",
+    "Ludofy Creative",
+    "Maldito Games",
+    "One Moment Games",
+    "Origames",
+    "Rexhry",
+    "Schwerkraft-Verlag",
+    "פרש משחקים: Game Knight"
+  ],
+  "editeurFrancophone": "Iello",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1015,
+      "value": "Civilization"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2843,
+      "value": "Follow"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 3001,
+      "value": "Layering"
+    },
+    {
+      "id": 2981,
+      "value": "Melding and Splaying"
+    },
+    {
+      "id": 2884,
+      "value": "Sudden Death Ending"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2849,
+      "value": "Tech Trees / Tech Tracks"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 70354,
+      "value": "Digital Implementations: Yucata"
+    },
+    {
+      "id": 17657,
+      "value": "Game: Innovation"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    }
+  ],
+  "bggRank": 380,
+  "bggRating": 7.32162,
+  "image": "/jeux/images/innovation.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/l4fVXtRnhKMf5UPn78rEdg__original/img/spomh0P7HHKNTFNLVwVX7xJPf3M=/0x0/filters:format(png)/pic8792317.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Innovation is Carl Chudyk's tableau-builder of infinite possibilities, taking you on a journey from pre-history all the way to the present...and the near future! In this game, you build a civilization using only cards; there's no map, no tokens, no dice, no pieces. The game's 105 innovations &mdash; or in the fourth edition, 115 innovations &mdash; are each represented by a card with a unique effect, organized into ten (or eleven) ages. Each innovation's effect is tied thematically to its identity, allowing you to either elevate your society or attack your opponents.\n\nIn addition to directly affecting your opponents, you can share in the effects of their technologies if you amass enough visible icons on your board. Strategically building your tableau of cards to share often and defend against demands is crucial to success.\n\nTo win, you must claim achievements, which you can attain by amassing points or by meeting certain criteria with the innovations you have built. No two games of Innovation play the same way.\n\n[Admin note: The specific card effects have changed across the four editions of Innovation, in addition to age 11 being added in the fourth edition, but the core gameplay has remained consistent across all editions, so all editions are listed on a single page in the database.]",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:01:14.741Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

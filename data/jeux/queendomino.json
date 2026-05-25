@@ -1,0 +1,132 @@
+{
+  "slug": "queendomino",
+  "bggId": 232043,
+  "nom": "Queendomino",
+  "nomOriginal": null,
+  "anneeSortie": 2017,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 25,
+  "dureeMax": 25,
+  "ageMin": 8,
+  "poidsRegles": 2.0698,
+  "designers": [
+    "Bruno Cathala"
+  ],
+  "artistes": [
+    "Cyril Bouquet"
+  ],
+  "editeurs": [
+    "Blue Orange (EU)",
+    "Blue Orange Games",
+    "Blackrock Games",
+    "Coiledspring Games",
+    "FoxGames",
+    "FoxMind Israel",
+    "Gémklub",
+    "Happy Baobab",
+    "MINDOK",
+    "PaperGames (III)",
+    "Pegasus Spiele",
+    "Swan Panasia Co., Ltd.",
+    "テンデイズゲームズ (TendaysGames)",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1035,
+      "value": "Medieval"
+    },
+    {
+      "id": 1028,
+      "value": "Puzzle"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2043,
+      "value": "Enclosure"
+    },
+    {
+      "id": 2900,
+      "value": "Market"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2048,
+      "value": "Pattern Building"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    },
+    {
+      "id": 2829,
+      "value": "Turn Order: Claim Action"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 5607,
+      "value": "Components: 3-Dimensional (3D)"
+    },
+    {
+      "id": 39749,
+      "value": "Components: 5 x 5 Grids"
+    },
+    {
+      "id": 78573,
+      "value": "Components: 7 x 7 Grids"
+    },
+    {
+      "id": 111802,
+      "value": "Components: Non-Traditional Dominoes"
+    },
+    {
+      "id": 110262,
+      "value": "Components: Scoring pad"
+    },
+    {
+      "id": 50195,
+      "value": "Game: Kingdomino"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    }
+  ],
+  "bggRank": 710,
+  "bggRating": 7.13581,
+  "image": "/jeux/images/queendomino.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/_6VtTmeI4e7cORxFWRC7Og__original/img/Uem_ewrSp4uzwG19S2CSnHwrmEU=/0x0/filters:format(png)/pic3672901.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Description from the publisher:\n\nBuild up the most prestigious kingdom by claiming wheat fields, forests, lakes, grazing grounds, marshes, and mountains. Your knights will bring you riches in the form of coins &mdash; and if you make sure to expand the towns on your lands, you will make new buildings appear, giving you opportunities for new strategies. You may win the Queen's favors ... but always be aware of the dragon!\n\nQueendomino is a game completely independent from Kingdomino, while offering a choice of more complex challenges. Two to four players can play Queendomino independently, but also in connection with Kingdomino, allowing for games with 7x7 grids for four players, or for up to six players if you stick to 5x5 grids.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:41.773Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

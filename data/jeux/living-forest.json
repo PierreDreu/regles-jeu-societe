@@ -1,0 +1,136 @@
+{
+  "slug": "living-forest",
+  "bggId": 328479,
+  "nom": "Living Forest",
+  "nomOriginal": null,
+  "anneeSortie": 2021,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 40,
+  "dureeMax": 40,
+  "ageMin": 10,
+  "poidsRegles": 2.2137,
+  "designers": [
+    "Aske Christiansen"
+  ],
+  "artistes": [
+    "Apolline Etienne"
+  ],
+  "editeurs": [
+    "Ludonaute",
+    "Board Game Rookie",
+    "Brain Games",
+    "CMON Global Limited",
+    "Games7Days",
+    "GateOnGames",
+    "Gémklub",
+    "Kaissa Chess & Games",
+    "Lautapelit.fi",
+    "Lavka Games",
+    "Maldito Games",
+    "MeepleBR",
+    "MINDOK",
+    "Pegasus Spiele",
+    "Popcorn Games",
+    "Rebel Sp. z o.o.",
+    "Tower Tactic Games",
+    "株式会社ケンビル (KenBill)"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1089,
+      "value": "Animals"
+    },
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1084,
+      "value": "Environmental"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1082,
+      "value": "Mythology"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2661,
+      "value": "Push Your Luck"
+    },
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 80918,
+      "value": "Digital Implementations: Game Park"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 11767,
+      "value": "Theme: Firefighting"
+    },
+    {
+      "id": 48871,
+      "value": "Theme: Nature"
+    },
+    {
+      "id": 57181,
+      "value": "Theme: Trees and Forests"
+    }
+  ],
+  "bggRank": 761,
+  "bggRating": 7.22165,
+  "image": "/jeux/images/living-forest.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/fPhdfZX9UTLr4-SVgK0zoQ__original/img/ZPdxDPt1jSRQMNnVgn-qIPhNv0E=/0x0/filters:format(jpeg)/pic5899025.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Living Forest, you play as a nature spirit who will try to save the forest and its sacred tree from the flames of Onibi. But you are not alone in your mission as the animal guardians have come together to lend a hand around the Circle of Spirits where you progress. Each turn, they bring you valuable elements, so try to combine your team of animal guardians as best as possible to carry out your actions, but be careful: some of them are solitary and do not like to be mixed with others...\n\nYou have one of three ways to achieve your goal: by planting 12 different Protective Trees, by collecting 12 Sacred Flowers to awaken Sanki the great Guardian of the Forest, by extinguishing 12 Fires to permanently repel Onibi.\n\nEach turn includes 3 phases: \n&bull; Guardian Animals (simultaneous push your luck phase) : You draw and turn face up, one after the other, the Guardian Animal cards from your personal stack. You thus form the Animal Guardian Help Line. You can stop drawing cards whenever you want. However, if you reveal a card showing a third solitary symbol, then you must stop drawing cards. This card closes your Help Line.\n&bull; Action phase: You play in turn. If your Help Line shows strictly less than three solitary symbols (not canceled by gregarious symbols), you can then perform 2 different Actions. If your Help Line shows three solitary symbols (not canceled by gregarious symbols), you can then perform only 1 Action. The strength of an Action is determined by the number of corresponding Elements visible on the Guardian Animal cards in your Help Line and on your Forest individual board.\n&bull; End of the turn:\n- Onibi attacks you: If some Fires remain at the center of the Circle of Spirits and you cannot resist them, then add as many Fire Varan cards to your discard stack as there are Fire tiles at the center of the Circle of Spirits.\n- Onibi attacks the Sacred Tree: Add as many Fires to the center of the Circle of Spirits as there are Guardian Animal cards taken this turn.\n- The arrival of new Guardian Animals: Complete the Guardian Animal reserve by revealing as many new cards per level as there were cards taken this turn.\n- Passing the Sacred Tree: Give the Sacred Tree to the next Spirit of Nature clockwise.\n- The Return of Guardian Animals: Move all the Animal Guardian cards from your Help Line to your personal discard stack.\n\nThe game stops at the end of a complete turn when one of the Spirits of Nature has managed to collect at least 12 different Protective Trees OR 12 Fires OR 12 Sacred Flowers.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:01:06.717Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

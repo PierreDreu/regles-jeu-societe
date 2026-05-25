@@ -1,0 +1,127 @@
+{
+  "slug": "decrypto",
+  "bggId": 225694,
+  "nom": "Decrypto",
+  "nomOriginal": null,
+  "anneeSortie": 2018,
+  "joueursMin": 3,
+  "joueursMax": 8,
+  "joueursRecommandes": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "dureeMin": 15,
+  "dureeMax": 45,
+  "ageMin": 12,
+  "poidsRegles": 1.8261,
+  "designers": [
+    "Thomas Dagenais-Lespérance"
+  ],
+  "artistes": [
+    "Fabien Fulchiron",
+    "NILS",
+    "Manuel Sanchez"
+  ],
+  "editeurs": [
+    "Scorpion Masqué",
+    "2 Pionki",
+    "ADC Blackfire Entertainment",
+    "asmodee",
+    "Enigma (Bergsala Enigma)",
+    "Fantasmagoria",
+    "Galápagos Jogos",
+    "Games4you",
+    "Games7Days",
+    "Gémklub",
+    "GoKids 玩樂小子",
+    "Hachette Boardgames USA",
+    "Happy Baobab",
+    "IELLO",
+    "Kaissa Chess & Games",
+    "Lavka Games",
+    "Lex Games",
+    "Portal Games",
+    "Regatul Jocurilor",
+    "Salta da Caixa",
+    "Well Designed Game"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1039,
+      "value": "Deduction"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    },
+    {
+      "id": 1081,
+      "value": "Spies / Secret Agents"
+    },
+    {
+      "id": 1025,
+      "value": "Word Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 2055,
+      "value": "Paper-and-Pencil"
+    },
+    {
+      "id": 2866,
+      "value": "Targeted Clues"
+    },
+    {
+      "id": 2019,
+      "value": "Team-Based Game"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 75031,
+      "value": "Components: Sand Timers"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 66334,
+      "value": "Mechanism: Give a Clue / Get a Clue"
+    },
+    {
+      "id": 71573,
+      "value": "Theme: Retro"
+    },
+    {
+      "id": 62861,
+      "value": "Word Games: Guess the Word"
+    }
+  ],
+  "bggRank": 116,
+  "bggRating": 7.76645,
+  "image": "/jeux/images/decrypto.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__original/img/lL6QJ69UmZT7CeljUcjyA47b-e0=/0x0/filters:format(jpeg)/pic3759421.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Players compete in two teams in Decrypto, with each trying to correctly interpret the coded messages presented to them by their teammates while cracking the codes they intercept from the opposing team.\n\nIn more detail, each team has its own screen, and in this screen they tuck four cards in pockets numbered 1-4, letting everyone on the same team see the words on these cards while hiding the words from the opposing team. In the first round, each team does the following: one team member takes a code card that shows three of the digits 1-4 in some order, e.g., 4-2-1. They then give a coded message that their teammates must use to guess this code. For example, if the team's four words are \"pig\", \"candy\", \"tent\", and \"son\", then I might say \"Sam-striped-pink\" and hope that my teammates can correctly map those words to 4-2-1. If they guess correctly, great; if not, we receive a black mark of failure.\n\nStarting in the second round, a member of each team must again give a clue about their words to match a numbered code. If I get 2-4-3, I might now say \"sucker-prince-stake\". The other team then attempts to guess our numbered code. If they're correct, they receive a white mark of success; if not, then my team must guess the number correctly or take a black mark of failure. (Guessing correctly does nothing except avoid failure and give the opposing team information about what our hidden words might be.)\n\nThe rounds continue until a team collects either its second white mark (winning the game) or its second black mark (losing the game). Games typically last between four and seven rounds. If neither team has won after eight rounds, each team must attempt to guess the other team's words; whichever team guesses more words correctly wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:46.169Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

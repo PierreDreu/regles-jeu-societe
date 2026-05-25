@@ -1,0 +1,228 @@
+{
+  "slug": "spirit-island",
+  "bggId": 162886,
+  "nom": "Spirit Island",
+  "nomOriginal": null,
+  "anneeSortie": 2017,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 90,
+  "dureeMax": 120,
+  "ageMin": 13,
+  "poidsRegles": 4.0733,
+  "designers": [
+    "R. Eric Reuss"
+  ],
+  "artistes": [
+    "Jason Behnke",
+    "Loïc Berger",
+    "Loïc Billiau",
+    "Kat G Birmelin",
+    "Cari Corene",
+    "Lucas Durham",
+    "Rocky Hammer",
+    "Sydni Kruger",
+    "Nolan Nasser",
+    "Jorge Ramos",
+    "Adam Rebottaro",
+    "Moro Rogers",
+    "Graham Sternberg",
+    "Shane Tyree",
+    "Joshua Wright (I)"
+  ],
+  "editeurs": [
+    "Greater Than Games, LLC",
+    "999 Games",
+    "Ace Studios",
+    "Arrakis Games",
+    "BoardM Factory",
+    "Engames",
+    "Fabled Nexus",
+    "Fox in the Box",
+    "Games7Days",
+    "Gémklub",
+    "Ghenos Games",
+    "Hobby World",
+    "Intrafin Games",
+    "Lacerta",
+    "One Moment Games",
+    "Pegasus Spiele",
+    "Portal Games",
+    "Rexhry",
+    "Siam Board Games"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1084,
+      "value": "Environmental"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1082,
+      "value": "Mythology"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2839,
+      "value": "Action Retrieval"
+    },
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2903,
+      "value": "Automatic Resource Growth"
+    },
+    {
+      "id": 2018,
+      "value": "Campaign / Battle Card Driven"
+    },
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 66553,
+      "value": "Components: Control Boards"
+    },
+    {
+      "id": 64960,
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "id": 25158,
+      "value": "Components: Miniatures"
+    },
+    {
+      "id": 62884,
+      "value": "Components: Official Music Soundtrack"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 46174,
+      "value": "Game: Spirit Island"
+    },
+    {
+      "id": 79690,
+      "value": "Islands: Fictional"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 21622,
+      "value": "Theme: Colonial"
+    },
+    {
+      "id": 76250,
+      "value": "Theme: Environmental Protection / Degradation / Pollution"
+    },
+    {
+      "id": 18319,
+      "value": "Theme: Tropical"
+    },
+    {
+      "id": 51732,
+      "value": "Theme: Tropical Islands"
+    }
+  ],
+  "bggRank": 11,
+  "bggRating": 8.34012,
+  "image": "/jeux/images/spirit-island.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__original/img/9uLd9C3XAvInLCLhAoXqKVk56zs=/0x0/filters:format(jpeg)/pic7013651.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.\n\nSpirit Island is a complex and thematic co-operative game about defending your island home from colonizing Invaders. Players are different spirits of the land, each with its own unique elemental powers. Every turn, players simultaneously choose which of their power cards to play, paying energy to do so. Using combinations of power cards that match a spirit's elemental affinities can grant free bonus effects. Faster powers take effect immediately, before the Invaders spread and ravage, but other magics are slower, requiring forethought and planning to use effectively. In the Spirit phase, spirits gain energy, and choose how / whether to Grow: to reclaim used power cards, to seek new power, or to spread their presence into new areas of the island.\n\nThe Invaders expand across the island map in a semi-predictable fashion. Each turn they explore into some lands (portions of the island); the next turn, they build in those lands, forming towns and cities. The turn after that, they ravage there, bringing blight to the land and attacking any native islanders present. The islanders fight back against the Invaders when attacked, and lend the spirits some other aid, but may not always do so exactly as you'd hoped. Some Powers work through the islanders, helping them, for example, to drive out the Invaders or clean the land of blight.\n\nThe game escalates as it progresses: spirits spread their presence to new parts of the island and seek out new and more potent powers, while the Invaders step up their colonization efforts. Each turn represents 1-3 years of alternate history. At game start, winning requires destroying every last explorer, town and city on the board - but as you frighten the Invaders more and more, victory becomes easier: they'll run away even if explorers or even towns and cities remain. Defeat comes if any spirit is destroyed, if the island is overrun by blight, or if the Invader deck is depleted before achieving victory.\n\nThe game includes different adversaries to fight against (eg., a Swedish Mining Colony, or a Remote British Colony). Each changes play in different ways, and offers a different path of difficulty boosts to keep the game challenging as you gain skill.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:57.196Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

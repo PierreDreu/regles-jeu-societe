@@ -1,0 +1,140 @@
+{
+  "slug": "puerto-rico",
+  "bggId": 3076,
+  "nom": "Puerto Rico",
+  "nomOriginal": null,
+  "anneeSortie": 2002,
+  "joueursMin": 3,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 90,
+  "dureeMax": 150,
+  "ageMin": 12,
+  "poidsRegles": 3.2664,
+  "designers": [
+    "Andreas Seyfarth"
+  ],
+  "artistes": [
+    "Franz Vohwinkel"
+  ],
+  "editeurs": [
+    "alea",
+    "Ravensburger AG",
+    "Albi",
+    "Devir",
+    "Filosofia Éditions",
+    "Kaissa Chess & Games",
+    "Lautapelit.fi",
+    "MINDOK",
+    "Rio Grande Games",
+    "Stratelibri",
+    "Swan Panasia Co., Ltd.",
+    "Tilsit",
+    "VAKKO"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1029,
+      "value": "City Building"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1013,
+      "value": "Farming"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2838,
+      "value": "Action Drafting"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2843,
+      "value": "Follow"
+    },
+    {
+      "id": 2987,
+      "value": "Hidden Victory Points"
+    },
+    {
+      "id": 2914,
+      "value": "Increase Value of Unchosen Resources"
+    },
+    {
+      "id": 2828,
+      "value": "Turn Order: Progressive"
+    },
+    {
+      "id": 2079,
+      "value": "Variable Phase Order"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 10656,
+      "value": "Country: Puerto Rico"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 76458,
+      "value": "Digital Implementations: BrettspielWelt"
+    },
+    {
+      "id": 9958,
+      "value": "Game: Puerto Rico"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 58,
+      "value": "Series: Alea Big Box"
+    },
+    {
+      "id": 21622,
+      "value": "Theme: Colonial"
+    }
+  ],
+  "bggRank": 57,
+  "bggRating": 7.8989,
+  "image": "/jeux/images/puerto-rico.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__original/img/DOgIp57F7tKZvxeITGAd3e_Q9as=/0x0/filters:format(jpeg)/pic158548.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Puerto Rico, players assume the roles of colonial governors on the island of Puerto Rico. The aim of the game is to amass victory points by shipping goods to Europe or by constructing buildings.\n\nEach player uses a separate small board with spaces for city buildings, plantations, and resources. Shared between the players are three ships, a trading house, and a supply of resources and doubloons.\n\nThe resource cycle of the game is that players grow crops which they exchange for points or doubloons. Doubloons can then be used to buy buildings, which allow players to produce more crops or give them other abilities. Buildings and plantations do not work unless they are manned by colonists.\n\nDuring each round, players take turns selecting a role card from those on the table (such as \"Trader\" or \"Builder\"). When a role is chosen, every player gets to take the action appropriate to that role. The player that selected the role also receives a small privilege for doing so - for example, choosing the \"Builder\" role allows all players to construct a building, but the player who chose the role may do so at a discount on that turn. Unused roles gain a doubloon bonus at the end of each turn, so the next player who chooses that role gets to keep any doubloon bonus associated with it. This encourages players to make use of all the roles throughout a typical course of a game.\n\nPuerto Rico uses a variable phase order mechanism in which a \"governor\" token is passed clockwise to the next player at the conclusion of a turn. The player with the token begins the round by choosing a role and taking the first action.\n\nPlayers earn victory points for owning buildings, for shipping goods, and for manned \"large buildings.\" Each player's accumulated shipping chips are kept face down and come in denominations of one or five. This prevents other players from being able to determine the exact score of another player. Goods and doubloons are placed in clear view of other players and the totals of each can always be requested by a player. As the game enters its later stages, the unknown quantity of shipping tokens and its denominations require players to consider their options before choosing a role that can end the game.\n\nIn 2011 and mostly afterwards, Puerto Rico was published to include both Puerto Rico: Expansion I &ndash; New Buildings and Puerto Rico: Expansion II &ndash; The Nobles. These versions are included in the other game entry Puerto Rico, not this regular game entry for Puerto Rico. Some editions of Puerto Rico list the player count as 2-5 instead of 3-5, and they include variant rules for games with only two players.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:05.987Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

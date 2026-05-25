@@ -1,0 +1,199 @@
+{
+  "slug": "tigre-et-euphrate",
+  "bggId": 42,
+  "nom": "Tigre et Euphrate",
+  "nomOriginal": "Tigris & Euphrates",
+  "anneeSortie": 1997,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 120,
+  "ageMin": 14,
+  "poidsRegles": 3.4781,
+  "designers": [
+    "Reiner Knizia"
+  ],
+  "artistes": [
+    "Bascu",
+    "Christine Conrad",
+    "Doris Matthäus",
+    "Ian O&#039;Toole",
+    "Tom Thiel",
+    "Ricarda Thiel",
+    "Stephen Graham Walsh"
+  ],
+  "editeurs": [
+    "Hans im Glück",
+    "25th Century Games",
+    "999 Games",
+    "CZ Cloud Soft Co. Ltd",
+    "Devir",
+    "Edge Entertainment",
+    "Fantasy Flight Games",
+    "Galápagos Jogos",
+    "Giochi Uniti",
+    "Heidelberger Spieleverlag",
+    "Hobby Japan",
+    "Lacerta",
+    "Matagot",
+    "Mayfair Games",
+    "Pegasus Spiele",
+    "Smart Ltd",
+    "Top Licence Games",
+    "Wargames Club Publishing",
+    "Z-Man Games"
+  ],
+  "editeurFrancophone": "Matagot",
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    },
+    {
+      "id": 1050,
+      "value": "Ancient"
+    },
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1086,
+      "value": "Territory Building"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2956,
+      "value": "Chaining"
+    },
+    {
+      "id": 2883,
+      "value": "Connections"
+    },
+    {
+      "id": 2864,
+      "value": "Force Commitment"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2987,
+      "value": "Hidden Victory Points"
+    },
+    {
+      "id": 2889,
+      "value": "Highest-Lowest Scoring"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2940,
+      "value": "Square Grid"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 27524,
+      "value": "Ancient: Babylon"
+    },
+    {
+      "id": 57934,
+      "value": "Ancient: Mesopotamia"
+    },
+    {
+      "id": 81601,
+      "value": "Components: Map (Regional scale)"
+    },
+    {
+      "id": 104481,
+      "value": "Components: Player Screens"
+    },
+    {
+      "id": 68769,
+      "value": "Components: Wooden pieces & boards"
+    },
+    {
+      "id": 10629,
+      "value": "Country: Syria"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 43,
+      "value": "Game: Tigris & Euphrates"
+    },
+    {
+      "id": 109134,
+      "value": "Misc: BGG Hall of Fame"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 59608,
+      "value": "Region: Middle East"
+    },
+    {
+      "id": 27521,
+      "value": "Rivers: Euphrates"
+    },
+    {
+      "id": 27522,
+      "value": "Rivers: Tigris"
+    },
+    {
+      "id": 60111,
+      "value": "Series: Euro Classics (Reiner Knizia)"
+    },
+    {
+      "id": 42,
+      "value": "Series: Tile-Laying Trilogy (Reiner Knizia)"
+    }
+  ],
+  "bggRank": 131,
+  "bggRating": 7.70412,
+  "image": "/jeux/images/tigre-et-euphrate.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/t-cfSQs4Ic3SAzCSxTigLg__original/img/SfOjGBpLyPrnntZjjxrnSXmJWT4=/0x0/filters:format(png)/pic9203204.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Regarded by many as Reiner Knizia's masterpiece, Tigris & Euphrates is set in the ancient fertile crescent with players building civilizations through tile placement. Players are given four different leaders: farming, trading, religion, and government. The leaders are used to collect victory points in these same categories. However, your score at the end of the game is the number of points in your weakest category, which encourages players not to get overly specialized. Conflict arises when civilizations connect on the board, i.e., external conflicts, with only one leader of each type surviving such a conflict. Leaders can also be replaced within a civilization through internal conflicts.\n\nStarting in the Mayfair edition from 2008, Tigris & Euphrates included a double-sided game board and extra components for playing an advanced version of the game. This \"ziggurat expansion\", initially released as a separate item in Germany for those who already owned the base game, is a special monument that extends across five spaces of the board. The monument can be built if a player has a cross of five civilization tokens of the same color by discarding those five tokens and replacing them with the ziggurat markers, placing a ziggurat tower upon the middle tile. The five ziggurat markers cannot be destroyed. All rules regarding monuments apply to the ziggurat monument as well. If your king is inside the kingdom of the ziggurat, you will get one victory point in a color of your choice at the end of your turn.\n\nSome versions of Tigris & Euphrates are listed as being for 2-4 players, while others incorrectly state that they're for 3-4 players. Tigris & Euphrates is part of what is sometimes called Reiner Knizia's tile-laying trilogy.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:22.134Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

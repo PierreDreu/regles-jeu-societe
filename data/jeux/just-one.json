@@ -1,0 +1,120 @@
+{
+  "slug": "just-one",
+  "bggId": 254640,
+  "nom": "Just One",
+  "nomOriginal": null,
+  "anneeSortie": 2018,
+  "joueursMin": 3,
+  "joueursMax": 7,
+  "joueursRecommandes": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "dureeMin": 20,
+  "dureeMax": 60,
+  "ageMin": 8,
+  "poidsRegles": 1.0338,
+  "designers": [
+    "Ludovic Roudy",
+    "Bruno Sautter"
+  ],
+  "artistes": [
+    "Éric Azagury",
+    "Florian Poullet"
+  ],
+  "editeurs": [
+    "Repos Production",
+    "ADC Blackfire Entertainment",
+    "Arclight Games",
+    "Brain Games",
+    "CoolPlay",
+    "FoxMind Israel",
+    "Fun Consortium",
+    "Galápagos Jogos",
+    "Geekach LLC",
+    "Gémklub",
+    "GoKids 玩樂小子",
+    "Happy Baobab",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lifestyle Boardgames Ltd",
+    "Maldón",
+    "Morapiaf",
+    "Nordic Games ehf",
+    "Rebel Sp. z o.o."
+  ],
+  "editeurFrancophone": "Repos Production",
+  "categoriesBGG": [
+    {
+      "id": 1039,
+      "value": "Deduction"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    },
+    {
+      "id": 1025,
+      "value": "Word Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 3002,
+      "value": "Deduction"
+    },
+    {
+      "id": 2823,
+      "value": "Score-and-Reset Game"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 63161,
+      "value": "Components: Dry Erase Markers / Dry Erase Surfaces"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 66334,
+      "value": "Mechanism: Give a Clue / Get a Clue"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 62861,
+      "value": "Word Games: Guess the Word"
+    }
+  ],
+  "bggRank": 157,
+  "bggRating": 7.59194,
+  "image": "/jeux/images/just-one.png",
+  "imageUrlSource": "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__original/img/hA22qL6nZxchA8FMTIfhLMcI53I=/0x0/filters:format(png)/pic8669313.png",
+  "pdfUrlSource": null,
+  "descriptionEN": "Just One is a co-operative party game in which you all play together to get the best score! Your goal each round is to get one player &mdash; the active player &mdash; to guess a mystery word based on the clues given by teammates. Can you achieve a perfect score by guessing all the mystery words?\n\nIn more detail, everyone who is not the active player sees the mystery word, then each player independently writes a clue on their personal easel. Once everyone has finished, you reveal the clues to one another. All identical clues are removed from play, so try to be original!\n\nAfter eliminating duplicate clues, reveal the remaining clues to the active player. If they correctly guess the mystery word, your team scores a point. If they decline to guess, you don't score the current card. If they guess wrong, you don't score the current card and you lose one of the points you had already scored. Thus, be original, but not so original that you don't help the active player guess correctly!",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:47.028Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,174 @@
+{
+  "slug": "hive",
+  "bggId": 2655,
+  "nom": "Hive",
+  "nomOriginal": null,
+  "anneeSortie": 2001,
+  "joueursMin": 2,
+  "joueursMax": 2,
+  "joueursRecommandes": [
+    2
+  ],
+  "dureeMin": 20,
+  "dureeMax": 20,
+  "ageMin": 9,
+  "poidsRegles": 2.313,
+  "designers": [
+    "John Yianni"
+  ],
+  "artistes": [
+    "John Yianni"
+  ],
+  "editeurs": [
+    "Gen42 Games",
+    "64 Ounce Games",
+    "Crómola",
+    "G3",
+    "Ghenos Games",
+    "Gigamic",
+    "HUCH!",
+    "Jolly Thinkers",
+    "Ludicus Games",
+    "Magellan",
+    "Oficina do Aprendiz",
+    "Reflexshop",
+    "Smart Zone Games",
+    "Tantrix UK Ltd.",
+    "uplay.it edizioni",
+    "Vendetta",
+    "Wargames Club Publishing",
+    "Zhiyanjia"
+  ],
+  "editeurFrancophone": "Gigamic",
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    },
+    {
+      "id": 1089,
+      "value": "Animals"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2043,
+      "value": "Enclosure"
+    },
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2946,
+      "value": "Pattern Movement"
+    },
+    {
+      "id": 2964,
+      "value": "Pieces as Map"
+    },
+    {
+      "id": 2944,
+      "value": "Three Dimensional Movement"
+    },
+    {
+      "id": 2002,
+      "value": "Tile Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 7507,
+      "value": "Animals: Ants"
+    },
+    {
+      "id": 7564,
+      "value": "Animals: Bees"
+    },
+    {
+      "id": 19066,
+      "value": "Animals: Grasshoppers"
+    },
+    {
+      "id": 62079,
+      "value": "Animals: Insects"
+    },
+    {
+      "id": 7519,
+      "value": "Animals: Spiders"
+    },
+    {
+      "id": 26432,
+      "value": "Category: Combinatorial"
+    },
+    {
+      "id": 67874,
+      "value": "Components: Hexagonal Tiles"
+    },
+    {
+      "id": 67583,
+      "value": "Containers: Unique Shape"
+    },
+    {
+      "id": 73785,
+      "value": "Containers: Zippered Pouch"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 80224,
+      "value": "Digital Implementations: BoardSpace"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 24962,
+      "value": "Game: Hive"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    },
+    {
+      "id": 61979,
+      "value": "Players: Two-Player Only Games"
+    },
+    {
+      "id": 48871,
+      "value": "Theme: Nature"
+    }
+  ],
+  "bggRank": 334,
+  "bggRating": 7.31557,
+  "image": "/jeux/images/hive.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__original/img/eqUVrCJKcMBGBhw4Gfc9_9JabYE=/0x0/filters:format(jpeg)/pic791151.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Hive is a strategic game for two players that is not restricted by a board and can be played anywhere on any flat surface. Hive is made up of twenty two pieces, eleven black and eleven white, resembling a variety of creatures each with a unique way of moving.\n\nWith no setting up to do, the game begins when the first piece is placed down. As the subsequent pieces are placed this forms a pattern that becomes the playing surface (the pieces themselves become the board). Unlike other such games, the pieces are never eliminated and not all have to be played. The object of the game is to totally surround your opponent's queen, while at the same time trying to block your opponent from doing likewise to your queen. The player to totally surround his opponent's queen wins the game.\n\n&bull;&bull;&bull;\n\nHive FAQ - please read before posting questions in the forum!",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:51.442Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

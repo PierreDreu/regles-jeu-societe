@@ -1,0 +1,155 @@
+{
+  "slug": "abalone",
+  "bggId": 526,
+  "nom": "Abalone",
+  "nomOriginal": null,
+  "anneeSortie": 1987,
+  "joueursMin": 2,
+  "joueursMax": 2,
+  "joueursRecommandes": [
+    2
+  ],
+  "dureeMin": 30,
+  "dureeMax": 30,
+  "ageMin": 7,
+  "poidsRegles": 2.1476,
+  "designers": [
+    "Michel Lalet",
+    "Laurent Levi"
+  ],
+  "artistes": [
+    "Laurent Levi"
+  ],
+  "editeurs": [
+    "(Unknown)",
+    "Abalone Games",
+    "abalone s.a.",
+    "Anne",
+    "asmodee",
+    "Belleville (Бельвіль)",
+    "Boardgame Space",
+    "Brio AB",
+    "Carrom Art",
+    "Creative Crafthouse",
+    "Esdevium",
+    "FoxMind",
+    "Fun Connection",
+    "Galoob",
+    "Goliath Games",
+    "Hasbro",
+    "Jumbo",
+    "Korea Boardgames",
+    "Lifestyle Boardgames Ltd",
+    "Ludens Spirit",
+    "Mitra",
+    "Oficina do Aprendiz",
+    "Oliphante",
+    "Parker Brothers",
+    "Parker Spiele",
+    "Piatnik",
+    "Rebel Sp. z o.o.",
+    "Schmidt International",
+    "Schmidt Spiele",
+    "Tactic",
+    "Tsukuda Hobby",
+    "University Games",
+    "Week End Games",
+    "Zygomatic"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1009,
+      "value": "Abstract Strategy"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 3005,
+      "value": "Slide / Push"
+    },
+    {
+      "id": 2861,
+      "value": "Static Capture"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 26432,
+      "value": "Category: Combinatorial"
+    },
+    {
+      "id": 106337,
+      "value": "Components: HexHex5 Grids"
+    },
+    {
+      "id": 5902,
+      "value": "Components: Marbles"
+    },
+    {
+      "id": 64746,
+      "value": "Containers: Hexagonal Boxes"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 109504,
+      "value": "Digital Implementations: PlayStrategy"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 11031,
+      "value": "Game: Abalone"
+    },
+    {
+      "id": 6485,
+      "value": "Misc: Mensa Select"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 61979,
+      "value": "Players: Two-Player Only Games"
+    },
+    {
+      "id": 20072,
+      "value": "Series: Games to go (Parker)"
+    },
+    {
+      "id": 62270,
+      "value": "Versions & Editions: Travel Versions of Non-Travel Games"
+    }
+  ],
+  "bggRank": 2176,
+  "bggRating": 6.48609,
+  "image": "/jeux/images/abalone.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/UzH1jAlqYUH9VEq2Wtvzjw__original/img/pURND_gEV9F5VLeUWLqYFP3UQAQ=/0x0/filters:format(jpeg)/pic5253079.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "This beautiful and functional board has room for two teams of large marbles. Players take turns pushing the marbles around the board, with the goal of pushing six of the opposing player's marbles off the board. The central idea is that a column of marbles has weight given by the number of marbles in line. Someone will need to push with a heavier group of marbles in order to push the column along that axis. However, with six possible directions, it's difficult to defend yourself perfectly. Also, it's possible to play the game with up to six players when supplemental marble sets are purchased.\n\nA winner of the 1988 Concours International de Créateurs de Jeux de Société.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:50.565Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

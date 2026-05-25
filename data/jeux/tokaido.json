@@ -1,0 +1,167 @@
+{
+  "slug": "tokaido",
+  "bggId": 123540,
+  "nom": "Tokaido",
+  "nomOriginal": null,
+  "anneeSortie": 2012,
+  "joueursMin": 1,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 45,
+  "dureeMax": 45,
+  "ageMin": 8,
+  "poidsRegles": 1.7426,
+  "designers": [
+    "Antoine Bauza"
+  ],
+  "artistes": [
+    "Xavier Gueniffey Durin"
+  ],
+  "editeurs": [
+    "Funforge",
+    "Stonemaier Games",
+    "Asterion Press",
+    "Delta Vision Publishing",
+    "Devir",
+    "Enigma (Bergsala Enigma)",
+    "Galápagos Jogos",
+    "Gémklub",
+    "hobbity.eu",
+    "Hobby Japan",
+    "Hobby World",
+    "Jolly Thinkers",
+    "MINDOK",
+    "Passport Game Studios",
+    "Pegasus Spiele",
+    "Pendragon Game Studio",
+    "Rebel Sp. z o.o.",
+    "Rozum",
+    "Swan Panasia Co., Ltd.",
+    "Zhiyanjia"
+  ],
+  "editeurFrancophone": "Funforge",
+  "categoriesBGG": [
+    {
+      "id": 1097,
+      "value": "Travel"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2939,
+      "value": "Track Movement"
+    },
+    {
+      "id": 2663,
+      "value": "Turn Order: Time Track"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    },
+    {
+      "id": 2082,
+      "value": "Worker Placement"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 10634,
+      "value": "Country: Japan"
+    },
+    {
+      "id": 104952,
+      "value": "Digital Implementations: Apple App Store"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 78432,
+      "value": "Digital Implementations: Google Play"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 70948,
+      "value": "Digital Implementations: Tabletopia"
+    },
+    {
+      "id": 25050,
+      "value": "Game: Tokaido"
+    },
+    {
+      "id": 58667,
+      "value": "History: Edo Period"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 72487,
+      "value": "Organizations: Automa Factory"
+    },
+    {
+      "id": 65851,
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 5841,
+      "value": "Theme: Food / Cooking"
+    },
+    {
+      "id": 39521,
+      "value": "Theme: Painting / Paintings"
+    }
+  ],
+  "bggRank": 843,
+  "bggRating": 6.91033,
+  "image": "/jeux/images/tokaido.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__original/img/NWuaZkfygEeQ7nvi0Ih7_FW9jO0=/0x0/filters:format(jpeg)/pic8758132.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Tokaido, each player is a traveler crossing the \"East sea road\", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler &ndash; which means that you'll have to be the one who discovered the most interesting and varied things.\n\nThe potential action spaces in Tokaido are laid out on a linear track, with players advancing down this track to take actions. The player who is currently last on the track takes a turn by advancing forward on the track to their desired action and taking that action, so players must choose whether to advance slowly in order to get more turns, or to travel more rapidly to beat other players to their desired action spaces.\n\nThe action spaces allow a variety of actions that will score in different, but roughly equal, ways. Some action spaces allow players to collect money, while others offer players a way to spend that money to acquire points.  Other action spaces allow players to engage in various set collections that score points for assembling those sets.  Some action spaces simply award players points for stopping on them, or give the player a randomly determined action from all of the other types.\n\nAll of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:42.681Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "skull-king",
+  "bggId": 150145,
+  "nom": "Skull King",
+  "nomOriginal": null,
+  "anneeSortie": 2013,
+  "joueursMin": 2,
+  "joueursMax": 8,
+  "joueursRecommandes": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "dureeMin": 30,
+  "dureeMax": 30,
+  "ageMin": 8,
+  "poidsRegles": 1.7318,
+  "designers": [
+    "Brent Beck",
+    "Jeffrey Beck"
+  ],
+  "artistes": [
+    "David Bock",
+    "Eckhard Freytag",
+    "Apryl Stott"
+  ],
+  "editeurs": [
+    "Grandpa Beck&#039;s Games",
+    "Broadway Toys LTD",
+    "Devir",
+    "Ghenos Games",
+    "OPEN&#039;N PLAY",
+    "Playte",
+    "Popcorn Games",
+    "Ravensburger AG",
+    "リゴレ (rigoler)",
+    "Schmidt Spiele"
+  ],
+  "editeurFrancophone": null,
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1008,
+      "value": "Nautical"
+    },
+    {
+      "id": 1090,
+      "value": "Pirates"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 3006,
+      "value": "Predictive Bid"
+    },
+    {
+      "id": 2003,
+      "value": "Rock-Paper-Scissors"
+    },
+    {
+      "id": 2009,
+      "value": "Trick-taking"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 76458,
+      "value": "Digital Implementations: BrettspielWelt"
+    },
+    {
+      "id": 77905,
+      "value": "Digital Implementations: Sovranti"
+    },
+    {
+      "id": 43542,
+      "value": "Series: Royal horror card games (Schmidt Spiele)"
+    },
+    {
+      "id": 74823,
+      "value": "Theme: Pirates"
+    }
+  ],
+  "bggRank": 294,
+  "bggRating": 7.52637,
+  "image": "/jeux/images/skull-king.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__original/img/Vn6PK_Ue5TX14oQ5uau4XICHEJU=/0x0/filters:format(jpeg)/pic8689185.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Skull King is a trick-taking game similar to Oh Hell!, Wizard, Euchre and Spades, with players needing to state how many tricks they think they'll win each round. A unique element of this game is that bidding takes place simultaneously, leading to rounds that are sometimes over, or under-bid. As players must win the exact number of tricks that they bid to earn points, winning too many tricks is just as bad as winning too few and this leads to intense competition where losing a trick can be as exciting as winning one.\n\nSkull King uses a 66-card deck that consists of five Escape cards, four suits numbered 1-13, two Mermaids, five Pirate cards, 1 Tigress card, and 1 Skull King card. The game lasts ten rounds, and in each round, each player is dealt as many cards as the number of the round. All players simultaneously bid on the number of tricks they think they'll take by holding out a fist and on the count of three revealing a certain number of fingers (or possibly a closed fist for a bid of zero tricks).\n\nStandard rules apply for the playing of cards, with one player leading off a card and other players following suit, if possible, and playing something else if not; however, a player may always choose to play one of the special, unnumbered cards &mdash; and the power of those cards might let you win a trick that otherwise would have gotten away. In more detail, the black Jolly Roger suit trumps the other three suits, a Mermaid trumps all numbered cards, a Pirate trumps the Mermaid, and the Skull King trumps everything &mdash; except if he appears in the same trick with a Mermaid, in which case she captures him and wins instead. An Escape card loses to any other card, and the Tigress card serves as either a pirate or escape card as desired by the player. Whoever wins a trick leads in the next trick.\n\nIf a player makes their bid exactly, they score 20 points per trick; if they collect more or fewer tricks, they lose 10 points per trick they are off. If a player makes a bid of zero tricks, they win points equal to ten times the current round number &mdash; but if they take even a single trick, they lose this many points instead. If a player catches pirates with the Skull King, or the King with a mermaid, they score bonus points. Whoever has the most points after ten rounds wins.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:47.927Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

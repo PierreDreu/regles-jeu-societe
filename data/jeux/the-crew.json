@@ -1,0 +1,134 @@
+{
+  "slug": "the-crew",
+  "bggId": 284083,
+  "nom": "The Crew",
+  "nomOriginal": "The Crew: The Quest for Planet Nine",
+  "anneeSortie": 2019,
+  "joueursMin": 2,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 20,
+  "dureeMax": 20,
+  "ageMin": 10,
+  "poidsRegles": 1.969,
+  "designers": [
+    "Thomas Sing"
+  ],
+  "artistes": [
+    "Marco Armbruster",
+    "Sensit Communication GmbH"
+  ],
+  "editeurs": [
+    "KOSMOS",
+    "999 Games",
+    "Black Sea Games",
+    "Brain Games",
+    "CoolPlay",
+    "Devir",
+    "Galakta",
+    "Geekach LLC",
+    "Giochi Uniti",
+    "GP Games",
+    "HaKubia",
+    "Ideal Board Games",
+    "IELLO",
+    "Igroljub",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "MINDOK",
+    "NeoTroy Games",
+    "Piatnik Distribution",
+    "Swan Panasia Co., Ltd.",
+    "Thames & Kosmos",
+    "Zvezda"
+  ],
+  "editeurFrancophone": "Iello",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    },
+    {
+      "id": 1113,
+      "value": "Space Exploration"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2822,
+      "value": "Scenario / Mission / Campaign Game"
+    },
+    {
+      "id": 2009,
+      "value": "Trick-taking"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 76458,
+      "value": "Digital Implementations: BrettspielWelt"
+    },
+    {
+      "id": 70948,
+      "value": "Digital Implementations: Tabletopia"
+    },
+    {
+      "id": 63179,
+      "value": "Game: The Crew"
+    },
+    {
+      "id": 71181,
+      "value": "Mechanism: Artificial Player"
+    },
+    {
+      "id": 59705,
+      "value": "Misc: LongPack Games"
+    },
+    {
+      "id": 19298,
+      "value": "Space: Earth&#039;s Solar System"
+    }
+  ],
+  "bggRank": 93,
+  "bggRating": 7.75542,
+  "image": "/jeux/images/the-crew.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__original/img/Q-ZkgnuBu9OTBr7J3qnqPjqamAE=/0x0/filters:format(jpeg)/pic5687013.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.\n\nWith each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.\n\nThe team completes a mission only if every single player is successful in fulfilling their tasks.\n\nThe game comes with 50 missions, with three additional missions published in spielbox 2/2020.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:48.817Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

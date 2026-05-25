@@ -1,0 +1,135 @@
+{
+  "slug": "dixit",
+  "bggId": 39856,
+  "nom": "Dixit",
+  "nomOriginal": null,
+  "anneeSortie": 2008,
+  "joueursMin": 3,
+  "joueursMax": 6,
+  "joueursRecommandes": [
+    4,
+    5,
+    6
+  ],
+  "dureeMin": 30,
+  "dureeMax": 30,
+  "ageMin": 8,
+  "poidsRegles": 1.1921,
+  "designers": [
+    "Jean-Louis Roubira"
+  ],
+  "artistes": [
+    "Marie Cardouat"
+  ],
+  "editeurs": [
+    "Libellud",
+    "ADC Blackfire Entertainment",
+    "Anne",
+    "asmodee",
+    "Asterion Press",
+    "Boardgame Space",
+    "Galápagos Jogos",
+    "Gémklub",
+    "hobbity.eu",
+    "Hobby Japan",
+    "KADABRA",
+    "Kaissa Chess & Games",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Maldón",
+    "Morapiaf",
+    "Nordic Games ehf",
+    "Paladium Games",
+    "Rebel Sp. z o.o.",
+    "Swan Panasia Co., Ltd.",
+    "Ігромаг"
+  ],
+  "editeurFrancophone": "Libellud",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1079,
+      "value": "Humor"
+    },
+    {
+      "id": 1030,
+      "value": "Party Game"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2876,
+      "value": "Race"
+    },
+    {
+      "id": 2038,
+      "value": "Singing"
+    },
+    {
+      "id": 2027,
+      "value": "Storytelling"
+    },
+    {
+      "id": 2866,
+      "value": "Targeted Clues"
+    },
+    {
+      "id": 2017,
+      "value": "Voting"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 64990,
+      "value": "Components: Meeples (Animal) / Animeeples"
+    },
+    {
+      "id": 70361,
+      "value": "Digital Implementations: Boiteajeux"
+    },
+    {
+      "id": 81575,
+      "value": "Digital Implementations: VASSAL"
+    },
+    {
+      "id": 9644,
+      "value": "Game: Dixit"
+    },
+    {
+      "id": 66334,
+      "value": "Mechanism: Give a Clue / Get a Clue"
+    },
+    {
+      "id": 60651,
+      "value": "Mechanism: Image Interpretation"
+    },
+    {
+      "id": 46175,
+      "value": "Mechanism: Judging Games"
+    },
+    {
+      "id": 105030,
+      "value": "Misc: Dice Tower Hall of Fame"
+    }
+  ],
+  "bggRank": 425,
+  "bggRating": 7.18048,
+  "image": "/jeux/images/dixit.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__original/img/jt3kFCHJ3HJ2079dMLwipFZqdQg=/0x0/filters:format(jpeg)/pic6738336.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "Each turn in Dixit, one player is the storyteller who chooses one of the six cards in their hand, then expresses an idea, with sounds or words, that is reflected on that card's image, and places the card face down on the playing surface. Each other player then selects the card that best matches that expression, and passes the selected card to the storyteller, face down.\n\nThe storyteller shuffles all the cards together, then turns them over to reveal them. Each player other than the storyteller then secretly guesses which card belongs to the storyteller. If nobody or everybody guesses the correct card, the storyteller scores 0 points, and each other player scores 2 points. Otherwise, the storyteller and whoever found the correct answer score 3 points. Additionally, the non-storyteller players score 1 point for every vote received by their card.\n\nThe game ends when the deck is empty or if a player has scored at least 30 points. In either case, the player with the most points wins.\n\nThe Dixit base game and each expansion contain 84 cards, and the cards can be mixed together as desired.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T10:59:29.804Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "imhotep",
+  "bggId": 191862,
+  "nom": "Imhotep",
+  "nomOriginal": null,
+  "anneeSortie": 2016,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 40,
+  "dureeMax": 40,
+  "ageMin": 10,
+  "poidsRegles": 2.0163,
+  "designers": [
+    "Phil Walker-Harding"
+  ],
+  "artistes": [
+    "Miguel Coimbra",
+    "Michaela Kienle"
+  ],
+  "editeurs": [
+    "KOSMOS",
+    "Arclight Games",
+    "Devir",
+    "Galakta",
+    "Giochi Uniti",
+    "IELLO",
+    "Korea Boardgames",
+    "Lautapelit.fi",
+    "Piatnik Distribution",
+    "Spilbræt.dk",
+    "Thames & Kosmos",
+    "Vennerød Forlag AS",
+    "White Goblin Games"
+  ],
+  "editeurFrancophone": "Iello",
+  "categoriesBGG": [
+    {
+      "id": 1050,
+      "value": "Ancient"
+    },
+    {
+      "id": 1011,
+      "value": "Transportation"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 72535,
+      "value": "Ancient: Egypt"
+    },
+    {
+      "id": 5607,
+      "value": "Components: 3-Dimensional (3D)"
+    },
+    {
+      "id": 77012,
+      "value": "Constructions: Pyramids"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 76458,
+      "value": "Digital Implementations: BrettspielWelt"
+    },
+    {
+      "id": 70354,
+      "value": "Digital Implementations: Yucata"
+    },
+    {
+      "id": 46225,
+      "value": "Game: Imhotep"
+    },
+    {
+      "id": 81590,
+      "value": "Occupation: Architect"
+    },
+    {
+      "id": 66113,
+      "value": "Theme: Construction"
+    }
+  ],
+  "bggRank": 624,
+  "bggRating": 7.124,
+  "image": "/jeux/images/imhotep.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/HkAt5n4R8XM0vNozl7fftA__original/img/934t5i7J90wlw6mb6p2m_3u98i0=/0x0/filters:format(jpeg)/pic3029488.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In Imhotep, the players become builders in Egypt who want to emulate the first and best-known architect there, namely Imhotep.\n\nOver six rounds, they move wooden stones by boat to create five seminal monuments, and on a turn, a player chooses one of four actions: Procure new stones, load stones on a boat, bring a boat to a monument, or play an action card. While this sounds easy, naturally the other players constantly thwart your building plans by carrying out plans of their own. Only those with the best timing &mdash; and the stones to back up their plans &mdash; will prove to be Egypt's best builder.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:39.964Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

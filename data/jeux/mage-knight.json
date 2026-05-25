@@ -1,0 +1,160 @@
+{
+  "slug": "mage-knight",
+  "bggId": 96848,
+  "nom": "Mage Knight",
+  "nomOriginal": "Mage Knight Board Game",
+  "anneeSortie": 2011,
+  "joueursMin": 1,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    1,
+    2,
+    3
+  ],
+  "dureeMin": 60,
+  "dureeMax": 240,
+  "ageMin": 14,
+  "poidsRegles": 4.377,
+  "designers": [
+    "Vlaada Chvátil"
+  ],
+  "artistes": [
+    "J. Lonnee",
+    "Chris Raimo",
+    "Milan Vavroň"
+  ],
+  "editeurs": [
+    "WizKids (I)",
+    "asmodee",
+    "Giochi Uniti",
+    "Intrafin Games",
+    "Lacerta",
+    "NECA",
+    "Pegasus Spiele",
+    "Rexhry"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1022,
+      "value": "Adventure"
+    },
+    {
+      "id": 1020,
+      "value": "Exploration"
+    },
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1046,
+      "value": "Fighting"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2857,
+      "value": "Card Play Conflict Resolution"
+    },
+    {
+      "id": 2023,
+      "value": "Cooperative Game"
+    },
+    {
+      "id": 2664,
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "id": 2072,
+      "value": "Dice Rolling"
+    },
+    {
+      "id": 2676,
+      "value": "Grid Movement"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2026,
+      "value": "Hexagon Grid"
+    },
+    {
+      "id": 2011,
+      "value": "Modular Board"
+    },
+    {
+      "id": 3099,
+      "value": "Multi-Use Cards"
+    },
+    {
+      "id": 2041,
+      "value": "Open Drafting"
+    },
+    {
+      "id": 2028,
+      "value": "Role Playing"
+    },
+    {
+      "id": 2822,
+      "value": "Scenario / Mission / Campaign Game"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 3100,
+      "value": "Tags"
+    },
+    {
+      "id": 2829,
+      "value": "Turn Order: Claim Action"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 18459,
+      "value": "Components: Clix"
+    },
+    {
+      "id": 25158,
+      "value": "Components: Miniatures"
+    },
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "id": 33758,
+      "value": "Setting: Mage Knight"
+    }
+  ],
+  "bggRank": 39,
+  "bggRating": 8.08233,
+  "image": "/jeux/images/mage-knight.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__original/img/PDDH38Vf9NEB_4ODURxcJKNBfVQ=/0x0/filters:format(jpeg)/pic1083380.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire. Build your army, fill your deck with powerful spells and actions, explore caves and dungeons, and eventually conquer powerful cities controlled by this once-great faction!  In competitive scenarios, opposing players may be powerful allies, but only one will be able to claim the land as their own.  In cooperative scenarios, the players win or lose as a group.  Solo rules are also included.\n\nCombining elements of RPGs, deck-building, and traditional board games the Mage Knight board game captures the rich history of the Mage Knight universe in a self-contained gaming experience.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:13.197Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

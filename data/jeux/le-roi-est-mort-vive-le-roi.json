@@ -1,0 +1,136 @@
+{
+  "slug": "le-roi-est-mort-vive-le-roi",
+  "bggId": 319966,
+  "nom": "Le Roi est Mort, Vive le Roi !",
+  "nomOriginal": "The King Is Dead: Second Edition",
+  "anneeSortie": 2020,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    2,
+    3,
+    4
+  ],
+  "dureeMin": 30,
+  "dureeMax": 45,
+  "ageMin": 14,
+  "poidsRegles": 2.1694,
+  "designers": [
+    "Peer Sylvester"
+  ],
+  "artistes": [
+    "Benoit Billion",
+    "Peer Sylvester"
+  ],
+  "editeurs": [
+    "Osprey Games",
+    "Doit Games",
+    "Fox in the Box",
+    "Giant Roc",
+    "MEBO Games",
+    "Ogry Games",
+    "Origames",
+    "Studio Supernova",
+    "YOKA Games"
+  ],
+  "editeurFrancophone": "Origames",
+  "categoriesBGG": [
+    {
+      "id": 1035,
+      "value": "Medieval"
+    },
+    {
+      "id": 1001,
+      "value": "Political"
+    },
+    {
+      "id": 1019,
+      "value": "Wargame"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2018,
+      "value": "Campaign / Battle Card Driven"
+    },
+    {
+      "id": 2893,
+      "value": "Communication Limits"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2960,
+      "value": "Map Reduction"
+    },
+    {
+      "id": 2047,
+      "value": "Memory"
+    },
+    {
+      "id": 2005,
+      "value": "Stock Holding"
+    },
+    {
+      "id": 2897,
+      "value": "Variable Set-up"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 26432,
+      "value": "Category: Combinatorial"
+    },
+    {
+      "id": 64960,
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "id": 14759,
+      "value": "Country: England"
+    },
+    {
+      "id": 13105,
+      "value": "Country: Scotland"
+    },
+    {
+      "id": 13106,
+      "value": "Country: Wales"
+    },
+    {
+      "id": 22135,
+      "value": "Crowdfunding: Spieleschmiede"
+    },
+    {
+      "id": 115716,
+      "value": "Game:  The King Is Dead"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    }
+  ],
+  "bggRank": 371,
+  "bggRating": 7.58592,
+  "image": "/jeux/images/le-roi-est-mort-vive-le-roi.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/p8ATnANurMdieJUELqN3IA__original/img/bnDn1undC8Pf6iAICKSv-4RaJXs=/0x0/filters:format(jpeg)/pic5680120.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "The King is dead. The kingdom is divided. Three factions &mdash; the Scottish, the Welsh, and the English &mdash; vie for control and, across the sea, foreign invaders prepare to take advantage of the chaos. Players must marshal their limited resources to influence this power struggle, while ensuring that the faction that rises to dominate the realm favors them above all other claimants to the throne.\n\nThe King is Dead: Second Edition refreshes the accessible yet strikingly deep game with updated graphic design, gorgeous new artwork, and a brand-new asymmetric game mode for advanced play.",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:56.790Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

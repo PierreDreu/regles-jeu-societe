@@ -1,0 +1,152 @@
+{
+  "slug": "it-s-a-wonderful-world",
+  "bggId": 271324,
+  "nom": "It's a Wonderful World",
+  "nomOriginal": null,
+  "anneeSortie": 2019,
+  "joueursMin": 1,
+  "joueursMax": 5,
+  "joueursRecommandes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "dureeMin": 45,
+  "dureeMax": 45,
+  "ageMin": 14,
+  "poidsRegles": 2.3247,
+  "designers": [
+    "Frédéric Guérard"
+  ],
+  "artistes": [
+    "Anthony Wolff"
+  ],
+  "editeurs": [
+    "La Boîte de Jeu",
+    "Blackrock Games",
+    "Engames",
+    "Evrikus",
+    "Fantasmagoria",
+    "FoxGames",
+    "Galápagos Jogos",
+    "Geronimo Games",
+    "Kilogames",
+    "Kobold Spieleverlag",
+    "Lautapelit.fi",
+    "Lucky Duck Games",
+    "MEBO Games",
+    "MTS Games",
+    "One Moment Games",
+    "Origames",
+    "Reflexshop",
+    "Studio Supernova",
+    "TLAMA games",
+    "Tranjis Games"
+  ],
+  "editeurFrancophone": "La Boîte de Jeu",
+  "categoriesBGG": [
+    {
+      "id": 1002,
+      "value": "Card Game"
+    },
+    {
+      "id": 1015,
+      "value": "Civilization"
+    },
+    {
+      "id": 1021,
+      "value": "Economic"
+    },
+    {
+      "id": 1016,
+      "value": "Science Fiction"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2984,
+      "value": "Closed Drafting"
+    },
+    {
+      "id": 2875,
+      "value": "End Game Bonuses"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2902,
+      "value": "Income"
+    },
+    {
+      "id": 2004,
+      "value": "Set Collection"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2819,
+      "value": "Solo / Solitaire Game"
+    },
+    {
+      "id": 2015,
+      "value": "Variable Player Powers"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 65191,
+      "value": "Components: Multi-Use Cards"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 22135,
+      "value": "Crowdfunding: Spieleschmiede"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 80918,
+      "value": "Digital Implementations: Game Park"
+    },
+    {
+      "id": 99075,
+      "value": "Game: It&#039;s a Wonderful World"
+    },
+    {
+      "id": 27646,
+      "value": "Mechanism: Tableau Building"
+    },
+    {
+      "id": 5666,
+      "value": "Players: Games with Solitaire Rules"
+    }
+  ],
+  "bggRank": 185,
+  "bggRating": 7.62695,
+  "image": "/jeux/images/it-s-a-wonderful-world.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__original/img/sN8TnSkFGCzNM01b_drFxwYnqlM=/0x0/filters:format(jpeg)/pic4651175.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "In It&rsquo;s a Wonderful World, you are an expanding Empire and must choose your path to your future. You must develop faster and better than your competitors. You&rsquo;ll carefully plan your expansion to develop your production power and rule over this new world.\n\nIt&rsquo;s a Wonderful World is a cards drafting and engine building game from 1 to 5 players. Each round, players will draft 7 cards and then choose which ones will be recycled to immediately acquire Resources, and which ones will be kept for construction to produce Resources each round and/or gain victory points.\n\nWhen a card is fully built, it&rsquo;s added to the player&rsquo;s Empire to increase the player&rsquo;s production capacity for each round. The mechanical twist being that the production phase works in a specific order. You'll have to plan your constructions carefully!\n\nFor a deeper insight of the gameplay, please follow this link : It's a Wonderful World - First steps\n\nIn addition to the base game, players can also enjoy expansions boxes introducing an innovative Campaign mode. Each Campaign offers a storyline to follow and many gameplay twists. At the end of each campaign, players will open a reward booster to unlock new cards, enhance their base game and keep a memory of what happened during the campaign. All the campaigns can be replayed and don&rsquo;t imply game components destruction.\n\nMore info on the Campaign mode : It's a Wonderful World - Campaign Mode \n\n&mdash;description from the publisher",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:31.857Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}

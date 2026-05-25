@@ -1,0 +1,201 @@
+{
+  "slug": "blood-rage",
+  "bggId": 170216,
+  "nom": "Blood Rage",
+  "nomOriginal": null,
+  "anneeSortie": 2015,
+  "joueursMin": 2,
+  "joueursMax": 4,
+  "joueursRecommandes": [
+    3,
+    4
+  ],
+  "dureeMin": 60,
+  "dureeMax": 90,
+  "ageMin": 14,
+  "poidsRegles": 2.882,
+  "designers": [
+    "Eric M. Lang"
+  ],
+  "artistes": [
+    "Henning Ludvigsen",
+    "Thierry Masson",
+    "Mike McVey",
+    "Adrian Smith"
+  ],
+  "editeurs": [
+    "Cool Mini Or Not",
+    "Arclight Games",
+    "asmodee",
+    "Asterion Press",
+    "BoardM Factory",
+    "CMON Global Limited",
+    "CrowD Games",
+    "Delta Vision Publishing",
+    "Edge Entertainment",
+    "Fantasmagoria",
+    "Galápagos Jogos",
+    "Game Harbor",
+    "Geekach LLC",
+    "Guillotine Games",
+    "MIPL",
+    "Portal Games",
+    "Rexhry"
+  ],
+  "editeurFrancophone": "Asmodee",
+  "categoriesBGG": [
+    {
+      "id": 1010,
+      "value": "Fantasy"
+    },
+    {
+      "id": 1046,
+      "value": "Fighting"
+    },
+    {
+      "id": 1047,
+      "value": "Miniatures"
+    },
+    {
+      "id": 1082,
+      "value": "Mythology"
+    }
+  ],
+  "mecaniquesBGG": [
+    {
+      "id": 2001,
+      "value": "Action Points"
+    },
+    {
+      "id": 2080,
+      "value": "Area Majority / Influence"
+    },
+    {
+      "id": 2046,
+      "value": "Area Movement"
+    },
+    {
+      "id": 2857,
+      "value": "Card Play Conflict Resolution"
+    },
+    {
+      "id": 2984,
+      "value": "Closed Drafting"
+    },
+    {
+      "id": 2912,
+      "value": "Contracts"
+    },
+    {
+      "id": 2040,
+      "value": "Hand Management"
+    },
+    {
+      "id": 2837,
+      "value": "Interrupts"
+    },
+    {
+      "id": 2960,
+      "value": "Map Reduction"
+    },
+    {
+      "id": 2047,
+      "value": "Memory"
+    },
+    {
+      "id": 2020,
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "id": 2686,
+      "value": "Take That"
+    },
+    {
+      "id": 2828,
+      "value": "Turn Order: Progressive"
+    }
+  ],
+  "famillesBGG": [
+    {
+      "id": 110270,
+      "value": "Animals: Wild boar"
+    },
+    {
+      "id": 77906,
+      "value": "Category: DIZED Tutorial"
+    },
+    {
+      "id": 66553,
+      "value": "Components: Control Boards"
+    },
+    {
+      "id": 68558,
+      "value": "Components: Dynamic Event Boards"
+    },
+    {
+      "id": 64960,
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "id": 25158,
+      "value": "Components: Miniatures"
+    },
+    {
+      "id": 5615,
+      "value": "Creatures: Monsters"
+    },
+    {
+      "id": 8374,
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "id": 70360,
+      "value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "id": 77349,
+      "value": "Digital Implementations: Steam"
+    },
+    {
+      "id": 73596,
+      "value": "Digital Implementations: TableTop Simulator Mod (TTS)"
+    },
+    {
+      "id": 53502,
+      "value": "Game: Blood Rage"
+    },
+    {
+      "id": 78198,
+      "value": "Misc: Watch It Played How To Videos"
+    },
+    {
+      "id": 62773,
+      "value": "Mythology: Norse"
+    },
+    {
+      "id": 113768,
+      "value": "Players: Games with expansions that change player count"
+    },
+    {
+      "id": 5613,
+      "value": "Theme: Vikings"
+    }
+  ],
+  "bggRank": 65,
+  "bggRating": 7.89737,
+  "image": "/jeux/images/blood-rage.jpg",
+  "imageUrlSource": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__original/img/Myy6IPDJDzLoPdXrPXVZcddBQoQ=/0x0/filters:format(jpeg)/pic2439223.jpg",
+  "pdfUrlSource": null,
+  "descriptionEN": "\"Life is Battle; Battle is Glory; Glory is ALL\"\n\nIn Blood Rage, players control the warriors, leader, and ship of their own Viking clan. Ragnar&ouml;k has come and it&rsquo;s the end of the world! It&rsquo;s the Vikings&rsquo; last chance to go down in a blaze of glory and secure their places in Valhalla at Odin&rsquo;s side! As a Viking you can pursue one of many pathways to glory. You can: invade and pillage the land for its rewards; crush your opponents in battle: fulfill quests: increase your clan's stats: or even die gloriously in battle or from Ragnar&ouml;k, the ultimate inescapable doom.\n\nMost player strategies are guided by the cards drafted at the beginning of each of the three game rounds (or Ages). These &ldquo;Gods&rsquo; Gifts&rdquo; grant you numerous boons for your clan including: increased Viking strength and devious battle strategies, upgrades to your clan, or even the aid of legendary creatures from Norse mythology. They may also include various quests, from dominating specific provinces, to having many of your Vikings sent to Valhalla. Most of these cards are aligned with one of the Norse gods, hinting at the kind of strategy they support. For example, Thor gives more glory for victory in battle. Heimdall grants you foresight and surprises. Tyr strengthens you in battle, while the trickster Loki actually rewards you for losing battles or punishes the winner.\n\nPlayers must choose their strategies carefully during the draft phase, but also be ready to adapt and react to their opponents&rsquo; strategies as the action phase unfolds. Battles are decided not only by the strength of the figures involved but also by cards played in secret. By observing your opponent&rsquo;s actions and allegiances to specific gods you may predict what card they are likely to play, and plan accordingly. Winning battles is not always the best course of action, as the right card can get you even more rewards by being crushed. The only losing strategy in Blood Rage is to shy away from battle and a glorious death!",
+  "presentation": null,
+  "materiel": null,
+  "miseEnPlace": null,
+  "deroulement": null,
+  "finDePartie": null,
+  "variantes": null,
+  "astuces": null,
+  "relueParHumain": false,
+  "dateImportBGG": "2026-05-25T11:00:58.589Z",
+  "dateGeneration": null,
+  "dateRelecture": null
+}
