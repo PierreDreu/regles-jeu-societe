@@ -1,0 +1,38 @@
+{
+  "_description": "URLs des PDF de règles officielles pour chaque jeu, source 'éditeur'. Renseignées manuellement après vérification. Le script fetch-pdf.ts utilise ce seed pour télécharger les PDF en local et mettre à jour data/jeux/[slug].json.",
+  "_format": {
+    "slug": "doit correspondre au slug du fichier data/jeux/[slug].json",
+    "bggId": "BGG ID pour double-vérification",
+    "pdfUrl": "URL directe du PDF (préférer la version FR si disponible)",
+    "sourcePage": "URL de la page éditeur où le PDF est référencé (pour audit/lien sortant)",
+    "langue": "fr | en | autre — privilégier fr",
+    "editeurAffiche": "Nom de l'éditeur tel qu'on l'affichera sur la fiche (crédit)",
+    "note": "optionnel — remarques (édition spécifique, multipage, etc.)"
+  },
+  "urls": {
+    "catan": {
+      "bggId": 13,
+      "pdfUrl": "https://cdn.svc.asmodee.net/production-asmodeeca/uploads/2025/11/CATAN-REGLES.pdf",
+      "sourcePage": "https://www.asmodee.fr/catan/",
+      "langue": "fr",
+      "editeurAffiche": "Kosmos / Asmodee",
+      "note": "PDF officiel hébergé sur le CDN Asmodee (production-asmodeeca)"
+    },
+    "dixit": {
+      "bggId": 39856,
+      "pdfUrl": "https://cdn.svc.asmodee.net/production-libellud/uploads/2024/04/ODYSSEY_REFRESH_RULES_FR.pdf",
+      "sourcePage": "https://www.libellud.com/our-games/dixit/",
+      "langue": "fr",
+      "editeurAffiche": "Libellud",
+      "note": "PDF officiel des règles unifiées du Dixit Universe (Odyssey Refresh), applicables à toute la gamme"
+    },
+    "7-wonders-duel": {
+      "bggId": 173346,
+      "pdfUrl": "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/fr/7du-rules-fr-1599056130lyX89.pdf",
+      "sourcePage": "https://rprod.com/jeux/7-wonders-duel",
+      "langue": "fr",
+      "editeurAffiche": "Repos Production",
+      "note": "PDF officiel Repos Production sur CDN Asmodee"
+    }
+  }
+}
