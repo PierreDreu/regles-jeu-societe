@@ -1,0 +1,65 @@
+---
+import "../styles/global.css";
+
+export interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+}
+
+const { title, description, canonical } = Astro.props;
+const siteName = "Règles de Jeu de Société";
+const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
+const defaultDesc =
+  "Annuaire et règles officielles de jeux de société en français. Trouvez le jeu parfait selon vos critères et téléchargez ses règles au format PDF.";
+const desc = description ?? defaultDesc;
+const url = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
+---
+
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={desc} />
+    <link rel="canonical" href={url} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:url" content={url} />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:site_name" content={siteName} />
+    <meta name="generator" content={Astro.generator} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-header__brand" href="/">Règles de Jeu de Société</a>
+        <nav class="site-nav" aria-label="Navigation principale">
+          <a href="/jeux">Tous les jeux</a>
+          <a href="/a-propos">À propos</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>
+          regles-jeu-societe.fr — Annuaire et règles de jeux de société en
+          français.
+        </p>
+        <p>
+          Métadonnées issues de <a
+            href="https://boardgamegeek.com"
+            rel="external noopener">BoardGameGeek</a
+          > sous attribution. PDF officiels hébergés avec crédit éditeur.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

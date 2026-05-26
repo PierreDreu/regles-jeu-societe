@@ -1,25 +1,14 @@
 {
+  "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
-    "target": "ES2022",
-    "module": "ESNext",
-    "moduleResolution": "Bundler",
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "noUncheckedIndexedAccess": true,
-    "skipLibCheck": true,
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "verbatimModuleSyntax": false,
-    "types": ["node"],
-    "outDir": "./dist",
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
       "@scripts/*": ["./scripts/*"]
-    }
+    },
+    "resolveJsonModule": true,
+    "types": ["astro/client", "node"]
   },
-  "include": ["scripts/**/*.ts", "src/**/*.ts"],
+  "include": [".astro/types.d.ts", "src/**/*", "scripts/**/*.ts", "astro.config.mjs"],
   "exclude": ["node_modules", "dist", "data"]
 }

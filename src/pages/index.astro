@@ -1,0 +1,75 @@
+---
+import Layout from "../layouts/Layout.astro";
+import JeuCard from "../components/JeuCard.astro";
+import { loadJeux } from "../lib/jeux";
+
+const jeux = loadJeux();
+const total = jeux.length;
+const avecPdf = jeux.filter((j) => j.pdfServingMode === "local").length;
+const vedettes = jeux
+  .filter((j) => j.pdfServingMode === "local")
+  .slice(0, 6);
+---
+
+<Layout title="Règles de Jeu de Société">
+  <section class="hero">
+    <h1>Trouvez les règles de votre prochain jeu de société.</h1>
+    <p class="hero__lead">
+      Un annuaire francophone de jeux de société avec recherche par critères
+      (joueurs, durée, complexité…) et téléchargement direct des règles
+      officielles au format PDF.
+    </p>
+    <p class="hero__stats">
+      <strong>{total}</strong> {total > 1 ? "jeux" : "jeu"} indexé{total > 1 ? "s" : ""}
+      · <strong>{avecPdf}</strong> avec PDF officiel
+    </p>
+    <p>
+      <a class="btn" href="/jeux">Parcourir l'annuaire</a>
+    </p>
+  </section>
+
+  {
+    vedettes.length > 0 && (
+      <section class="featured">
+        <h2>En vedette</h2>
+        <p class="featured__sub">
+          Quelques jeux dont les règles officielles sont disponibles dès maintenant.
+        </p>
+        <div class="grid">
+          {vedettes.map((jeu) => <JeuCard jeu={jeu} />)}
+        </div>
+      </section>
+    )
+  }
+</Layout>
+
+<style>
+  .hero {
+    padding: 3rem 0 2rem;
+    max-width: 720px;
+  }
+  .hero h1 {
+    margin-bottom: 1rem;
+  }
+  .hero__lead {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+    margin-bottom: 1rem;
+  }
+  .hero__stats {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+  .featured {
+    padding: 2rem 0;
+  }
+  .featured__sub {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.25rem;
+  }
+</style>

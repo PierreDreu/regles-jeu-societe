@@ -1,0 +1,302 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import {
+  loadJeux,
+  formatJoueurs,
+  formatDuree,
+  formatComplexite,
+  type Jeu,
+} from "../../lib/jeux";
+
+export function getStaticPaths() {
+  return loadJeux().map((jeu) => ({
+    params: { slug: jeu.slug },
+    props: { jeu },
+  }));
+}
+
+interface Props {
+  jeu: Jeu;
+}
+
+const { jeu } = Astro.props as Props;
+
+const hasLocalPdf =
+  jeu.pdfServingMode === "local" && jeu.pdfLocal;
+const pdfTailleMb =
+  jeu.pdfTailleOctets != null
+    ? (jeu.pdfTailleOctets / (1024 * 1024)).toFixed(1)
+    : null;
+
+const description = jeu.descriptionEN
+  ? jeu.descriptionEN.slice(0, 200).replace(/\s+\S*$/, "") + "…"
+  : `Fiche de ${jeu.nom}, jeu de société pour ${formatJoueurs(jeu)} joueurs, ${formatDuree(jeu)}.`;
+---
+
+<Layout title={jeu.nom} description={description}>
+  <nav class="breadcrumbs" aria-label="Fil d'Ariane">
+    <a href="/">Accueil</a> ›
+    <a href="/jeux">Tous les jeux</a> ›
+    <span>{jeu.nom}</span>
+  </nav>
+
+  <article class="fiche">
+    <header class="fiche__head">
+      {
+        jeu.image && (
+          <img
+            class="fiche__cover"
+            src={jeu.image}
+            alt={`Jaquette de ${jeu.nom}`}
+          />
+        )
+      }
+      <div class="fiche__intro">
+        <h1>{jeu.nom}</h1>
+        {
+          jeu.nomOriginal && jeu.nomOriginal !== jeu.nom && (
+            <p class="fiche__alt">titre original : {jeu.nomOriginal}</p>
+          )
+        }
+        <dl class="fiche__caracs">
+          <div><dt>Joueurs</dt><dd>{formatJoueurs(jeu)}</dd></div>
+          <div><dt>Durée</dt><dd>{formatDuree(jeu)}</dd></div>
+          <div><dt>Âge</dt><dd>{jeu.ageMin ? `${jeu.ageMin}+` : "—"}</dd></div>
+          <div>
+            <dt>Complexité</dt>
+            <dd>{formatComplexite(jeu.poidsRegles)}</dd>
+          </div>
+          {
+            jeu.anneeSortie && (
+              <div><dt>Sortie</dt><dd>{jeu.anneeSortie}</dd></div>
+            )
+          }
+          {
+            jeu.designers.length > 0 && (
+              <div>
+                <dt>Auteur{jeu.designers.length > 1 ? "s" : ""}</dt>
+                <dd>{jeu.designers.join(", ")}</dd>
+              </div>
+            )
+          }
+          {
+            jeu.editeurFrancophone && (
+              <div>
+                <dt>Éditeur FR</dt><dd>{jeu.editeurFrancophone}</dd>
+              </div>
+            )
+          }
+          {
+            jeu.bggRank && (
+              <div>
+                <dt>Classement BGG</dt><dd>#{jeu.bggRank}</dd>
+              </div>
+            )
+          }
+        </dl>
+      </div>
+    </header>
+
+    {
+      hasLocalPdf ? (
+        <section class="pdf-block">
+          <h2>Règles du jeu</h2>
+          <p>
+            Les règles officielles
+            {jeu.pdfLangue === "fr" && (
+              <>
+                {" "}en <strong>français</strong>
+              </>
+            )}
+            {jeu.pdfEditeurAffiche && (
+              <>
+                {" "}publiées par <strong>{jeu.pdfEditeurAffiche}</strong>
+              </>
+            )}
+            {" "}sont disponibles au téléchargement ci-dessous.
+          </p>
+          <p>
+            <a class="btn" href={jeu.pdfLocal} target="_blank" rel="noopener">
+              📄 Télécharger les règles officielles
+              {pdfTailleMb && (
+                <span class="btn__meta"> (PDF, {pdfTailleMb} Mo)</span>
+              )}
+            </a>
+          </p>
+          {
+            jeu.pdfSourcePage && (
+              <p class="pdf-block__source">
+                Source :{" "}
+                <a href={jeu.pdfSourcePage} rel="external noopener">
+                  page éditeur officielle
+                </a>
+              </p>
+            )
+          }
+        </section>
+      ) : (
+        <section class="pdf-block pdf-block--missing">
+          <h2>Règles du jeu</h2>
+          <p>
+            Les règles officielles de {jeu.nom} ne sont pas encore disponibles
+            sur ce site. Nous travaillons à les ajouter.
+          </p>
+        </section>
+      )
+    }
+
+    {
+      (jeu.categoriesBGG.length > 0 || jeu.mecaniquesBGG.length > 0) && (
+        <section class="tags">
+          {jeu.categoriesBGG.length > 0 && (
+            <div>
+              <h3>Catégories</h3>
+              <ul>
+                {jeu.categoriesBGG.map((c) => (
+                  <li>{c.value}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {jeu.mecaniquesBGG.length > 0 && (
+            <div>
+              <h3>Mécaniques</h3>
+              <ul>
+                {jeu.mecaniquesBGG.map((m) => (
+                  <li>{m.value}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </section>
+      )
+    }
+
+    <section class="bgg-link">
+      <p>
+        <a
+          href={`https://boardgamegeek.com/boardgame/${jeu.bggId}`}
+          rel="external noopener"
+        >
+          Voir la fiche de {jeu.nom} sur BoardGameGeek →
+        </a>
+      </p>
+    </section>
+  </article>
+</Layout>
+
+<style>
+  .breadcrumbs {
+    padding: 1rem 0;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+  .breadcrumbs a {
+    color: var(--color-text-muted);
+  }
+  .fiche {
+    padding-bottom: 3rem;
+  }
+  .fiche__head {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+  }
+  @media (max-width: 720px) {
+    .fiche__head {
+      grid-template-columns: 1fr;
+    }
+  }
+  .fiche__cover {
+    width: 100%;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+  }
+  .fiche__intro h1 {
+    margin-bottom: 0.25rem;
+  }
+  .fiche__alt {
+    color: var(--color-text-muted);
+    margin: 0 0 1rem;
+    font-style: italic;
+  }
+  .fiche__caracs {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem 1.5rem;
+    margin: 1rem 0 0;
+  }
+  .fiche__caracs div {
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 0.4rem;
+  }
+  .fiche__caracs dt {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+  }
+  .fiche__caracs dd {
+    margin: 0.1rem 0 0;
+    font-weight: 500;
+  }
+  .pdf-block {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .pdf-block--missing {
+    background: #fafaf6;
+    color: var(--color-text-muted);
+  }
+  .pdf-block h2 {
+    margin-top: 0;
+  }
+  .btn__meta {
+    font-weight: 400;
+    opacity: 0.85;
+  }
+  .pdf-block__source {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin: 0.75rem 0 0;
+  }
+  .tags {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  @media (max-width: 720px) {
+    .tags {
+      grid-template-columns: 1fr;
+    }
+  }
+  .tags h3 {
+    font-size: 1rem;
+    margin: 0 0 0.5rem;
+  }
+  .tags ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .tags li {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    padding: 0.25rem 0.6rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+  }
+  .bgg-link {
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border);
+    font-size: 0.9rem;
+  }
+</style>

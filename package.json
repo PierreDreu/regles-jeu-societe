@@ -5,6 +5,10 @@
   "type": "module",
   "description": "Site regles-jeu-societe.fr — annuaire et règles de jeux de société en français",
   "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
     "fetch:bgg": "tsx scripts/fetch-bgg.ts",
     "fetch:pdf": "tsx scripts/fetch-pdf.ts",
     "build:lists": "tsx scripts/build-lists.ts",
@@ -16,6 +20,7 @@
     "typescript": "^5.7.0"
   },
   "dependencies": {
+    "astro": "^6.3.7",
     "fast-xml-parser": "^4.5.0"
   }
 }

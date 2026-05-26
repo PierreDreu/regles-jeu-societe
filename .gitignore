@@ -1,9 +1,14 @@
 node_modules/
 dist/
+.astro/
 .env
 .env.local
 *.log
 .DS_Store
+
+# Symlinks vers data/jeux/{images,pdf} (les fichiers sont dans data/, pas dupliqués ici)
+public/jeux/images
+public/jeux/pdf
 
 .claude/
 .vscode/

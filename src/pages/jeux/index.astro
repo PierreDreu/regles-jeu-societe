@@ -1,0 +1,40 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import JeuCard from "../../components/JeuCard.astro";
+import { loadJeux } from "../../lib/jeux";
+
+const jeux = loadJeux();
+---
+
+<Layout
+  title="Tous les jeux"
+  description={`Catalogue de ${jeux.length} jeux de société avec leurs règles. Filtrez par nombre de joueurs, durée, âge, complexité et plus.`}
+>
+  <section class="page-head">
+    <h1>Tous les jeux</h1>
+    <p class="page-head__sub">
+      {jeux.length} {jeux.length > 1 ? "jeux indexés" : "jeu indexé"}, triés par
+      classement BoardGameGeek.
+    </p>
+  </section>
+
+  <div class="grid">
+    {jeux.map((jeu) => <JeuCard jeu={jeu} />)}
+  </div>
+</Layout>
+
+<style>
+  .page-head {
+    padding: 2rem 0 1.5rem;
+  }
+  .page-head__sub {
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.25rem;
+    padding-bottom: 2rem;
+  }
+</style>
