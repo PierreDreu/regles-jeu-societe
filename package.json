@@ -12,10 +12,12 @@
     "fetch:bgg": "tsx scripts/fetch-bgg.ts",
     "fetch:pdf": "tsx scripts/fetch-pdf.ts",
     "build:lists": "tsx scripts/build-lists.ts",
-    "generate:rules": "tsx scripts/generate-rules.ts"
+    "generate:rules": "tsx scripts/generate-rules.ts",
+    "deploy": "npm run build && tsx scripts/deploy.ts"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
+    "basic-ftp": "^6.0.1",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0"
   },
